@@ -1,0 +1,4637 @@
+{
+  "matthew": [
+    {
+      "id": "6fe38b3e-dbe4-406b-a9e6-16c991566bbb",
+      "query": "RTX 5090",
+      "timestamp": "2026-05-18T12:13:21.978388",
+      "results": [
+        {
+          "color": "#FF9900",
+          "currency": "EGP",
+          "price": 18637.26,
+          "price_egp": 18637.26,
+          "product": "MSI \u0628\u0637\u0627\u0642\u0629 \u0631\u0633\u0648\u0645\u0627\u062a \u0644\u0644\u0627\u0644\u0639\u0627\u0628 RTX 5050 8G \u0634\u0627\u062f\u0648 2X OC (8GB GDDR6\u060c 128 \u0628\u062a\u060c \u0627\u062f\u0627\u0621 \u0641\u0627\u0626\u0642: 2",
+          "product_url": "https://www.amazon.eg/RTX-5050-8G-2X-OC/dp/B0FFVFD58L/ref=sr_1_4?dib=eyJ2IjoiMSJ9.6TW4YCBVUFex9n6WPCafKJYIuuJA4Kj47LUSYFUMBq9Sr8WaSf3cZk1F3RwdoOXZ2z0QWeMw_4AbCZAd9nVP2VPRHORY6tPQcUYleAAwUBOIxtuha5AzOuqI1Cf6JBP92oJgG-T7sgc-aHQXH0u7c6NGhGT93YH-TCxpAgDStRyrWMCV4UYjtuoM_5uRPm7uhHnOx7DwsuKLSKxjiJ8PaAjNvIb9VeFY7AaVKoB5cW0.1EX7OFNA5oROQsZk2QY7Bl46v8cu55h8w5Sr9VwB2hI&dib_tag=se&keywords=RTX+5090&qid=1779095572&sr=8-4",
+          "rating": 4.7,
+          "reviews": 145,
+          "site": "Amazon"
+        },
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 1985,
+          "price_egp": 105482.9,
+          "product": "ASUS TUF Gaming GeForce RTX 5090 32GB GDDR7 Gaming OC edition brand new SEALED",
+          "product_url": "https://www.ebay.com/itm/800018940117?_skw=RTX+5090&epid=11075131712&itmmeta=01KRX5RBW11KVQN873XVYNC7E5&hash=itemba44d840d5%3Ag%3ATdcAAeSwnlJqBe-8&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xCKPMJ7HgIKIXBnrgFKgDurxwEWKFVjC9L2F%2FNq5Rr7mFg14ioXh3800i%2BNyulZSJCNLaAuT9msh%2FC%2FI8bXJW%2BOBonB6qik4h%2BEGZUknmCMwmmw4Ie97XfPa8MZ%2B0adFV0HZErFR8PY%2BQSvPbkgwQI%2Byz9WqWluWBL%2FjcUKdc%2B1v4Q4cf%2Fsx5fashhy1HKn%2FEgC5ZvCiuL9txTTm1d5E5yotqg93G0zgNwkfZAHjvc3g5%2FSYV5QavJAH%2FzB77A1xo8%3D%7Ctkp%3ABk9SR46-4aXHZw&LH_ItemCondition=1000",
+          "rating": 0,
+          "reviews": 0,
+          "site": "eBay"
+        },
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 193921,
+          "price_egp": 193921,
+          "product": "Msi Vector 17 HX AI A2XWJG Gaming Laptop Intel Core Ultra 9 275HX 1TB SSD 32GB D",
+          "product_url": "https://www.noon.com/egypt-en/msi-vector-17-hx-ai-a2xwjg-gaming-laptop-intel-core-ultra-9-275hx-1tb-ssd-32gb-ddr5-ram-nvidia-geforce-rtx-5090-24gb-gddr7-17-qhd-2560x1600-240hz-ips-level-windows-11-cosmos-gray-cosmos-gray",
+          "rating": 0,
+          "reviews": 0,
+          "site": "Noon"
+        },
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 3898.99,
+          "price_egp": 207192.33,
+          "product": "PNY NVIDIA GeForce RTX\u2122 5090 OC Triple Fan, Graphics Card 32GB GDDR7, 3.5-Slot",
+          "product_url": "https://www.walmart.com/ip/PNY-GeForce-RTX-5090-Overclocked-Triple-Fan-GPU-DLSS4/15046623228?classType=VARIANT&athbdg=L1600",
+          "rating": 4.4,
+          "reviews": 81,
+          "site": "Walmart"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 253855,
+          "price_egp": 253855,
+          "product": "MSI Raider 18 HX AI A2XWJG (NVIDIA\u00ae GeForce RTX\u2122 5090 Laptop GPU, GDDR7 24GB)",
+          "product_url": "https://www.jumia.com.eg/msi-raider-18-hx-ai-a2xwjg-nvidiar-geforce-rtxtm-5090-laptop-gpu-gddr7-24gb-133751977.html",
+          "rating": 0,
+          "reviews": 0,
+          "site": "Jumia"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 155817.7,
+        "best_price": 18637.26,
+        "best_site": "Amazon",
+        "total_sites": 5,
+        "worst_price": 253855,
+        "worst_site": "Jumia"
+      }
+    },
+    {
+      "id": "b7fa202b-831e-473a-bfab-5ae977e87061",
+      "query": "iPhone 17 Pro Max",
+      "timestamp": "2026-05-18T12:08:52.365812",
+      "results": [
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 500,
+          "price_egp": 26570,
+          "product": "Apple iPhone 17 Pro Max 1TB Blue 48MP 6.1in iOS Smartphone",
+          "product_url": "https://www.ebay.com/itm/377188018147?_skw=iPhone+17+Pro+Max&epid=19085701792&itmmeta=01KRX5G663FQHQHQXQ7QTQFK7Q&hash=item57d22867e3%3Ag%3A5swAAeSwdJBqCA63&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDdb4jrdgDWFc%2BDtRdggpuvM1xbvexXWQAPKNs%2Ba%2FKIWuwFQLCkNnVdipHQnLbrPvvXoTSucgMg8cU2fCit6nH5qlxcaUR75qBgQV%2F7B5v6TLv4LFMFfrsnj43xu%2F31lAY%2BCP9B2tpalZWSXypzUlZ2eilfRGbGGh5n4RR0PhbTyJIDWM2LLEfkSTYfkTnQFphBkicRnMxveNhon9%2B4CA83VWP0RfY20BpQ%2FGZZaUX%2BYt3CbbThv8NMWHn7KyJ9wqryoyqPGpMsnG39GkN171xhtOFUJFTxykF6suEaAQg1QA%3D%3D%7Ctkp%3ABk9SR6DjwKXHZw&LH_ItemCondition=1000",
+          "rating": 0,
+          "reviews": 0,
+          "site": "eBay"
+        },
+        {
+          "color": "#FF9900",
+          "currency": "EGP",
+          "price": 94556.46,
+          "price_egp": 94556.46,
+          "product": "\u0627\u0628\u0644 \u0622\u064a\u0641\u0648\u0646 17 Pro (256 \u062c\u064a\u062c\u0627\u0628\u0627\u064a\u062a) - \u0628\u0631\u062a\u0642\u0627\u0644\u064a \u0643\u0648\u0646\u064a \u0645\u0639 \u062e\u0627\u0635\u064a\u0629 Face ID | \u0645\u062f\u0641\u0648\u0639 \u0627\u0644\u0636\u0631\u064a\u0628\u0629 ",
+          "product_url": "https://www.amazon.eg/%D8%A7%D8%A8%D9%84-%D8%A2%D9%8A%D9%81%D9%88%D9%86-Pro-256-%D8%AC%D9%8A%D8%AC%D8%A7%D8%A8%D8%A7%D9%8A%D8%AA/dp/B0FQFH7JVK/ref=sr_1_7?keywords=iPhone+17+Pro+Max&qid=1779095303&sr=8-7",
+          "rating": 4.2,
+          "reviews": 47,
+          "site": "Amazon"
+        },
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 100950,
+          "price_egp": 100950,
+          "product": "iPhone 17 Pro Max 256GB Cosmic Orange 5G (Nano SIM + eSIM) With FaceTime - Inter",
+          "product_url": "https://www.noon.com/egypt-en/iphone-17-pro-max-256gb-cosmic-orange-5g-nano-sim-esim-with-facetime-international-version",
+          "rating": 0,
+          "reviews": 23261,
+          "site": "Noon"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 102469,
+          "price_egp": 102469,
+          "product": "Apple iPhone 17 Pro Max 256GB Cosmic Orange",
+          "product_url": "https://www.jumia.com.eg/apple-iphone-17-pro-max-256gb-cosmic-orange-134004666.html",
+          "rating": 0,
+          "reviews": 0,
+          "site": "Jumia"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 81136.37,
+        "best_price": 26570,
+        "best_site": "eBay",
+        "total_sites": 4,
+        "worst_price": 102469,
+        "worst_site": "Jumia"
+      }
+    },
+    {
+      "id": "a06e863d-4317-412a-b836-664d44c86a83",
+      "query": "PlayStation 5",
+      "timestamp": "2026-05-17T02:15:35.984240",
+      "results": [
+        {
+          "color": "#FF9900",
+          "currency": "EGP",
+          "price": 4189,
+          "price_egp": 4189,
+          "product": "\u0630\u0631\u0627\u0639 \u062a\u062d\u0643\u0645 \u0644\u0627\u0633\u0644\u0643\u064a CFI-ZCT1W \u0628\u062d\u0633\u0627\u0633 \u062b\u0646\u0627\u0626\u064a \u0644\u0644\u0627\u0644\u0639\u0627\u0628 \u0644\u062c\u0647\u0627\u0632 \u0628\u0644\u0627\u064a \u0633\u062a\u064a\u0634\u0646 5 \u0645\u0646 \u0633\u0648\u0646\u064a \u0643\u0645\u0628\u064a\u0648\u062a",
+          "product_url": "https://www.amazon.eg/%D9%84%D8%A7%D8%B3%D9%84%D9%83%D9%8A-CFI-ZCT1W-%D9%84%D9%84%D8%A7%D9%84%D8%B9%D8%A7%D8%A8-%D9%83%D9%85%D8%A8%D9%8A%D9%88%D8%AA%D8%B1-%D8%A7%D9%86%D8%AA%D8%B1%D8%AA%D9%8A%D9%86%D9%85%D9%8A%D9%86%D8%AA/dp/B094WL86N5/ref=sr_1_5?keywords=PlayStation+5&qid=1778973297&sr=8-5",
+          "rating": 4.6,
+          "reviews": 2000,
+          "site": "Amazon"
+        },
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 300,
+          "price_egp": 15873,
+          "product": "Sony PlayStation 5 Digital Edition Console White Black 4K Wi-Fi HDR HDMI USB",
+          "product_url": "https://www.ebay.com/itm/406931501764?_skw=PlayStation+5&itmmeta=01KRSH51QXD003DVFCJT5XHAM8&hash=item5ebf01f2c4%3Ag%3A31kAAeSwkXBqCO5L&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAhZZdwwlz50UIjzRJvt5UJVerhaQl11wUkjbcbX8fgS68orqNGrD4gFACe0YWtSEbs2xxMlOSHdTDjFdt%2BXLe3i6bsDMzFrfYNbKVO352%2Fan57l01LrEckIa4lptcw33RIJNMAN1ZSbPDDz9mbsLmKMavCkODPPAgPi6Cu5lR1Han%2Bauj9x%2F4c4SKAZmx1NgstxmchCS4oiRLrAG9K41ur6dd7NHud8CqCvyILFpWXAERwfjrLybKAAPFSNvle7F5LDErvM9C5kvB6Ev9psA7AC5yBDMMlraV8Mjwj5zEcQw%3D%3D%7Ctkp%3ABk9SR6qclLHGZw&LH_ItemCondition=1000",
+          "rating": 0,
+          "reviews": 0,
+          "site": "eBay"
+        },
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 599,
+          "price_egp": 31693.09,
+          "product": "PlayStation 5 Digital Console Slim - 825GB",
+          "product_url": "https://www.walmart.com/ip/PlayStation-5-Digital-Console-Slim/17852302051?classType=REGULAR&athbdg=L1200",
+          "rating": 4.6,
+          "reviews": 13231,
+          "site": "Walmart"
+        },
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 34720,
+          "price_egp": 34720,
+          "product": "PlayStation 5 Slim Console (International Version) Digital Edition With Controll",
+          "product_url": "https://www.noon.com/egypt-en/playstation-5-slim-console-international-version-digital-edition-with-controller",
+          "rating": 0,
+          "reviews": 2892,
+          "site": "Noon"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 61999,
+          "price_egp": 61999,
+          "product": "Sony Sony PlayStation 5 Pro, 2TB SSD with Wireless Controller - White",
+          "product_url": "https://www.jumia.com.eg/sony-sony-playstation-5-pro-2tb-ssd-with-wireless-controller-white-131954893.html",
+          "rating": 5,
+          "reviews": 2,
+          "site": "Jumia"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 29694.82,
+        "best_price": 4189,
+        "best_site": "Amazon",
+        "total_sites": 5,
+        "worst_price": 61999,
+        "worst_site": "Jumia"
+      }
+    },
+    {
+      "id": "2408b29a-51d8-402a-9a0a-62d0c158784d",
+      "query": "iPhone 17 Pro Max",
+      "timestamp": "2026-05-17T02:12:33.204992",
+      "results": [
+        {
+          "color": "#FF9900",
+          "currency": "EGP",
+          "price": 79000,
+          "price_egp": 79000,
+          "product": "\u0627\u0628\u0644 \u0622\u064a\u0641\u0648\u0646 Air (256 \u062c\u064a\u062c\u0627\u0628\u0627\u064a\u062a) - \u0623\u0633\u0648\u062f \u0641\u0636\u0627\u0626\u064a \u0645\u0639 \u062e\u0627\u0635\u064a\u0629 Face ID | \u0645\u062f\u0641\u0648\u0639 \u0627\u0644\u0636\u0631\u064a\u0628\u0629 | \u0636\u0645\u0627",
+          "product_url": "https://www.amazon.eg/%D8%A7%D8%A8%D9%84-%D8%A2%D9%8A%D9%81%D9%88%D9%86-Air-256-%D8%AC%D9%8A%D8%AC%D8%A7%D8%A8%D8%A7%D9%8A%D8%AA/dp/B0FQFL5H5B/ref=sr_1_8?keywords=iPhone+17+Pro+Max&qid=1778973023&sr=8-8",
+          "rating": 4,
+          "reviews": 10,
+          "site": "Amazon"
+        },
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 101000,
+          "price_egp": 101000,
+          "product": "iPhone 17 Pro Max 256GB Cosmic Orange 5G (Nano SIM + eSIM) With FaceTime - Inter",
+          "product_url": "https://www.noon.com/egypt-en/iphone-17-pro-max-256gb-cosmic-orange-5g-nano-sim-esim-with-facetime-international-version",
+          "rating": 0,
+          "reviews": 23111,
+          "site": "Noon"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 102469,
+          "price_egp": 102469,
+          "product": "Apple iPhone 17 Pro Max 256GB Cosmic Orange",
+          "product_url": "https://www.jumia.com.eg/apple-iphone-17-pro-max-256gb-cosmic-orange-134004666.html",
+          "rating": 0,
+          "reviews": 0,
+          "site": "Jumia"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 94156.33,
+        "best_price": 79000,
+        "best_site": "Amazon",
+        "total_sites": 3,
+        "worst_price": 102469,
+        "worst_site": "Jumia"
+      }
+    },
+    {
+      "id": "9c653bfc-1baa-4504-bd9b-2a871132a5de",
+      "query": "iPhone 17 Pro Max",
+      "timestamp": "2026-05-17T02:10:41.049317",
+      "results": [
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 102469,
+          "price_egp": 102469,
+          "product": "Apple iPhone 17 Pro Max 256GB Cosmic Orange",
+          "product_url": "https://www.jumia.com.eg/apple-iphone-17-pro-max-256gb-cosmic-orange-134004666.html",
+          "rating": 0,
+          "reviews": 0,
+          "site": "Jumia"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 102469,
+        "best_price": 102469,
+        "best_site": "Jumia",
+        "total_sites": 1,
+        "worst_price": 102469,
+        "worst_site": "Jumia"
+      }
+    },
+    {
+      "id": "721dac8f-ec17-4e6f-8006-4c114db2a642",
+      "query": "Macbook Pro",
+      "timestamp": "2026-05-14T18:24:40.785752",
+      "results": [
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 42583,
+          "price_egp": 42583,
+          "product": "MacBook Neo | 13-Inch Display | A18 Pro, 6-core CPU, 5-core GPU, 16-core Neural ",
+          "product_url": "https://www.noon.com/egypt-en/macbook-neo-13-inch-display-a18-pro-6-core-cpu-5-core-gpu-16-core-neural-engine-processor-8gb-ram-256gb-ssd-english-and-arabic-keyboard-blush",
+          "rating": 0,
+          "reviews": 116,
+          "site": "Noon"
+        },
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 1746.5,
+          "price_egp": 92424.78,
+          "product": "Apple 14-inch MacBook Pro with M5 chip chip with 10 core CPU and 10 core GPU, 24",
+          "product_url": "https://www.walmart.com/ip/Apple-14-in-MacBook-Pro-M5-chip-w-10-core-CPU-and-10-core-GPU-1TB-SSD-Space-Black-MDE34LL-A-Oct-2025/18170756006?classType=VARIANT&athbdg=L1200",
+          "rating": 4.5,
+          "reviews": 115,
+          "site": "Walmart"
+        },
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 1899,
+          "price_egp": 100495.08,
+          "product": "New Sealed MacBook Pro 16-inch M4 Pro 24GB RAM 512GB SSD 20C GPU Space Black",
+          "product_url": "https://www.ebay.com/itm/277840945942?_skw=Macbook+Pro&itmmeta=01KRKHDBXBX60M0R79CP300MJE&hash=item40b09c6316%3Ag%3ApiMAAeSwoONpxu6D&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBqw0%2BUvqku7PakWEeF6CKVpx30%2FiuKH5osDmB%2FJHANCPmVUlaUip7zA9YsqkhyXMoj%2F74QAqLVPm7B1mFnsiCkVMFOHAuw7hMjIT39onTsfGsEJa41%2BLD55EFmYcZq4jbdn9JMdpFUIP%2FRRGRXLC1E%2BH0uKj7ekj1U0Fdygk52TYymOYL78En3tFxJKdzB8Oz13Rl7CDqMoQeMJR%2FOEWiADvqALMBcHssgWFOC6XRGAU3oHzEzvrqQbCK9NkoAP0bX2T8u%2Bogtl6E20Z%2B5w%2FMrhIOpSd4FAYoWC9y8Rk9Ppg%3D%3D%7Ctkp%3ABFBMjL-18cRn&LH_ItemCondition=1000",
+          "rating": 0,
+          "reviews": 0,
+          "site": "eBay"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 107000,
+          "price_egp": 107000,
+          "product": "Apple MacBook Pro 14 M4 10C CPU 10C GPU / 16GB / 1TB / Silver / AR",
+          "product_url": "https://www.jumia.com.eg/apple-macbook-pro-14-m4-10c-cpu-10c-gpu-16gb-1tb-silver-ar-134027149.html",
+          "rating": 0,
+          "reviews": 0,
+          "site": "Jumia"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 85625.71,
+        "best_price": 42583,
+        "best_site": "Noon",
+        "total_sites": 4,
+        "worst_price": 107000,
+        "worst_site": "Jumia"
+      }
+    },
+    {
+      "id": "d45d0285-a4f3-49e5-80d3-b265c98e7f54",
+      "query": "MacBook Air M4",
+      "timestamp": "2026-05-13T18:25:15.135109",
+      "results": [
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 710,
+          "price_egp": 37573.2,
+          "product": "Apple MacBook Air 13in White M4 16GB RAM 512GB SSD macOS Laptop",
+          "product_url": "https://www.ebay.com/itm/287316077412?_skw=MacBook+Air+M4&itmmeta=01KRGZ1RNZER1N7V6ZMSYR36P0&hash=item42e55f6b64%3Ag%3ATVAAAeSw2Cpp-52j&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBYrWyzWklhdHRWiSQKy6NOzrvKdJDyiAp%2BSTF%2BMHecMhwFNWcDA0WIqpQP3kwRChXf9eQghp%2B%2BEJIvpZDoVSbPEXGBdj8OKWaPdaRBe0RZvWcvS4%2BssL0AA%2Ba5L%2F3ELz%2FiU5v%2FYx0ljiyx%2FPLWiPsAzpsRkrrqLcCNyofqrBa4sV6QhmNuWGkbMzalqwQJSZf6rQglcSCPPl4OVvTN420gRpZP4I%2F1BcAv3Khebsl67WK1fcgeTvYDttXW2KDJ3a%2Fv96U5lSvogdAWvPfoHqBm8bCHfrucCg5ij4ECJS5AQQ%3D%3D%7Ctkp%3ABk9SR4iLh5_EZw&LH_ItemCondition=1000",
+          "rating": 0,
+          "reviews": 0,
+          "site": "eBay"
+        },
+        {
+          "color": "#FF9900",
+          "currency": "EGP",
+          "price": 58888.88,
+          "price_egp": 58888.88,
+          "product": "\u0644\u0627\u0628 \u062a\u0648\u0628 \u0645\u0627\u0643 \u0628\u0648\u0643 \u0627\u064a\u0631 2025 13 \u0628\u0648\u0635\u0629 \u0645\u0639 \u0634\u0631\u064a\u062d\u0629 M4 \u0645\u0646 \u0622\u0628\u0644 \u0634\u0627\u0634\u0629 \u0644\u064a\u0643\u0648\u064a\u062f \u0631\u064a\u062a\u064a\u0646\u0627 13.6 \u0628\u0648\u0635\u0629",
+          "product_url": "https://www.amazon.eg/%D9%84%D9%8A%D9%83%D9%88%D9%8A%D8%AF-%D8%B1%D9%8A%D8%AA%D9%8A%D9%86%D8%A7-%D8%A7%D8%A8%D9%84-%D8%A8%D8%A7%D9%84%D9%84%D9%85%D8%B3%D8%8C-%D9%85%D9%8A%D8%AF%D9%86%D8%A7%D9%8A%D8%AA/dp/B0DZD9S5GC/ref=sr_1_1?keywords=MacBook+Air+M4&qid=1778685885&sr=8-1",
+          "rating": 4.8,
+          "reviews": 2200,
+          "site": "Amazon"
+        },
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 59500,
+          "price_egp": 59500,
+          "product": "MacBook Air MC6T4 | 13 Inch Display | Apple M4 Chip | 10-Core CPU 8-Core GPU | 1",
+          "product_url": "https://www.noon.com/egypt-en/macbook-air-mc6t4-13-inch-display-apple-m4-chip-10-core-cpu-8-core-gpu-16gb-ram-256gb-ssd-macos-english-keyboard-international-version-english-sky-blue",
+          "rating": 0,
+          "reviews": 2465,
+          "site": "Noon"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 65900,
+          "price_egp": 65900,
+          "product": "Apple MacBook Air 13 M4 10C CPU 8C GPU / 16GB / 256GB",
+          "product_url": "https://www.jumia.com.eg/apple-macbook-air-13-m4-10c-cpu-8c-gpu-16gb-256gb-132350779.html",
+          "rating": 0,
+          "reviews": 0,
+          "site": "Jumia"
+        },
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 1379,
+          "price_egp": 72976.68,
+          "product": "Apple 15\" MacBook Air with M4 chip, 10-core CPU / 10-core GPU, 24GB Memory, 512G",
+          "product_url": "https://www.walmart.com/ip/Apple-15-inch-MacBook-Air-M4-w-10-core-CPU-and-10-core-GPU-512GB-SSD-Starlight-MC6K4LL-A-2025/15459473764?classType=VARIANT",
+          "rating": 4.5,
+          "reviews": 32,
+          "site": "Walmart"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 58967.75,
+        "best_price": 37573.2,
+        "best_site": "eBay",
+        "total_sites": 5,
+        "worst_price": 72976.68,
+        "worst_site": "Walmart"
+      }
+    },
+    {
+      "id": "80ee7373-3b4e-438a-b89d-2a481376d27f",
+      "query": "PlayStation 5",
+      "timestamp": "2026-05-10T03:31:32.162442",
+      "results": [
+        {
+          "color": "#FF9900",
+          "currency": "EGP",
+          "price": 4050,
+          "price_egp": 4050,
+          "product": "\u0630\u0631\u0627\u0639 \u062a\u062d\u0643\u0645 \u0644\u0627\u0633\u0644\u0643\u064a CFI-ZCT1W \u0628\u062d\u0633\u0627\u0633 \u062b\u0646\u0627\u0626\u064a \u0644\u0644\u0627\u0644\u0639\u0627\u0628 \u0644\u062c\u0647\u0627\u0632 \u0628\u0644\u0627\u064a \u0633\u062a\u064a\u0634\u0646 5 \u0645\u0646 \u0633\u0648\u0646\u064a \u0643\u0645\u0628\u064a\u0648\u062a",
+          "product_url": "https://www.amazon.eg/%D9%84%D8%A7%D8%B3%D9%84%D9%83%D9%8A-CFI-ZCT1W-%D9%84%D9%84%D8%A7%D9%84%D8%B9%D8%A7%D8%A8-%D9%83%D9%85%D8%A8%D9%8A%D9%88%D8%AA%D8%B1-%D8%A7%D9%86%D8%AA%D8%B1%D8%AA%D9%8A%D9%86%D9%85%D9%8A%D9%86%D8%AA/dp/B094WL86N5/ref=sr_1_5?keywords=PlayStation+5&qid=1778373060&sr=8-5",
+          "rating": 4.5,
+          "reviews": 2000,
+          "site": "Amazon"
+        },
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 549.99,
+          "price_egp": 28995.47,
+          "product": "Sony PlayStation 5 Slim Digital Edition Console 1TB \u2013 White \u2013 Brand New",
+          "product_url": "https://www.ebay.com/itm/157443413939?_skw=PlayStation+5&epid=10064168267&itmmeta=01KR7MQ30VVV763PMHYFB77PWF&hash=item24a85bd7b3%3Ag%3AyYYAAeSwSrhpC8D2&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xA3JAHn92MbWpmotSu0olS1ZGigbzdbwYU9RMb1EuyW5TwqiBb00XJBLfibQ4mdsfHGyp9m9I23CCiSGudvYWmUDnSJgnaEnxygw%2Bx8QNHntonABPd4nAhre8ZIVF7OpuhEW9HswfxIYAEYm22mYDA%2BhKR5mZ%2F%2BpzHh3hukSI3G398XiUBDEie%2FLkDIJrWBoLlkxsY%2F1Vyg970U1%2Fi4o29mTImfY%2BHFuUKfaAxZPpdR%2Fx9MftwKh8XujdCzXKsHHLWOqSeY60Zmtugw8lgiDmy%2FoCTUPp7Efa6GOaZcXebWUw%3D%3D%7Ctkp%3ABFBM5LDc9MFn&LH_ItemCondition=1000",
+          "rating": 4.5,
+          "reviews": 42,
+          "site": "eBay"
+        },
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 599,
+          "price_egp": 31579.28,
+          "product": "PlayStation 5 Digital Console Slim - 825GB",
+          "product_url": "https://www.walmart.com/ip/PlayStation-5-Digital-Console-Slim/17852302051?classType=REGULAR&athbdg=L1200",
+          "rating": 4.6,
+          "reviews": 13109,
+          "site": "Walmart"
+        },
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 34919,
+          "price_egp": 34919,
+          "product": "PlayStation 5 Slim Console (International Version) Digital Edition With Controll",
+          "product_url": "https://www.noon.com/egypt-en/playstation-5-slim-console-international-version-digital-edition-with-controller",
+          "rating": 0,
+          "reviews": 2880,
+          "site": "Noon"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 61999,
+          "price_egp": 61999,
+          "product": "Sony Sony PlayStation 5 Pro, 2TB SSD with Wireless Controller - White",
+          "product_url": "https://www.jumia.com.eg/sony-sony-playstation-5-pro-2tb-ssd-with-wireless-controller-white-131954893.html",
+          "rating": 5,
+          "reviews": 2,
+          "site": "Jumia"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 32308.55,
+        "best_price": 4050,
+        "best_site": "Amazon",
+        "total_sites": 5,
+        "worst_price": 61999,
+        "worst_site": "Jumia"
+      }
+    },
+    {
+      "id": "8d3cc06c-4fb5-4ea4-a07d-7924d1f8d057",
+      "query": "PlayStation 5",
+      "timestamp": "2026-05-08T23:48:12.232631",
+      "results": [
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 300,
+          "price_egp": 15816,
+          "product": "Sony PlayStation 5 Digital Edition 825GB Console White Black 4K HDR Wi-Fi HDMI",
+          "product_url": "https://www.ebay.com/itm/397905658545?_skw=PlayStation+5&itmmeta=01KR4NHGXF7Y4HT737WDZ88A55&hash=item5ca50682b1%3Ag%3AG2MAAeSwvb1p9ry9&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCKa%2B%2FYf23jna50gzPgg1KV9dg8b72SiyiW%2F5OW%2FCVTwkqR2dl%2B8ByOnXO3C2X86O3BKRtj6oKhT0oMy8xHu%2BLXvGKsX79S0msAX%2Fm2PqHnef%2Fu9NxlgES1QY7%2Ftrda%2BfTLIplDuJCTckFacoZ5c37dTzeGdPR6vOGX%2B3%2FxoYWyOGabkgIaq5SpDEDbzR%2BrxrdcWWNei9IKS7mII5TVspAcIRUjpc%2Bmelch8nlJO%2BLHMnzOkL6VQiftWHOpVD%2FGtbc47FMINAyCYpy70idBpTlBehJNGw61XF1MfVSdNDylCQ%3D%3D%7Ctkp%3ABk9SR5iPxpXBZw&LH_ItemCondition=1000",
+          "rating": 0,
+          "reviews": 0,
+          "site": "eBay"
+        },
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 569.99,
+          "price_egp": 30049.87,
+          "product": "PlayStation 5 Digital Console Slim - 825GB",
+          "product_url": "https://www.walmart.com/ip/PlayStation-5-Digital-Console-Slim/17852302051?classType=REGULAR&athbdg=L1103",
+          "rating": 4.6,
+          "reviews": 13104,
+          "site": "Walmart"
+        },
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 34920,
+          "price_egp": 34920,
+          "product": "PlayStation 5 Slim Console (International Version) Digital Edition With Controll",
+          "product_url": "https://www.noon.com/egypt-en/playstation-5-slim-console-international-version-digital-edition-with-controller",
+          "rating": 0,
+          "reviews": 2877,
+          "site": "Noon"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 61999,
+          "price_egp": 61999,
+          "product": "Sony Sony PlayStation 5 Pro, 2TB SSD with Wireless Controller - White",
+          "product_url": "https://www.jumia.com.eg/sony-sony-playstation-5-pro-2tb-ssd-with-wireless-controller-white-131954893.html",
+          "rating": 5,
+          "reviews": 2,
+          "site": "Jumia"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 35696.22,
+        "best_price": 15816,
+        "best_site": "eBay",
+        "total_sites": 4,
+        "worst_price": 61999,
+        "worst_site": "Jumia"
+      }
+    },
+    {
+      "id": "e0671f88-8b09-4c90-b945-4226cddf3f8d",
+      "query": "Samsung Galaxy S25",
+      "timestamp": "2026-05-08T23:45:29.154920",
+      "results": [
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 429.99,
+          "price_egp": 22669.07,
+          "product": "Samsung Galaxy S25 FE - 128 GB - Jetblack (Unlocked)",
+          "product_url": "https://www.ebay.com/itm/177810482865?_skw=Samsung+Galaxy+S25&epid=16085694578&itmmeta=01KR4KGM3ZTFVFVB210JQZAQ86&hash=item296654a6b1%3Ag%3AHD8AAeSweR9pd8NO&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xAjb7KSM8zUzDpZzBP3JAjz6qH%2Fd8t3ZRz73HWEE8ZhxcqQgi4zK74C2VP7nL5tQRgSegA6QFghIN6XNT7JXyygfphUpKzkno3t4%2FOwwBw3Xasu3vwSmndOxrSJTb4su7OftK2f6nmx9q81fdUlV%2Br2FGj%2FX%2FJtDWBfKVsBXn7C0x5pAAtvtGoSiDy5bjS6fnaVOnYiuY0PRDBzgp0h%2BeSQB%2FJyF1YFLMrMISd6fvwFL1PQhqSjc6ecsj17o%2FBtfLM%3D%7Ctkp%3ABk9SR5jCwpPBZw&LH_ItemCondition=1000",
+          "rating": 0,
+          "reviews": 0,
+          "site": "eBay"
+        },
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 39183.25,
+          "price_egp": 39183.25,
+          "product": "Galaxy S25 FE AI Dual SIM 5G Jetblack 8GB RAM 256GB - Middle East Version",
+          "product_url": "https://www.noon.com/egypt-en/galaxy-s25-fe-ai-dual-sim-5g-jetblack-8gb-ram-256gb-middle-east-version",
+          "rating": 0,
+          "reviews": 723,
+          "site": "Noon"
+        },
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 989,
+          "price_egp": 52140.08,
+          "product": "Samsung Galaxy S25 Ultra 256GB Unlocked Android Cell Phone with 200MP Camera, Ti",
+          "product_url": "https://www.walmart.com/ip/PA3-256GB-Black/14916573729?classType=VARIANT&athbdg=L1600",
+          "rating": 4.8,
+          "reviews": 24261,
+          "site": "Walmart"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 66899,
+          "price_egp": 66899,
+          "product": "Samsung Galaxy S25 Ultra Dual SIM 5G - 256GB/12GB - 6.9 Inch Mobile Phone Titani",
+          "product_url": "https://www.jumia.com.eg/galaxy-s25-ultra-dual-sim-5g-256gb12gb-6.9-inch-mobile-phone-titanium-gray-samsung-mpg3849534.html",
+          "rating": 5,
+          "reviews": 2,
+          "site": "Jumia"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 45222.85,
+        "best_price": 22669.07,
+        "best_site": "eBay",
+        "total_sites": 4,
+        "worst_price": 66899,
+        "worst_site": "Jumia"
+      }
+    },
+    {
+      "id": "d52bc6f5-126c-4fe3-9af4-b15339209b80",
+      "query": "Samsung Galaxy S25",
+      "timestamp": "2026-05-08T23:24:34.337456",
+      "results": [
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 429.99,
+          "price_egp": 22669.07,
+          "product": "Samsung Galaxy S25 FE - 128 GB - Jetblack (Unlocked)",
+          "product_url": "https://www.ebay.com/itm/177810482865?_skw=Samsung+Galaxy+S25&epid=16085694578&itmmeta=01KR4KGM3ZTFVFVB210JQZAQ86&hash=item296654a6b1%3Ag%3AHD8AAeSweR9pd8NO&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xAjb7KSM8zUzDpZzBP3JAjz6qH%2Fd8t3ZRz73HWEE8ZhxcqQgi4zK74C2VP7nL5tQRgSegA6QFghIN6XNT7JXyygfphUpKzkno3t4%2FOwwBw3Xasu3vwSmndOxrSJTb4su7OftK2f6nmx9q81fdUlV%2Br2FGj%2FX%2FJtDWBfKVsBXn7C0x5pAAtvtGoSiDy5bjS6fnaVOnYiuY0PRDBzgp0h%2BeSQB%2FJyF1YFLMrMISd6fvwFL1PQhqSjc6ecsj17o%2FBtfLM%3D%7Ctkp%3ABk9SR5jCwpPBZw&LH_ItemCondition=1000",
+          "rating": 0,
+          "reviews": 0,
+          "site": "eBay"
+        },
+        {
+          "color": "#FF9900",
+          "currency": "EGP",
+          "price": 36590,
+          "price_egp": 36590,
+          "product": "\u0645\u0648\u0628\u0627\u064a\u0644 \u0633\u0627\u0645\u0633\u0648\u0646\u062c \u062c\u0627\u0644\u0627\u0643\u0633\u064a S25 FE \u0634\u0628\u0643\u0629 \u0627\u0644\u062c\u064a\u0644 \u0627\u0644\u062e\u0627\u0645\u0633 5G \u0628\u0646\u0638\u0627\u0645 \u062a\u0634\u063a\u064a\u0644 \u0623\u0646\u062f\u0631\u0648\u064a\u062f \u0648\u0630\u0627\u0643\u0631\u0629 \u062a\u062e",
+          "product_url": "https://www.amazon.eg/%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%D8%AC-%D8%AC%D8%A7%D9%84%D8%A7%D9%83%D8%B3%D9%8A-%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3-%D8%A3%D9%86%D8%AF%D8%B1%D9%88%D9%8A%D8%AF/dp/B0FPM1RTFS/ref=sr_1_2?keywords=Samsung+Galaxy+S25&qid=1778266653&sr=8-2",
+          "rating": 4.6,
+          "reviews": 229,
+          "site": "Amazon"
+        },
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 39183.25,
+          "price_egp": 39183.25,
+          "product": "Galaxy S25 FE AI Dual SIM 5G Jetblack 8GB RAM 256GB - Middle East Version",
+          "product_url": "https://www.noon.com/egypt-en/galaxy-s25-fe-ai-dual-sim-5g-jetblack-8gb-ram-256gb-middle-east-version",
+          "rating": 0,
+          "reviews": 723,
+          "site": "Noon"
+        },
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 989,
+          "price_egp": 52140.08,
+          "product": "Samsung Galaxy S25 Ultra 256GB Unlocked Android Cell Phone with 200MP Camera, Ti",
+          "product_url": "https://www.walmart.com/ip/PA3-256GB-Black/14916573729?classType=VARIANT&athbdg=L1600",
+          "rating": 4.8,
+          "reviews": 24261,
+          "site": "Walmart"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 66899,
+          "price_egp": 66899,
+          "product": "Samsung Galaxy S25 Ultra Dual SIM 5G - 256GB/12GB - 6.9 Inch Mobile Phone Titani",
+          "product_url": "https://www.jumia.com.eg/galaxy-s25-ultra-dual-sim-5g-256gb12gb-6.9-inch-mobile-phone-titanium-gray-samsung-mpg3849534.html",
+          "rating": 5,
+          "reviews": 2,
+          "site": "Jumia"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 43496.28,
+        "best_price": 22669.07,
+        "best_site": "eBay",
+        "total_sites": 5,
+        "worst_price": 66899,
+        "worst_site": "Jumia"
+      }
+    },
+    {
+      "id": "c1db4b11-f283-4963-a36c-92c705e47fb6",
+      "query": "iPhone 17 Pro Max",
+      "timestamp": "2026-05-08T23:18:38.845387",
+      "results": [
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 550,
+          "price_egp": 28996,
+          "product": "Sale Off Apple iPhone 17 Pro Max - 2 TB - Deep Blue (Unlocked)",
+          "product_url": "https://www.ebay.com/itm/358520781321?_skw=iPhone+17+Pro+Max&epid=10085685903&itmmeta=01KR4KR5NRDA4V3FV9526SRC9A&hash=item537980fa09%3Ag%3AtZ4AAeSw8Ghp-aRI&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xD%2FR9IE4rrnuXH4VygOxwSRekt9oX9qXbu7YTRQacD2K1eheTFJNPXVTen55XqfveVX7M9we9anzYUcWGN%2FVUxH7stP%2BsQrrprPpaKI9nBcZA04SvzS75wMiD64isjgnOl4R1%2BfKWCIseV3UVzflh6FQ6VtndiYT9yQLWeo8LwZwx36bJ66QNMeyRDe%2BFdZ%2FPwQGKccmI7cCATHn3H3nPHQ6ASDUfWAimtN8uqaKBObFbqtTlQNrlPoOvpXw6emyC7GViplMWmeyvFXtgPTqeg4nKu6l9OVkMRcNxyivGHbYA%3D%3D%7Ctkp%3ABk9SR47b4JPBZw&LH_ItemCondition=1000",
+          "rating": 0,
+          "reviews": 0,
+          "site": "eBay"
+        },
+        {
+          "color": "#FF9900",
+          "currency": "EGP",
+          "price": 79000,
+          "price_egp": 79000,
+          "product": "\u0627\u0628\u0644 \u0622\u064a\u0641\u0648\u0646 Air (256 \u062c\u064a\u062c\u0627\u0628\u0627\u064a\u062a) - \u0623\u0633\u0648\u062f \u0641\u0636\u0627\u0626\u064a \u0645\u0639 \u062e\u0627\u0635\u064a\u0629 Face ID | \u0645\u062f\u0641\u0648\u0639 \u0627\u0644\u0636\u0631\u064a\u0628\u0629 | \u0636\u0645\u0627",
+          "product_url": "https://www.amazon.eg/%D8%A7%D8%A8%D9%84-%D8%A2%D9%8A%D9%81%D9%88%D9%86-Air-256-%D8%AC%D9%8A%D8%AC%D8%A7%D8%A8%D8%A7%D9%8A%D8%AA/dp/B0FQFL5H5B/ref=sr_1_7?keywords=iPhone+17+Pro+Max&qid=1778271385&sr=8-7",
+          "rating": 4,
+          "reviews": 9,
+          "site": "Amazon"
+        },
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 94930,
+          "price_egp": 94930,
+          "product": "iPhone 17 Pro 256GB Cosmic Orange 5G (Nano SIM + eSIM) With FaceTime - Internati",
+          "product_url": "https://www.noon.com/egypt-en/iphone-17-pro-256gb-cosmic-orange-5g-nano-sim-esim-with-facetime-international-version",
+          "rating": 0,
+          "reviews": 22379,
+          "site": "Noon"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 104469,
+          "price_egp": 104469,
+          "product": "Apple iPhone 17 Pro Max 256GB Cosmic Orange",
+          "product_url": "https://www.jumia.com.eg/apple-iphone-17-pro-max-256gb-cosmic-orange-134004666.html",
+          "rating": 0,
+          "reviews": 0,
+          "site": "Jumia"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 76848.75,
+        "best_price": 28996,
+        "best_site": "eBay",
+        "total_sites": 4,
+        "worst_price": 104469,
+        "worst_site": "Jumia"
+      }
+    },
+    {
+      "id": "0c3df9f4-93ea-4e21-8276-258af2cfecbd",
+      "query": "iPhone 17 Pro Max",
+      "timestamp": "2026-05-08T23:18:15.395891",
+      "results": [
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 550,
+          "price_egp": 28996,
+          "product": "Sale Off Apple iPhone 17 Pro Max - 2 TB - Deep Blue (Unlocked)",
+          "product_url": "https://www.ebay.com/itm/358520781321?_skw=iPhone+17+Pro+Max&epid=10085685903&itmmeta=01KR4KR5NRDA4V3FV9526SRC9A&hash=item537980fa09%3Ag%3AtZ4AAeSw8Ghp-aRI&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xD%2FR9IE4rrnuXH4VygOxwSRekt9oX9qXbu7YTRQacD2K1eheTFJNPXVTen55XqfveVX7M9we9anzYUcWGN%2FVUxH7stP%2BsQrrprPpaKI9nBcZA04SvzS75wMiD64isjgnOl4R1%2BfKWCIseV3UVzflh6FQ6VtndiYT9yQLWeo8LwZwx36bJ66QNMeyRDe%2BFdZ%2FPwQGKccmI7cCATHn3H3nPHQ6ASDUfWAimtN8uqaKBObFbqtTlQNrlPoOvpXw6emyC7GViplMWmeyvFXtgPTqeg4nKu6l9OVkMRcNxyivGHbYA%3D%3D%7Ctkp%3ABk9SR47b4JPBZw&LH_ItemCondition=1000",
+          "rating": 0,
+          "reviews": 0,
+          "site": "eBay"
+        },
+        {
+          "color": "#FF9900",
+          "currency": "EGP",
+          "price": 79000,
+          "price_egp": 79000,
+          "product": "\u0627\u0628\u0644 \u0622\u064a\u0641\u0648\u0646 Air (256 \u062c\u064a\u062c\u0627\u0628\u0627\u064a\u062a) - \u0623\u0633\u0648\u062f \u0641\u0636\u0627\u0626\u064a \u0645\u0639 \u062e\u0627\u0635\u064a\u0629 Face ID | \u0645\u062f\u0641\u0648\u0639 \u0627\u0644\u0636\u0631\u064a\u0628\u0629 | \u0636\u0645\u0627",
+          "product_url": "https://www.amazon.eg/%D8%A7%D8%A8%D9%84-%D8%A2%D9%8A%D9%81%D9%88%D9%86-Air-256-%D8%AC%D9%8A%D8%AC%D8%A7%D8%A8%D8%A7%D9%8A%D8%AA/dp/B0FQFL5H5B/ref=sr_1_7?keywords=iPhone+17+Pro+Max&qid=1778271385&sr=8-7",
+          "rating": 4,
+          "reviews": 9,
+          "site": "Amazon"
+        },
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 94930,
+          "price_egp": 94930,
+          "product": "iPhone 17 Pro 256GB Cosmic Orange 5G (Nano SIM + eSIM) With FaceTime - Internati",
+          "product_url": "https://www.noon.com/egypt-en/iphone-17-pro-256gb-cosmic-orange-5g-nano-sim-esim-with-facetime-international-version",
+          "rating": 0,
+          "reviews": 22379,
+          "site": "Noon"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 104469,
+          "price_egp": 104469,
+          "product": "Apple iPhone 17 Pro Max 256GB Cosmic Orange",
+          "product_url": "https://www.jumia.com.eg/apple-iphone-17-pro-max-256gb-cosmic-orange-134004666.html",
+          "rating": 0,
+          "reviews": 0,
+          "site": "Jumia"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 76848.75,
+        "best_price": 28996,
+        "best_site": "eBay",
+        "total_sites": 4,
+        "worst_price": 104469,
+        "worst_site": "Jumia"
+      }
+    },
+    {
+      "id": "a063af57-b4d6-4e26-8374-53c125b995fa",
+      "query": "Samsung Galaxy S25",
+      "timestamp": "2026-05-08T23:14:02.871698",
+      "results": [
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 429.99,
+          "price_egp": 22669.07,
+          "product": "Samsung Galaxy S25 FE - 128 GB - Jetblack (Unlocked)",
+          "product_url": "https://www.ebay.com/itm/177810482865?_skw=Samsung+Galaxy+S25&epid=16085694578&itmmeta=01KR4KGM3ZTFVFVB210JQZAQ86&hash=item296654a6b1%3Ag%3AHD8AAeSweR9pd8NO&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xAjb7KSM8zUzDpZzBP3JAjz6qH%2Fd8t3ZRz73HWEE8ZhxcqQgi4zK74C2VP7nL5tQRgSegA6QFghIN6XNT7JXyygfphUpKzkno3t4%2FOwwBw3Xasu3vwSmndOxrSJTb4su7OftK2f6nmx9q81fdUlV%2Br2FGj%2FX%2FJtDWBfKVsBXn7C0x5pAAtvtGoSiDy5bjS6fnaVOnYiuY0PRDBzgp0h%2BeSQB%2FJyF1YFLMrMISd6fvwFL1PQhqSjc6ecsj17o%2FBtfLM%3D%7Ctkp%3ABk9SR5jCwpPBZw&LH_ItemCondition=1000",
+          "rating": 0,
+          "reviews": 0,
+          "site": "eBay"
+        },
+        {
+          "color": "#FF9900",
+          "currency": "EGP",
+          "price": 36590,
+          "price_egp": 36590,
+          "product": "\u0645\u0648\u0628\u0627\u064a\u0644 \u0633\u0627\u0645\u0633\u0648\u0646\u062c \u062c\u0627\u0644\u0627\u0643\u0633\u064a S25 FE \u0634\u0628\u0643\u0629 \u0627\u0644\u062c\u064a\u0644 \u0627\u0644\u062e\u0627\u0645\u0633 5G \u0628\u0646\u0638\u0627\u0645 \u062a\u0634\u063a\u064a\u0644 \u0623\u0646\u062f\u0631\u0648\u064a\u062f \u0648\u0630\u0627\u0643\u0631\u0629 \u062a\u062e",
+          "product_url": "https://www.amazon.eg/%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%D8%AC-%D8%AC%D8%A7%D9%84%D8%A7%D9%83%D8%B3%D9%8A-%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3-%D8%A3%D9%86%D8%AF%D8%B1%D9%88%D9%8A%D8%AF/dp/B0FPM1RTFS/ref=sr_1_2?keywords=Samsung+Galaxy+S25&qid=1778266653&sr=8-2",
+          "rating": 4.6,
+          "reviews": 229,
+          "site": "Amazon"
+        },
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 39183.25,
+          "price_egp": 39183.25,
+          "product": "Galaxy S25 FE AI Dual SIM 5G Jetblack 8GB RAM 256GB - Middle East Version",
+          "product_url": "https://www.noon.com/egypt-en/galaxy-s25-fe-ai-dual-sim-5g-jetblack-8gb-ram-256gb-middle-east-version",
+          "rating": 0,
+          "reviews": 723,
+          "site": "Noon"
+        },
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 989,
+          "price_egp": 52140.08,
+          "product": "Samsung Galaxy S25 Ultra 256GB Unlocked Android Cell Phone with 200MP Camera, Ti",
+          "product_url": "https://www.walmart.com/ip/PA3-256GB-Black/14916573729?classType=VARIANT&athbdg=L1600",
+          "rating": 4.8,
+          "reviews": 24261,
+          "site": "Walmart"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 66899,
+          "price_egp": 66899,
+          "product": "Samsung Galaxy S25 Ultra Dual SIM 5G - 256GB/12GB - 6.9 Inch Mobile Phone Titani",
+          "product_url": "https://www.jumia.com.eg/galaxy-s25-ultra-dual-sim-5g-256gb12gb-6.9-inch-mobile-phone-titanium-gray-samsung-mpg3849534.html",
+          "rating": 5,
+          "reviews": 2,
+          "site": "Jumia"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 43496.28,
+        "best_price": 22669.07,
+        "best_site": "eBay",
+        "total_sites": 5,
+        "worst_price": 66899,
+        "worst_site": "Jumia"
+      }
+    },
+    {
+      "id": "0caf9cd3-0703-448e-bd2f-3c06cd7379f4",
+      "query": "Samsung Galaxy S25",
+      "timestamp": "2026-05-08T22:59:20.931129",
+      "results": [
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 429.99,
+          "price_egp": 22669.07,
+          "product": "Samsung Galaxy S25 FE - 128 GB - Jetblack (Unlocked)",
+          "product_url": "https://www.ebay.com/itm/177810482865?_skw=Samsung+Galaxy+S25&epid=16085694578&itmmeta=01KR4F7RG136DHNE92GQ2T492Z&hash=item296654a6b1%3Ag%3AHD8AAeSweR9pd8NO&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAAADth4q947AdvdbPzraHmQFkBbY6zih1vlp9fJXTp%2BUkKlDjkbKVAlIRQnnjPSK5Z3bVCrFTtQAptWX%2Bpo%2BJP50SIRGqZWtSNfG4LyaLkl0HYZ0OBPnHK4RIv%2BTZP8idR8pLBFtn5WSuwbCSMmg%2F6Jypzh3O%2B1J7KVFzDZeFk07bxFYtl9EldKYtIseK9NZ85h3uhnINKCK3y1USo298gCIjzdubAztXk8f1EafYnTvF%2BcEI%2BgA749%2FwCVqPlAwEjxnu0TqhSkDjZ8wJf3t0J5pTQplw9m1PpPbzyFTHg6g%3D%3D%7Ctkp%3ABk9SR5qIn4_BZw&LH_ItemCondition=1000",
+          "rating": 0,
+          "reviews": 0,
+          "site": "eBay"
+        },
+        {
+          "color": "#FF9900",
+          "currency": "EGP",
+          "price": 36590,
+          "price_egp": 36590,
+          "product": "\u0645\u0648\u0628\u0627\u064a\u0644 \u0633\u0627\u0645\u0633\u0648\u0646\u062c \u062c\u0627\u0644\u0627\u0643\u0633\u064a S25 FE \u0634\u0628\u0643\u0629 \u0627\u0644\u062c\u064a\u0644 \u0627\u0644\u062e\u0627\u0645\u0633 5G \u0628\u0646\u0638\u0627\u0645 \u062a\u0634\u063a\u064a\u0644 \u0623\u0646\u062f\u0631\u0648\u064a\u062f \u0648\u0630\u0627\u0643\u0631\u0629 \u062a\u062e",
+          "product_url": "https://www.amazon.eg/%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%D8%AC-%D8%AC%D8%A7%D9%84%D8%A7%D9%83%D8%B3%D9%8A-%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3-%D8%A3%D9%86%D8%AF%D8%B1%D9%88%D9%8A%D8%AF/dp/B0FPM1RTFS/ref=sr_1_2?keywords=Samsung+Galaxy+S25&qid=1778266653&sr=8-2",
+          "rating": 4.6,
+          "reviews": 229,
+          "site": "Amazon"
+        },
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 39183.25,
+          "price_egp": 39183.25,
+          "product": "Galaxy S25 FE AI Dual SIM 5G Jetblack 8GB RAM 256GB - Middle East Version",
+          "product_url": "https://www.noon.com/egypt-en/galaxy-s25-fe-ai-dual-sim-5g-jetblack-8gb-ram-256gb-middle-east-version",
+          "rating": 0,
+          "reviews": 723,
+          "site": "Noon"
+        },
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 989,
+          "price_egp": 52140.08,
+          "product": "Samsung Galaxy S25 Ultra 256GB Unlocked Android Cell Phone with 200MP Camera, Ti",
+          "product_url": "https://www.walmart.com/ip/PA3-256GB-Black/14916573729?classType=VARIANT&athbdg=L1600",
+          "rating": 4.8,
+          "reviews": 24261,
+          "site": "Walmart"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 66899,
+          "price_egp": 66899,
+          "product": "Samsung Galaxy S25 Ultra Dual SIM 5G - 256GB/12GB - 6.9 Inch Mobile Phone Titani",
+          "product_url": "https://www.jumia.com.eg/galaxy-s25-ultra-dual-sim-5g-256gb12gb-6.9-inch-mobile-phone-titanium-gray-samsung-mpg3849534.html",
+          "rating": 5,
+          "reviews": 2,
+          "site": "Jumia"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 43496.28,
+        "best_price": 22669.07,
+        "best_site": "eBay",
+        "total_sites": 5,
+        "worst_price": 66899,
+        "worst_site": "Jumia"
+      }
+    },
+    {
+      "id": "f367ccc9-4afc-47db-995f-a0e0359be300",
+      "query": "Samsung Galaxy S25",
+      "timestamp": "2026-05-08T22:54:30.373775",
+      "results": [
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 429.99,
+          "price_egp": 22669.07,
+          "product": "Samsung Galaxy S25 FE - 128 GB - Jetblack (Unlocked)",
+          "product_url": "https://www.ebay.com/itm/177810482865?_skw=Samsung+Galaxy+S25&epid=16085694578&itmmeta=01KR4F7RG136DHNE92GQ2T492Z&hash=item296654a6b1%3Ag%3AHD8AAeSweR9pd8NO&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAAADth4q947AdvdbPzraHmQFkBbY6zih1vlp9fJXTp%2BUkKlDjkbKVAlIRQnnjPSK5Z3bVCrFTtQAptWX%2Bpo%2BJP50SIRGqZWtSNfG4LyaLkl0HYZ0OBPnHK4RIv%2BTZP8idR8pLBFtn5WSuwbCSMmg%2F6Jypzh3O%2B1J7KVFzDZeFk07bxFYtl9EldKYtIseK9NZ85h3uhnINKCK3y1USo298gCIjzdubAztXk8f1EafYnTvF%2BcEI%2BgA749%2FwCVqPlAwEjxnu0TqhSkDjZ8wJf3t0J5pTQplw9m1PpPbzyFTHg6g%3D%3D%7Ctkp%3ABk9SR5qIn4_BZw&LH_ItemCondition=1000",
+          "rating": 0,
+          "reviews": 0,
+          "site": "eBay"
+        },
+        {
+          "color": "#FF9900",
+          "currency": "EGP",
+          "price": 36590,
+          "price_egp": 36590,
+          "product": "\u0645\u0648\u0628\u0627\u064a\u0644 \u0633\u0627\u0645\u0633\u0648\u0646\u062c \u062c\u0627\u0644\u0627\u0643\u0633\u064a S25 FE \u0634\u0628\u0643\u0629 \u0627\u0644\u062c\u064a\u0644 \u0627\u0644\u062e\u0627\u0645\u0633 5G \u0628\u0646\u0638\u0627\u0645 \u062a\u0634\u063a\u064a\u0644 \u0623\u0646\u062f\u0631\u0648\u064a\u062f \u0648\u0630\u0627\u0643\u0631\u0629 \u062a\u062e",
+          "product_url": "https://www.amazon.eg/%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%D8%AC-%D8%AC%D8%A7%D9%84%D8%A7%D9%83%D8%B3%D9%8A-%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3-%D8%A3%D9%86%D8%AF%D8%B1%D9%88%D9%8A%D8%AF/dp/B0FPM1RTFS/ref=sr_1_2?keywords=Samsung+Galaxy+S25&qid=1778266653&sr=8-2",
+          "rating": 4.6,
+          "reviews": 229,
+          "site": "Amazon"
+        },
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 39183.25,
+          "price_egp": 39183.25,
+          "product": "Galaxy S25 FE AI Dual SIM 5G Jetblack 8GB RAM 256GB - Middle East Version",
+          "product_url": "https://www.noon.com/egypt-en/galaxy-s25-fe-ai-dual-sim-5g-jetblack-8gb-ram-256gb-middle-east-version",
+          "rating": 0,
+          "reviews": 723,
+          "site": "Noon"
+        },
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 989,
+          "price_egp": 52140.08,
+          "product": "Samsung Galaxy S25 Ultra 256GB Unlocked Android Cell Phone with 200MP Camera, Ti",
+          "product_url": "https://www.walmart.com/ip/PA3-256GB-Black/14916573729?classType=VARIANT&athbdg=L1600",
+          "rating": 4.8,
+          "reviews": 24261,
+          "site": "Walmart"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 66899,
+          "price_egp": 66899,
+          "product": "Samsung Galaxy S25 Ultra Dual SIM 5G - 256GB/12GB - 6.9 Inch Mobile Phone Titani",
+          "product_url": "https://www.jumia.com.eg/galaxy-s25-ultra-dual-sim-5g-256gb12gb-6.9-inch-mobile-phone-titanium-gray-samsung-mpg3849534.html",
+          "rating": 5,
+          "reviews": 2,
+          "site": "Jumia"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 43496.28,
+        "best_price": 22669.07,
+        "best_site": "eBay",
+        "total_sites": 5,
+        "worst_price": 66899,
+        "worst_site": "Jumia"
+      }
+    },
+    {
+      "id": "fc5d58f2-3f9e-41f8-9db3-fd57bc59e8d1",
+      "query": "Samsung Galaxy S25",
+      "timestamp": "2026-05-08T22:51:25.868756",
+      "results": [
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 429.99,
+          "price_egp": 22669.07,
+          "product": "Samsung Galaxy S25 FE - 128 GB - Jetblack (Unlocked)",
+          "product_url": "https://www.ebay.com/itm/177810482865?_skw=Samsung+Galaxy+S25&epid=16085694578&itmmeta=01KR4F7RG136DHNE92GQ2T492Z&hash=item296654a6b1%3Ag%3AHD8AAeSweR9pd8NO&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAAADth4q947AdvdbPzraHmQFkBbY6zih1vlp9fJXTp%2BUkKlDjkbKVAlIRQnnjPSK5Z3bVCrFTtQAptWX%2Bpo%2BJP50SIRGqZWtSNfG4LyaLkl0HYZ0OBPnHK4RIv%2BTZP8idR8pLBFtn5WSuwbCSMmg%2F6Jypzh3O%2B1J7KVFzDZeFk07bxFYtl9EldKYtIseK9NZ85h3uhnINKCK3y1USo298gCIjzdubAztXk8f1EafYnTvF%2BcEI%2BgA749%2FwCVqPlAwEjxnu0TqhSkDjZ8wJf3t0J5pTQplw9m1PpPbzyFTHg6g%3D%3D%7Ctkp%3ABk9SR5qIn4_BZw&LH_ItemCondition=1000",
+          "rating": 0,
+          "reviews": 0,
+          "site": "eBay"
+        },
+        {
+          "color": "#FF9900",
+          "currency": "EGP",
+          "price": 36590,
+          "price_egp": 36590,
+          "product": "\u0645\u0648\u0628\u0627\u064a\u0644 \u0633\u0627\u0645\u0633\u0648\u0646\u062c \u062c\u0627\u0644\u0627\u0643\u0633\u064a S25 FE \u0634\u0628\u0643\u0629 \u0627\u0644\u062c\u064a\u0644 \u0627\u0644\u062e\u0627\u0645\u0633 5G \u0628\u0646\u0638\u0627\u0645 \u062a\u0634\u063a\u064a\u0644 \u0623\u0646\u062f\u0631\u0648\u064a\u062f \u0648\u0630\u0627\u0643\u0631\u0629 \u062a\u062e",
+          "product_url": "https://www.amazon.eg/%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%D8%AC-%D8%AC%D8%A7%D9%84%D8%A7%D9%83%D8%B3%D9%8A-%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3-%D8%A3%D9%86%D8%AF%D8%B1%D9%88%D9%8A%D8%AF/dp/B0FPM1RTFS/ref=sr_1_2?keywords=Samsung+Galaxy+S25&qid=1778266653&sr=8-2",
+          "rating": 4.6,
+          "reviews": 229,
+          "site": "Amazon"
+        },
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 39183.25,
+          "price_egp": 39183.25,
+          "product": "Galaxy S25 FE AI Dual SIM 5G Jetblack 8GB RAM 256GB - Middle East Version",
+          "product_url": "https://www.noon.com/egypt-en/galaxy-s25-fe-ai-dual-sim-5g-jetblack-8gb-ram-256gb-middle-east-version",
+          "rating": 0,
+          "reviews": 723,
+          "site": "Noon"
+        },
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 989,
+          "price_egp": 52140.08,
+          "product": "Samsung Galaxy S25 Ultra 256GB Unlocked Android Cell Phone with 200MP Camera, Ti",
+          "product_url": "https://www.walmart.com/ip/PA3-256GB-Black/14916573729?classType=VARIANT&athbdg=L1600",
+          "rating": 4.8,
+          "reviews": 24261,
+          "site": "Walmart"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 66899,
+          "price_egp": 66899,
+          "product": "Samsung Galaxy S25 Ultra Dual SIM 5G - 256GB/12GB - 6.9 Inch Mobile Phone Titani",
+          "product_url": "https://www.jumia.com.eg/galaxy-s25-ultra-dual-sim-5g-256gb12gb-6.9-inch-mobile-phone-titanium-gray-samsung-mpg3849534.html",
+          "rating": 5,
+          "reviews": 2,
+          "site": "Jumia"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 43496.28,
+        "best_price": 22669.07,
+        "best_site": "eBay",
+        "total_sites": 5,
+        "worst_price": 66899,
+        "worst_site": "Jumia"
+      }
+    },
+    {
+      "id": "c3860d0b-72e0-4f20-b561-5d7b38f1a729",
+      "query": "Samsung Galaxy S25",
+      "timestamp": "2026-05-08T22:46:05.474819",
+      "results": [
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 429.99,
+          "price_egp": 22669.07,
+          "product": "Samsung Galaxy S25 FE - 128 GB - Jetblack (Unlocked)",
+          "product_url": "https://www.ebay.com/itm/177810482865?_skw=Samsung+Galaxy+S25&epid=16085694578&itmmeta=01KR4F7RG136DHNE92GQ2T492Z&hash=item296654a6b1%3Ag%3AHD8AAeSweR9pd8NO&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAAADth4q947AdvdbPzraHmQFkBbY6zih1vlp9fJXTp%2BUkKlDjkbKVAlIRQnnjPSK5Z3bVCrFTtQAptWX%2Bpo%2BJP50SIRGqZWtSNfG4LyaLkl0HYZ0OBPnHK4RIv%2BTZP8idR8pLBFtn5WSuwbCSMmg%2F6Jypzh3O%2B1J7KVFzDZeFk07bxFYtl9EldKYtIseK9NZ85h3uhnINKCK3y1USo298gCIjzdubAztXk8f1EafYnTvF%2BcEI%2BgA749%2FwCVqPlAwEjxnu0TqhSkDjZ8wJf3t0J5pTQplw9m1PpPbzyFTHg6g%3D%3D%7Ctkp%3ABk9SR5qIn4_BZw&LH_ItemCondition=1000",
+          "rating": 0,
+          "reviews": 0,
+          "site": "eBay"
+        },
+        {
+          "color": "#FF9900",
+          "currency": "EGP",
+          "price": 36590,
+          "price_egp": 36590,
+          "product": "\u0645\u0648\u0628\u0627\u064a\u0644 \u0633\u0627\u0645\u0633\u0648\u0646\u062c \u062c\u0627\u0644\u0627\u0643\u0633\u064a S25 FE \u0634\u0628\u0643\u0629 \u0627\u0644\u062c\u064a\u0644 \u0627\u0644\u062e\u0627\u0645\u0633 5G \u0628\u0646\u0638\u0627\u0645 \u062a\u0634\u063a\u064a\u0644 \u0623\u0646\u062f\u0631\u0648\u064a\u062f \u0648\u0630\u0627\u0643\u0631\u0629 \u062a\u062e",
+          "product_url": "https://www.amazon.eg/%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%D8%AC-%D8%AC%D8%A7%D9%84%D8%A7%D9%83%D8%B3%D9%8A-%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3-%D8%A3%D9%86%D8%AF%D8%B1%D9%88%D9%8A%D8%AF/dp/B0FPM1RTFS/ref=sr_1_2?keywords=Samsung+Galaxy+S25&qid=1778266653&sr=8-2",
+          "rating": 4.6,
+          "reviews": 229,
+          "site": "Amazon"
+        },
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 39183.25,
+          "price_egp": 39183.25,
+          "product": "Galaxy S25 FE AI Dual SIM 5G Jetblack 8GB RAM 256GB - Middle East Version",
+          "product_url": "https://www.noon.com/egypt-en/galaxy-s25-fe-ai-dual-sim-5g-jetblack-8gb-ram-256gb-middle-east-version",
+          "rating": 0,
+          "reviews": 723,
+          "site": "Noon"
+        },
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 989,
+          "price_egp": 52140.08,
+          "product": "Samsung Galaxy S25 Ultra 256GB Unlocked Android Cell Phone with 200MP Camera, Ti",
+          "product_url": "https://www.walmart.com/ip/PA3-256GB-Black/14916573729?classType=VARIANT&athbdg=L1600",
+          "rating": 4.8,
+          "reviews": 24261,
+          "site": "Walmart"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 66899,
+          "price_egp": 66899,
+          "product": "Samsung Galaxy S25 Ultra Dual SIM 5G - 256GB/12GB - 6.9 Inch Mobile Phone Titani",
+          "product_url": "https://www.jumia.com.eg/galaxy-s25-ultra-dual-sim-5g-256gb12gb-6.9-inch-mobile-phone-titanium-gray-samsung-mpg3849534.html",
+          "rating": 5,
+          "reviews": 2,
+          "site": "Jumia"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 43496.28,
+        "best_price": 22669.07,
+        "best_site": "eBay",
+        "total_sites": 5,
+        "worst_price": 66899,
+        "worst_site": "Jumia"
+      }
+    },
+    {
+      "id": "f7268571-d8cb-4b60-98fa-e7088d8c5dca",
+      "query": "Samsung Galaxy S25",
+      "timestamp": "2026-05-08T22:42:12.483267",
+      "results": [
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 429.99,
+          "price_egp": 22669.07,
+          "product": "Samsung Galaxy S25 FE - 128 GB - Jetblack (Unlocked)",
+          "product_url": "https://www.ebay.com/itm/177810482865?_skw=Samsung+Galaxy+S25&epid=16085694578&itmmeta=01KR4F7RG136DHNE92GQ2T492Z&hash=item296654a6b1%3Ag%3AHD8AAeSweR9pd8NO&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAAADth4q947AdvdbPzraHmQFkBbY6zih1vlp9fJXTp%2BUkKlDjkbKVAlIRQnnjPSK5Z3bVCrFTtQAptWX%2Bpo%2BJP50SIRGqZWtSNfG4LyaLkl0HYZ0OBPnHK4RIv%2BTZP8idR8pLBFtn5WSuwbCSMmg%2F6Jypzh3O%2B1J7KVFzDZeFk07bxFYtl9EldKYtIseK9NZ85h3uhnINKCK3y1USo298gCIjzdubAztXk8f1EafYnTvF%2BcEI%2BgA749%2FwCVqPlAwEjxnu0TqhSkDjZ8wJf3t0J5pTQplw9m1PpPbzyFTHg6g%3D%3D%7Ctkp%3ABk9SR5qIn4_BZw&LH_ItemCondition=1000",
+          "rating": 0,
+          "reviews": 0,
+          "site": "eBay"
+        },
+        {
+          "color": "#FF9900",
+          "currency": "EGP",
+          "price": 36590,
+          "price_egp": 36590,
+          "product": "\u0645\u0648\u0628\u0627\u064a\u0644 \u0633\u0627\u0645\u0633\u0648\u0646\u062c \u062c\u0627\u0644\u0627\u0643\u0633\u064a S25 FE \u0634\u0628\u0643\u0629 \u0627\u0644\u062c\u064a\u0644 \u0627\u0644\u062e\u0627\u0645\u0633 5G \u0628\u0646\u0638\u0627\u0645 \u062a\u0634\u063a\u064a\u0644 \u0623\u0646\u062f\u0631\u0648\u064a\u062f \u0648\u0630\u0627\u0643\u0631\u0629 \u062a\u062e",
+          "product_url": "https://www.amazon.eg/%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%D8%AC-%D8%AC%D8%A7%D9%84%D8%A7%D9%83%D8%B3%D9%8A-%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3-%D8%A3%D9%86%D8%AF%D8%B1%D9%88%D9%8A%D8%AF/dp/B0FPM1RTFS/ref=sr_1_2?keywords=Samsung+Galaxy+S25&qid=1778266653&sr=8-2",
+          "rating": 4.6,
+          "reviews": 229,
+          "site": "Amazon"
+        },
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 39183.25,
+          "price_egp": 39183.25,
+          "product": "Galaxy S25 FE AI Dual SIM 5G Jetblack 8GB RAM 256GB - Middle East Version",
+          "product_url": "https://www.noon.com/egypt-en/galaxy-s25-fe-ai-dual-sim-5g-jetblack-8gb-ram-256gb-middle-east-version",
+          "rating": 0,
+          "reviews": 723,
+          "site": "Noon"
+        },
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 989,
+          "price_egp": 52140.08,
+          "product": "Samsung Galaxy S25 Ultra 256GB Unlocked Android Cell Phone with 200MP Camera, Ti",
+          "product_url": "https://www.walmart.com/ip/PA3-256GB-Black/14916573729?classType=VARIANT&athbdg=L1600",
+          "rating": 4.8,
+          "reviews": 24261,
+          "site": "Walmart"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 66899,
+          "price_egp": 66899,
+          "product": "Samsung Galaxy S25 Ultra Dual SIM 5G - 256GB/12GB - 6.9 Inch Mobile Phone Titani",
+          "product_url": "https://www.jumia.com.eg/galaxy-s25-ultra-dual-sim-5g-256gb12gb-6.9-inch-mobile-phone-titanium-gray-samsung-mpg3849534.html",
+          "rating": 5,
+          "reviews": 2,
+          "site": "Jumia"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 43496.28,
+        "best_price": 22669.07,
+        "best_site": "eBay",
+        "total_sites": 5,
+        "worst_price": 66899,
+        "worst_site": "Jumia"
+      }
+    },
+    {
+      "id": "ab3c4f75-469d-40ac-83a2-502e476511dc",
+      "query": "MacBook Air M4",
+      "timestamp": "2026-05-08T22:37:37.539138",
+      "results": [
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 850,
+          "price_egp": 44812,
+          "product": "brand new apple macbook air m4 13.6\u201d 16gb 256gb in sky blue",
+          "product_url": "https://www.ebay.com/itm/406913824404?_skw=MacBook+Air+M4&itmmeta=01KR4HERHH6C1YZ980XVJF1KNJ&hash=item5ebdf43694%3Ag%3ArRUAAeSwPIZp%7Ei6S&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xDAuthqx9PxNx2zBCeYsA5SVshFnCwvsK3slARAeTL7g8VbBNmCtkQHxUa%2BquyCHgQhPUVjY7T9QOqXlRv9U6Hk%2BEX0TPtYPSs3Y52irWp8iyHyDKoJfr93WB192aMpn4uM8rdR3AGLYA%2FjNqyHXeZA%2FErZU0MpZoEFPfqWKKv9Kj3S7bdeqI2nd92M0yXGFE43iKQpF94G%2F1tQeq84YmsQa4Mwx5KolAo5tCl8bsN4nOBwQLJcWbnNbdAy3rkynus%3D%7Ctkp%3ABk9SR4aJu5HBZw&LH_ItemCondition=1000",
+          "rating": 0,
+          "reviews": 0,
+          "site": "eBay"
+        },
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 60141.75,
+          "price_egp": 60141.75,
+          "product": "MacBook Air MC6T4 | 13 Inch Display | Apple M4 Chip | 10-Core CPU 8-Core GPU | 1",
+          "product_url": "https://www.noon.com/egypt-en/macbook-air-mc6t4-13-inch-display-apple-m4-chip-10-core-cpu-8-core-gpu-16gb-ram-256gb-ssd-macos-english-keyboard-international-version-english-sky-blue",
+          "rating": 0,
+          "reviews": 2460,
+          "site": "Noon"
+        },
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 1299.97,
+          "price_egp": 68534.42,
+          "product": "Apple 15\" MacBook Air with M4 chip, 10-core CPU / 10-core GPU, 24GB Memory, 512G",
+          "product_url": "https://www.walmart.com/ip/Apple-15-inch-MacBook-Air-M4-w-10-core-CPU-and-10-core-GPU-512GB-SSD-Starlight-MC6K4LL-A-2025/15459473764?classType=VARIANT",
+          "rating": 4.5,
+          "reviews": 32,
+          "site": "Walmart"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 69990,
+          "price_egp": 69990,
+          "product": "Apple MacBook Air 15 M4 10C CPU 10C GPU / 16GB / 256GB / AR",
+          "product_url": "https://www.jumia.com.eg/apple-macbook-air-15-m4-10c-cpu-10c-gpu-16gb-256gb-ar-133962830.html",
+          "rating": 0,
+          "reviews": 0,
+          "site": "Jumia"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 60869.54,
+        "best_price": 44812,
+        "best_site": "eBay",
+        "total_sites": 4,
+        "worst_price": 69990,
+        "worst_site": "Jumia"
+      }
+    },
+    {
+      "id": "9da473bb-8d26-49f4-88d5-539fbb34860b",
+      "query": "Samsung Galaxy S25",
+      "timestamp": "2026-05-08T22:33:21.800023",
+      "results": [
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 429.99,
+          "price_egp": 22669.07,
+          "product": "Samsung Galaxy S25 FE - 128 GB - Jetblack (Unlocked)",
+          "product_url": "https://www.ebay.com/itm/177810482865?_skw=Samsung+Galaxy+S25&epid=16085694578&itmmeta=01KR4F7RG136DHNE92GQ2T492Z&hash=item296654a6b1%3Ag%3AHD8AAeSweR9pd8NO&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAAADth4q947AdvdbPzraHmQFkBbY6zih1vlp9fJXTp%2BUkKlDjkbKVAlIRQnnjPSK5Z3bVCrFTtQAptWX%2Bpo%2BJP50SIRGqZWtSNfG4LyaLkl0HYZ0OBPnHK4RIv%2BTZP8idR8pLBFtn5WSuwbCSMmg%2F6Jypzh3O%2B1J7KVFzDZeFk07bxFYtl9EldKYtIseK9NZ85h3uhnINKCK3y1USo298gCIjzdubAztXk8f1EafYnTvF%2BcEI%2BgA749%2FwCVqPlAwEjxnu0TqhSkDjZ8wJf3t0J5pTQplw9m1PpPbzyFTHg6g%3D%3D%7Ctkp%3ABk9SR5qIn4_BZw&LH_ItemCondition=1000",
+          "rating": 0,
+          "reviews": 0,
+          "site": "eBay"
+        },
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 39183.25,
+          "price_egp": 39183.25,
+          "product": "Galaxy S25 FE AI Dual SIM 5G Jetblack 8GB RAM 256GB - Middle East Version",
+          "product_url": "https://www.noon.com/egypt-en/galaxy-s25-fe-ai-dual-sim-5g-jetblack-8gb-ram-256gb-middle-east-version",
+          "rating": 0,
+          "reviews": 723,
+          "site": "Noon"
+        },
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 989,
+          "price_egp": 52140.08,
+          "product": "Samsung Galaxy S25 Ultra 256GB Unlocked Android Cell Phone with 200MP Camera, Ti",
+          "product_url": "https://www.walmart.com/ip/PA3-256GB-Black/14916573729?classType=VARIANT&athbdg=L1600",
+          "rating": 4.8,
+          "reviews": 24261,
+          "site": "Walmart"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 66899,
+          "price_egp": 66899,
+          "product": "Samsung Galaxy S25 Ultra Dual SIM 5G - 256GB/12GB - 6.9 Inch Mobile Phone Titani",
+          "product_url": "https://www.jumia.com.eg/galaxy-s25-ultra-dual-sim-5g-256gb12gb-6.9-inch-mobile-phone-titanium-gray-samsung-mpg3849534.html",
+          "rating": 5,
+          "reviews": 2,
+          "site": "Jumia"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 45222.85,
+        "best_price": 22669.07,
+        "best_site": "eBay",
+        "total_sites": 4,
+        "worst_price": 66899,
+        "worst_site": "Jumia"
+      }
+    },
+    {
+      "id": "55180da2-d5de-4b0b-b5f2-f59a005ab6d7",
+      "query": "Samsung Galaxy S25",
+      "timestamp": "2026-05-08T22:29:32.613289",
+      "results": [
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 429.99,
+          "price_egp": 22669.07,
+          "product": "Samsung Galaxy S25 FE - 128 GB - Jetblack (Unlocked)",
+          "product_url": "https://www.ebay.com/itm/177810482865?_skw=Samsung+Galaxy+S25&epid=16085694578&itmmeta=01KR4F7RG136DHNE92GQ2T492Z&hash=item296654a6b1%3Ag%3AHD8AAeSweR9pd8NO&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAAADth4q947AdvdbPzraHmQFkBbY6zih1vlp9fJXTp%2BUkKlDjkbKVAlIRQnnjPSK5Z3bVCrFTtQAptWX%2Bpo%2BJP50SIRGqZWtSNfG4LyaLkl0HYZ0OBPnHK4RIv%2BTZP8idR8pLBFtn5WSuwbCSMmg%2F6Jypzh3O%2B1J7KVFzDZeFk07bxFYtl9EldKYtIseK9NZ85h3uhnINKCK3y1USo298gCIjzdubAztXk8f1EafYnTvF%2BcEI%2BgA749%2FwCVqPlAwEjxnu0TqhSkDjZ8wJf3t0J5pTQplw9m1PpPbzyFTHg6g%3D%3D%7Ctkp%3ABk9SR5qIn4_BZw&LH_ItemCondition=1000",
+          "rating": 0,
+          "reviews": 0,
+          "site": "eBay"
+        },
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 39183.25,
+          "price_egp": 39183.25,
+          "product": "Galaxy S25 FE AI Dual SIM 5G Jetblack 8GB RAM 256GB - Middle East Version",
+          "product_url": "https://www.noon.com/egypt-en/galaxy-s25-fe-ai-dual-sim-5g-jetblack-8gb-ram-256gb-middle-east-version",
+          "rating": 0,
+          "reviews": 723,
+          "site": "Noon"
+        },
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 989,
+          "price_egp": 52140.08,
+          "product": "Samsung Galaxy S25 Ultra 256GB Unlocked Android Cell Phone with 200MP Camera, Ti",
+          "product_url": "https://www.walmart.com/ip/PA3-256GB-Black/14916573729?classType=VARIANT&athbdg=L1600",
+          "rating": 4.8,
+          "reviews": 24261,
+          "site": "Walmart"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 66899,
+          "price_egp": 66899,
+          "product": "Samsung Galaxy S25 Ultra Dual SIM 5G - 256GB/12GB - 6.9 Inch Mobile Phone Titani",
+          "product_url": "https://www.jumia.com.eg/galaxy-s25-ultra-dual-sim-5g-256gb12gb-6.9-inch-mobile-phone-titanium-gray-samsung-mpg3849534.html",
+          "rating": 5,
+          "reviews": 2,
+          "site": "Jumia"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 45222.85,
+        "best_price": 22669.07,
+        "best_site": "eBay",
+        "total_sites": 4,
+        "worst_price": 66899,
+        "worst_site": "Jumia"
+      }
+    },
+    {
+      "id": "86c07939-133d-442c-80ed-b0c67b87bd35",
+      "query": "PlayStation 5",
+      "timestamp": "2026-05-08T22:21:06.340919",
+      "results": [
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 300,
+          "price_egp": 15816,
+          "product": "Sony PlayStation 5 Digital Edition 825GB Console White Black 4K HDR Wi-Fi HDMI",
+          "product_url": "https://www.ebay.com/itm/397905658545?_skw=PlayStation+5&itmmeta=01KR4G4CPPFN1S1617Z8ACX5QP&hash=item5ca50682b1%3Ag%3AG2MAAeSwvb1p9ry9&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCKa%2B%2FYf23jna50gzPgg1KV9dg8b72SiyiW%2F5OW%2FCVTwkqR2dl%2B8ByOnXO3C2X86O3BKRtj6oKhT0oMy8xHu%2BLXvGKsX79S0msAX%2Fm2PqHnef%2Fu9NxlgES1QY7%2Ftrda%2BfRbYPYH4AFehjqhHWCv0QxBK174%2FJ8lRVy%2Ff9KWzbX7K2spGDRodpGJMeEdd3avJxd91mpMMvCxLZgz7mroVr6QRyOCNEIHfTE%2BJ8jqR6gWSnaTdoXvN4CT%2FlPjFm7HJiRdCZlqMmlhB1x2GLeZsxuEcM1m6blFoSrhRa0YWSCDqw%3D%3D%7Ctkp%3ABk9SR-bLkZDBZw&LH_ItemCondition=1000",
+          "rating": 0,
+          "reviews": 0,
+          "site": "eBay"
+        },
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 569.99,
+          "price_egp": 30049.87,
+          "product": "PlayStation 5 Digital Console Slim - 825GB",
+          "product_url": "https://www.walmart.com/ip/PlayStation-5-Digital-Console-Slim/17852302051?classType=REGULAR&athbdg=L1103",
+          "rating": 4.6,
+          "reviews": 13104,
+          "site": "Walmart"
+        },
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 34920,
+          "price_egp": 34920,
+          "product": "PlayStation 5 Slim Console (International Version) Digital Edition With Controll",
+          "product_url": "https://www.noon.com/egypt-en/playstation-5-slim-console-international-version-digital-edition-with-controller",
+          "rating": 0,
+          "reviews": 2877,
+          "site": "Noon"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 61999,
+          "price_egp": 61999,
+          "product": "Sony Sony PlayStation 5 Pro, 2TB SSD with Wireless Controller - White",
+          "product_url": "https://www.jumia.com.eg/sony-sony-playstation-5-pro-2tb-ssd-with-wireless-controller-white-131954893.html",
+          "rating": 5,
+          "reviews": 2,
+          "site": "Jumia"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 35696.22,
+        "best_price": 15816,
+        "best_site": "eBay",
+        "total_sites": 4,
+        "worst_price": 61999,
+        "worst_site": "Jumia"
+      }
+    },
+    {
+      "id": "09e024e6-7698-4ac0-8d29-42bde1fda07c",
+      "query": "PlayStation 5",
+      "timestamp": "2026-05-08T22:14:25.637027",
+      "results": [
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 300,
+          "price_egp": 15816,
+          "product": "Sony PlayStation 5 Digital Edition 825GB Console White Black 4K HDR Wi-Fi HDMI",
+          "product_url": "https://www.ebay.com/itm/397905658545?_skw=PlayStation+5&itmmeta=01KR4G4CPPFN1S1617Z8ACX5QP&hash=item5ca50682b1%3Ag%3AG2MAAeSwvb1p9ry9&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCKa%2B%2FYf23jna50gzPgg1KV9dg8b72SiyiW%2F5OW%2FCVTwkqR2dl%2B8ByOnXO3C2X86O3BKRtj6oKhT0oMy8xHu%2BLXvGKsX79S0msAX%2Fm2PqHnef%2Fu9NxlgES1QY7%2Ftrda%2BfRbYPYH4AFehjqhHWCv0QxBK174%2FJ8lRVy%2Ff9KWzbX7K2spGDRodpGJMeEdd3avJxd91mpMMvCxLZgz7mroVr6QRyOCNEIHfTE%2BJ8jqR6gWSnaTdoXvN4CT%2FlPjFm7HJiRdCZlqMmlhB1x2GLeZsxuEcM1m6blFoSrhRa0YWSCDqw%3D%3D%7Ctkp%3ABk9SR-bLkZDBZw&LH_ItemCondition=1000",
+          "rating": 0,
+          "reviews": 0,
+          "site": "eBay"
+        },
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 569.99,
+          "price_egp": 30049.87,
+          "product": "PlayStation 5 Digital Console Slim - 825GB",
+          "product_url": "https://www.walmart.com/ip/PlayStation-5-Digital-Console-Slim/17852302051?classType=REGULAR&athbdg=L1103",
+          "rating": 4.6,
+          "reviews": 13104,
+          "site": "Walmart"
+        },
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 34920,
+          "price_egp": 34920,
+          "product": "PlayStation 5 Slim Console (International Version) Digital Edition With Controll",
+          "product_url": "https://www.noon.com/egypt-en/playstation-5-slim-console-international-version-digital-edition-with-controller",
+          "rating": 0,
+          "reviews": 2877,
+          "site": "Noon"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 61999,
+          "price_egp": 61999,
+          "product": "Sony Sony PlayStation 5 Pro, 2TB SSD with Wireless Controller - White",
+          "product_url": "https://www.jumia.com.eg/sony-sony-playstation-5-pro-2tb-ssd-with-wireless-controller-white-131954893.html",
+          "rating": 5,
+          "reviews": 2,
+          "site": "Jumia"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 35696.22,
+        "best_price": 15816,
+        "best_site": "eBay",
+        "total_sites": 4,
+        "worst_price": 61999,
+        "worst_site": "Jumia"
+      }
+    },
+    {
+      "id": "72d8abde-b868-4af2-a3cb-9a61d51f01d1",
+      "query": "Samsung Galaxy S25",
+      "timestamp": "2026-05-08T22:12:09.681609",
+      "results": [
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 429.99,
+          "price_egp": 22669.07,
+          "product": "Samsung Galaxy S25 FE - 128 GB - Jetblack (Unlocked)",
+          "product_url": "https://www.ebay.com/itm/177810482865?_skw=Samsung+Galaxy+S25&epid=16085694578&itmmeta=01KR4F7RG136DHNE92GQ2T492Z&hash=item296654a6b1%3Ag%3AHD8AAeSweR9pd8NO&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAAADth4q947AdvdbPzraHmQFkBbY6zih1vlp9fJXTp%2BUkKlDjkbKVAlIRQnnjPSK5Z3bVCrFTtQAptWX%2Bpo%2BJP50SIRGqZWtSNfG4LyaLkl0HYZ0OBPnHK4RIv%2BTZP8idR8pLBFtn5WSuwbCSMmg%2F6Jypzh3O%2B1J7KVFzDZeFk07bxFYtl9EldKYtIseK9NZ85h3uhnINKCK3y1USo298gCIjzdubAztXk8f1EafYnTvF%2BcEI%2BgA749%2FwCVqPlAwEjxnu0TqhSkDjZ8wJf3t0J5pTQplw9m1PpPbzyFTHg6g%3D%3D%7Ctkp%3ABk9SR5qIn4_BZw&LH_ItemCondition=1000",
+          "rating": 0,
+          "reviews": 0,
+          "site": "eBay"
+        },
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 39183.25,
+          "price_egp": 39183.25,
+          "product": "Galaxy S25 FE AI Dual SIM 5G Jetblack 8GB RAM 256GB - Middle East Version",
+          "product_url": "https://www.noon.com/egypt-en/galaxy-s25-fe-ai-dual-sim-5g-jetblack-8gb-ram-256gb-middle-east-version",
+          "rating": 0,
+          "reviews": 723,
+          "site": "Noon"
+        },
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 989,
+          "price_egp": 52140.08,
+          "product": "Samsung Galaxy S25 Ultra 256GB Unlocked Android Cell Phone with 200MP Camera, Ti",
+          "product_url": "https://www.walmart.com/ip/PA3-256GB-Black/14916573729?classType=VARIANT&athbdg=L1600",
+          "rating": 4.8,
+          "reviews": 24261,
+          "site": "Walmart"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 66899,
+          "price_egp": 66899,
+          "product": "Samsung Galaxy S25 Ultra Dual SIM 5G - 256GB/12GB - 6.9 Inch Mobile Phone Titani",
+          "product_url": "https://www.jumia.com.eg/galaxy-s25-ultra-dual-sim-5g-256gb12gb-6.9-inch-mobile-phone-titanium-gray-samsung-mpg3849534.html",
+          "rating": 5,
+          "reviews": 2,
+          "site": "Jumia"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 45222.85,
+        "best_price": 22669.07,
+        "best_site": "eBay",
+        "total_sites": 4,
+        "worst_price": 66899,
+        "worst_site": "Jumia"
+      }
+    },
+    {
+      "id": "a806801d-1590-4226-bc04-4580b1c02a80",
+      "query": "Samsung Galaxy S25",
+      "timestamp": "2026-05-08T22:06:41.309170",
+      "results": [
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 429.99,
+          "price_egp": 22669.07,
+          "product": "Samsung Galaxy S25 FE - 128 GB - Jetblack (Unlocked)",
+          "product_url": "https://www.ebay.com/itm/177810482865?_skw=Samsung+Galaxy+S25&epid=16085694578&itmmeta=01KR4F7RG136DHNE92GQ2T492Z&hash=item296654a6b1%3Ag%3AHD8AAeSweR9pd8NO&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAAADth4q947AdvdbPzraHmQFkBbY6zih1vlp9fJXTp%2BUkKlDjkbKVAlIRQnnjPSK5Z3bVCrFTtQAptWX%2Bpo%2BJP50SIRGqZWtSNfG4LyaLkl0HYZ0OBPnHK4RIv%2BTZP8idR8pLBFtn5WSuwbCSMmg%2F6Jypzh3O%2B1J7KVFzDZeFk07bxFYtl9EldKYtIseK9NZ85h3uhnINKCK3y1USo298gCIjzdubAztXk8f1EafYnTvF%2BcEI%2BgA749%2FwCVqPlAwEjxnu0TqhSkDjZ8wJf3t0J5pTQplw9m1PpPbzyFTHg6g%3D%3D%7Ctkp%3ABk9SR5qIn4_BZw&LH_ItemCondition=1000",
+          "rating": 0,
+          "reviews": 0,
+          "site": "eBay"
+        },
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 989,
+          "price_egp": 52140.08,
+          "product": "Samsung Galaxy S25 Ultra 256GB Unlocked Android Cell Phone with 200MP Camera, Ti",
+          "product_url": "https://www.walmart.com/ip/PA3-256GB-Black/14916573729?classType=VARIANT&athbdg=L1600",
+          "rating": 4.8,
+          "reviews": 24261,
+          "site": "Walmart"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 66899,
+          "price_egp": 66899,
+          "product": "Samsung Galaxy S25 Ultra Dual SIM 5G - 256GB/12GB - 6.9 Inch Mobile Phone Titani",
+          "product_url": "https://www.jumia.com.eg/galaxy-s25-ultra-dual-sim-5g-256gb12gb-6.9-inch-mobile-phone-titanium-gray-samsung-mpg3849534.html",
+          "rating": 5,
+          "reviews": 2,
+          "site": "Jumia"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 47236.05,
+        "best_price": 22669.07,
+        "best_site": "eBay",
+        "total_sites": 3,
+        "worst_price": 66899,
+        "worst_site": "Jumia"
+      }
+    },
+    {
+      "id": "e2f0de19-b8e2-49b9-a2a3-f28e8f8b5790",
+      "query": "Samsung Galaxy S25",
+      "timestamp": "2026-05-08T21:58:36.420084",
+      "results": [
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 429.99,
+          "price_egp": 22669.07,
+          "product": "Samsung Galaxy S25 FE - 128 GB - Jetblack (Unlocked)",
+          "product_url": "https://www.ebay.com/itm/177810482865?_skw=Samsung+Galaxy+S25&epid=16085694578&itmmeta=01KR4F7RG136DHNE92GQ2T492Z&hash=item296654a6b1%3Ag%3AHD8AAeSweR9pd8NO&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAAADth4q947AdvdbPzraHmQFkBbY6zih1vlp9fJXTp%2BUkKlDjkbKVAlIRQnnjPSK5Z3bVCrFTtQAptWX%2Bpo%2BJP50SIRGqZWtSNfG4LyaLkl0HYZ0OBPnHK4RIv%2BTZP8idR8pLBFtn5WSuwbCSMmg%2F6Jypzh3O%2B1J7KVFzDZeFk07bxFYtl9EldKYtIseK9NZ85h3uhnINKCK3y1USo298gCIjzdubAztXk8f1EafYnTvF%2BcEI%2BgA749%2FwCVqPlAwEjxnu0TqhSkDjZ8wJf3t0J5pTQplw9m1PpPbzyFTHg6g%3D%3D%7Ctkp%3ABk9SR5qIn4_BZw&LH_ItemCondition=1000",
+          "rating": 0,
+          "reviews": 0,
+          "site": "eBay"
+        },
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 989,
+          "price_egp": 52140.08,
+          "product": "Samsung Galaxy S25 Ultra 256GB Unlocked Android Cell Phone with 200MP Camera, Ti",
+          "product_url": "https://www.walmart.com/ip/PA3-256GB-Black/14916573729?classType=VARIANT&athbdg=L1600",
+          "rating": 4.8,
+          "reviews": 24261,
+          "site": "Walmart"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 66899,
+          "price_egp": 66899,
+          "product": "Samsung Galaxy S25 Ultra Dual SIM 5G - 256GB/12GB - 6.9 Inch Mobile Phone Titani",
+          "product_url": "https://www.jumia.com.eg/galaxy-s25-ultra-dual-sim-5g-256gb12gb-6.9-inch-mobile-phone-titanium-gray-samsung-mpg3849534.html",
+          "rating": 5,
+          "reviews": 2,
+          "site": "Jumia"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 47236.05,
+        "best_price": 22669.07,
+        "best_site": "eBay",
+        "total_sites": 3,
+        "worst_price": 66899,
+        "worst_site": "Jumia"
+      }
+    },
+    {
+      "id": "0accf79e-a258-40f3-b05e-836e4be53520",
+      "query": "iPhone 17 Pro Max",
+      "timestamp": "2026-05-08T21:50:41.048694",
+      "results": [
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 1749,
+          "price_egp": 92207.28,
+          "product": "Apple iPhone 17 Pro Max | US Version | 512GB | eSIM | Cosmic Orange | Unlocked",
+          "product_url": "https://www.ebay.com/itm/286965001979?_skw=iPhone+17+Pro+Max&epid=4085693753&itmmeta=01KR4ES3WHJ9430GSV500DFR6D&hash=item42d0726efb%3Ag%3AIOAAAeSwDStpkT3e&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xD%2BPGrjTM%2BdWXwpmlbwNkhuDUNmt9%2FqAZKoK05KVc1MWeXZ%2FqZMKFoRruzzGPaOMa5zynxmy0CthS611NvtjX35X3lmwkIAq4p96JCEEIx9OqNl6ovjf5D1nNguXlGyTCSICOQUrJjBoQkUvogFUrVM5wln5kXd95LAaE8hGxf%2BQ0x8vuYbvMno1Ti3OWO7iFDS88Sw87e8k%2BAsKF%2BL9Visgb520pS2F60urQBpTEy7jNh09xtPcBQXIHm62CLUmyI%3D%7Ctkp%3ABlBMUNi-5I7BZw&LH_ItemCondition=1000",
+          "rating": 5,
+          "reviews": 1,
+          "site": "eBay"
+        },
+        {
+          "color": "#FF9900",
+          "currency": "EGP",
+          "price": 102999,
+          "price_egp": 102999,
+          "product": "\u0627\u0628\u0644 \u0622\u064a\u0641\u0648\u0646 17 Pro Max (256 \u062c\u064a\u062c\u0627\u0628\u0627\u064a\u062a) - \u0628\u0631\u062a\u0642\u0627\u0644\u064a \u0643\u0648\u0646\u064a \u0645\u0639 \u062e\u0627\u0635\u064a\u0629 Face ID | \u0645\u062f\u0641\u0648\u0639 \u0627\u0644\u0636\u0631",
+          "product_url": "https://www.amazon.eg/%D8%A7%D8%A8%D9%84-%D8%A2%D9%8A%D9%81%D9%88%D9%86-Pro-Max-%D8%AC%D9%8A%D8%AC%D8%A7%D8%A8%D8%A7%D9%8A%D8%AA/dp/B0FQFK93TR/ref=sr_1_1?keywords=iPhone+17+Pro+Max&qid=1778266174&sr=8-1",
+          "rating": 3.8,
+          "reviews": 41,
+          "site": "Amazon"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 104469,
+          "price_egp": 104469,
+          "product": "Apple iPhone 17 Pro Max 256GB Cosmic Orange",
+          "product_url": "https://www.jumia.com.eg/apple-iphone-17-pro-max-256gb-cosmic-orange-134004666.html",
+          "rating": 0,
+          "reviews": 0,
+          "site": "Jumia"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 99891.76,
+        "best_price": 92207.28,
+        "best_site": "eBay",
+        "total_sites": 3,
+        "worst_price": 104469,
+        "worst_site": "Jumia"
+      }
+    },
+    {
+      "id": "19046411-c452-4366-a19a-b6c011b2b42d",
+      "query": "Samsung Galaxy S25",
+      "timestamp": "2026-05-08T21:46:17.554927",
+      "results": [
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 429.99,
+          "price_egp": 22669.07,
+          "product": "Samsung Galaxy S25 FE - 128 GB - Jetblack (Unlocked)",
+          "rating": 0,
+          "reviews": 0,
+          "site": "eBay"
+        },
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 989,
+          "price_egp": 52140.08,
+          "product": "Samsung Galaxy S25 Ultra 256GB Unlocked Android Cell Phone with 200MP Camera, Ti",
+          "rating": 4.8,
+          "reviews": 24261,
+          "site": "Walmart"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 66899,
+          "price_egp": 66899,
+          "product": "Samsung Galaxy S25 Ultra Dual SIM 5G - 256GB/12GB - 6.9 Inch Mobile Phone Titani",
+          "rating": 5,
+          "reviews": 2,
+          "site": "Jumia"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 47236.05,
+        "best_price": 22669.07,
+        "best_site": "eBay",
+        "total_sites": 3,
+        "worst_price": 66899,
+        "worst_site": "Jumia"
+      }
+    },
+    {
+      "id": "4cb9ea3e-d35a-4813-a922-618d67781e64",
+      "query": "Samsung Galaxy S25",
+      "timestamp": "2026-05-08T21:35:57.835811",
+      "results": [
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 429.99,
+          "price_egp": 22669.07,
+          "product": "Samsung Galaxy S25 FE - 128 GB - Jetblack (Unlocked)",
+          "rating": 0,
+          "reviews": 0,
+          "site": "eBay"
+        },
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 989,
+          "price_egp": 52140.08,
+          "product": "Samsung Galaxy S25 Ultra 256GB Unlocked Android Cell Phone with 200MP Camera, Ti",
+          "rating": 4.8,
+          "reviews": 24261,
+          "site": "Walmart"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 66899,
+          "price_egp": 66899,
+          "product": "Samsung Galaxy S25 Ultra Dual SIM 5G - 256GB/12GB - 6.9 Inch Mobile Phone Titani",
+          "rating": 5,
+          "reviews": 2,
+          "site": "Jumia"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 47236.05,
+        "best_price": 22669.07,
+        "best_site": "eBay",
+        "total_sites": 3,
+        "worst_price": 66899,
+        "worst_site": "Jumia"
+      }
+    },
+    {
+      "id": "fb2587e8-4c7b-4733-b0ef-7ff75c1beddb",
+      "query": "iPhone 17 Pro Max",
+      "timestamp": "2026-05-08T21:23:25.047168",
+      "results": [
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 1749,
+          "price_egp": 92207.28,
+          "product": "Apple iPhone 17 Pro Max | US Version | 512GB | eSIM | Cosmic Orange | Unlocked",
+          "rating": 5,
+          "reviews": 1,
+          "site": "eBay"
+        },
+        {
+          "color": "#FF9900",
+          "currency": "EGP",
+          "price": 102999,
+          "price_egp": 102999,
+          "product": "\u0627\u0628\u0644 \u0622\u064a\u0641\u0648\u0646 17 Pro Max (256 \u062c\u064a\u062c\u0627\u0628\u0627\u064a\u062a) - \u0628\u0631\u062a\u0642\u0627\u0644\u064a \u0643\u0648\u0646\u064a \u0645\u0639 \u062e\u0627\u0635\u064a\u0629 Face ID | \u0645\u062f\u0641\u0648\u0639 \u0627\u0644\u0636\u0631",
+          "rating": 3.8,
+          "reviews": 41,
+          "site": "Amazon"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 104469,
+          "price_egp": 104469,
+          "product": "Apple iPhone 17 Pro Max 256GB Cosmic Orange",
+          "rating": 0,
+          "reviews": 0,
+          "site": "Jumia"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 99891.76,
+        "best_price": 92207.28,
+        "best_site": "eBay",
+        "total_sites": 3,
+        "worst_price": 104469,
+        "worst_site": "Jumia"
+      }
+    },
+    {
+      "id": "af7615a3-81f5-4462-9af0-3cf105cfd3d2",
+      "query": "Samsung Galaxy S25",
+      "timestamp": "2026-05-08T21:03:01.562626",
+      "results": [
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 429.99,
+          "price_egp": 22669.07,
+          "product": "Samsung Galaxy S25 FE - 128 GB - Jetblack (Unlocked)",
+          "rating": 0,
+          "reviews": 0,
+          "site": "eBay"
+        },
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 989,
+          "price_egp": 52140.08,
+          "product": "Samsung Galaxy S25 Ultra 256GB Unlocked Android Cell Phone with 200MP Camera, Ti",
+          "rating": 4.8,
+          "reviews": 24261,
+          "site": "Walmart"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 66899,
+          "price_egp": 66899,
+          "product": "Samsung Galaxy S25 Ultra Dual SIM 5G - 256GB/12GB - 6.9 Inch Mobile Phone Titani",
+          "rating": 5,
+          "reviews": 2,
+          "site": "Jumia"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 47236.05,
+        "best_price": 22669.07,
+        "best_site": "eBay",
+        "total_sites": 3,
+        "worst_price": 66899,
+        "worst_site": "Jumia"
+      }
+    },
+    {
+      "id": "811e314d-cf2c-417e-a97b-dff030fe86b6",
+      "query": "Samsung Galaxy S25",
+      "timestamp": "2026-05-08T20:50:19.548708",
+      "results": [
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 429.99,
+          "price_egp": 22669.07,
+          "product": "Samsung Galaxy S25 FE - 128 GB - Jetblack (Unlocked)",
+          "rating": 0,
+          "reviews": 0,
+          "site": "eBay"
+        },
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 989,
+          "price_egp": 52140.08,
+          "product": "Samsung Galaxy S25 Ultra 256GB Unlocked Android Cell Phone with 200MP Camera, Ti",
+          "rating": 4.8,
+          "reviews": 24261,
+          "site": "Walmart"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 66899,
+          "price_egp": 66899,
+          "product": "Samsung Galaxy S25 Ultra Dual SIM 5G - 256GB/12GB - 6.9 Inch Mobile Phone Titani",
+          "rating": 5,
+          "reviews": 2,
+          "site": "Jumia"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 47236.05,
+        "best_price": 22669.07,
+        "best_site": "eBay",
+        "total_sites": 3,
+        "worst_price": 66899,
+        "worst_site": "Jumia"
+      }
+    },
+    {
+      "id": "f064b433-15e5-4b54-8369-522d2e5db05a",
+      "query": "iPhone 17 Pro Max",
+      "timestamp": "2026-05-08T20:45:17.126624",
+      "results": [
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 1749,
+          "price_egp": 92207.28,
+          "product": "Apple iPhone 17 Pro Max | US Version | 512GB | eSIM | Cosmic Orange | Unlocked",
+          "rating": 5,
+          "reviews": 1,
+          "site": "eBay"
+        },
+        {
+          "color": "#FF9900",
+          "currency": "EGP",
+          "price": 102999,
+          "price_egp": 102999,
+          "product": "\u0627\u0628\u0644 \u0622\u064a\u0641\u0648\u0646 17 Pro Max (256 \u062c\u064a\u062c\u0627\u0628\u0627\u064a\u062a) - \u0628\u0631\u062a\u0642\u0627\u0644\u064a \u0643\u0648\u0646\u064a \u0645\u0639 \u062e\u0627\u0635\u064a\u0629 Face ID | \u0645\u062f\u0641\u0648\u0639 \u0627\u0644\u0636\u0631",
+          "rating": 3.8,
+          "reviews": 41,
+          "site": "Amazon"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 104469,
+          "price_egp": 104469,
+          "product": "Apple iPhone 17 Pro Max 256GB Cosmic Orange",
+          "rating": 0,
+          "reviews": 0,
+          "site": "Jumia"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 99891.76,
+        "best_price": 92207.28,
+        "best_site": "eBay",
+        "total_sites": 3,
+        "worst_price": 104469,
+        "worst_site": "Jumia"
+      }
+    },
+    {
+      "id": "1a909b2b-b4a0-4061-b247-d5c7a360e4b3",
+      "query": "iphone 15",
+      "timestamp": "2026-05-08T16:26:18.718329",
+      "results": [
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 212.97,
+          "price_egp": 10435.53,
+          "product": "iphone 15 \u2014 Walmart Listing",
+          "rating": 4,
+          "reviews": 4997,
+          "site": "Walmart"
+        },
+        {
+          "color": "#FF9900",
+          "currency": "EGP",
+          "price": 18079.91,
+          "price_egp": 18079.91,
+          "product": "iphone 15 \u2014 Amazon Listing",
+          "rating": 3.6,
+          "reviews": 669,
+          "site": "Amazon"
+        },
+        {
+          "color": "#FF6600",
+          "currency": "USD",
+          "price": 476.04,
+          "price_egp": 23325.96,
+          "product": "iphone 15 \u2014 Newegg Listing",
+          "rating": 3.7,
+          "reviews": 6660,
+          "site": "Newegg"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 24797.66,
+          "price_egp": 24797.66,
+          "product": "iphone 15 \u2014 Jumia Listing",
+          "rating": 3.3,
+          "reviews": 4227,
+          "site": "Jumia"
+        },
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 32317.12,
+          "price_egp": 32317.12,
+          "product": "iphone 15 \u2014 Noon Listing",
+          "rating": 4.5,
+          "reviews": 8300,
+          "site": "Noon"
+        },
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 1464.7,
+          "price_egp": 71770.3,
+          "product": "iphone 15 \u2014 eBay Listing",
+          "rating": 3.8,
+          "reviews": 9902,
+          "site": "eBay"
+        },
+        {
+          "color": "#0046BE",
+          "currency": "USD",
+          "price": 1568.39,
+          "price_egp": 76851.11,
+          "product": "iphone 15 \u2014 BestBuy Listing",
+          "rating": 4.2,
+          "reviews": 553,
+          "site": "BestBuy"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 36796.8,
+        "best_price": 10435.53,
+        "best_site": "Walmart",
+        "total_sites": 7,
+        "worst_price": 76851.11,
+        "worst_site": "BestBuy"
+      }
+    },
+    {
+      "id": "8ab40471-5062-4154-bac7-376ba4933e2e",
+      "query": "iPhone 17 Pro Max",
+      "timestamp": "2026-05-08T16:26:03.742736",
+      "results": [
+        {
+          "color": "#FF6600",
+          "currency": "USD",
+          "price": 378.93,
+          "price_egp": 18567.57,
+          "product": "iPhone 17 Pro Max \u2014 Newegg Listing",
+          "rating": 3.5,
+          "reviews": 7020,
+          "site": "Newegg"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 29007.04,
+          "price_egp": 29007.04,
+          "product": "iPhone 17 Pro Max \u2014 Jumia Listing",
+          "rating": 4.5,
+          "reviews": 3366,
+          "site": "Jumia"
+        },
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 40779.51,
+          "price_egp": 40779.51,
+          "product": "iPhone 17 Pro Max \u2014 Noon Listing",
+          "rating": 5,
+          "reviews": 62,
+          "site": "Noon"
+        },
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 834.64,
+          "price_egp": 40897.36,
+          "product": "iPhone 17 Pro Max \u2014 Walmart Listing",
+          "rating": 4.2,
+          "reviews": 11316,
+          "site": "Walmart"
+        },
+        {
+          "color": "#0046BE",
+          "currency": "USD",
+          "price": 1263.11,
+          "price_egp": 61892.39,
+          "product": "iPhone 17 Pro Max \u2014 BestBuy Listing",
+          "rating": 4.6,
+          "reviews": 8999,
+          "site": "BestBuy"
+        },
+        {
+          "color": "#FF9900",
+          "currency": "EGP",
+          "price": 68117.15,
+          "price_egp": 68117.15,
+          "product": "iPhone 17 Pro Max \u2014 Amazon Listing",
+          "rating": 4.9,
+          "reviews": 10094,
+          "site": "Amazon"
+        },
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 1488.43,
+          "price_egp": 72933.07,
+          "product": "iPhone 17 Pro Max \u2014 eBay Listing",
+          "rating": 4.4,
+          "reviews": 7554,
+          "site": "eBay"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 47456.3,
+        "best_price": 18567.57,
+        "best_site": "Newegg",
+        "total_sites": 7,
+        "worst_price": 72933.07,
+        "worst_site": "eBay"
+      }
+    },
+    {
+      "id": "acef0457-240f-40d9-b9e0-8814e6fd1d50",
+      "query": "MacBook Air M4",
+      "timestamp": "2026-05-08T16:08:30.871723",
+      "results": [
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 34038.25,
+          "price_egp": 34038.25,
+          "product": "MacBook Air M4 \u2014 Jumia Listing",
+          "rating": 4.6,
+          "reviews": 8951,
+          "site": "Jumia"
+        },
+        {
+          "color": "#FF9900",
+          "currency": "EGP",
+          "price": 36768.3,
+          "price_egp": 36768.3,
+          "product": "MacBook Air M4 \u2014 Amazon Listing",
+          "rating": 3.6,
+          "reviews": 5460,
+          "site": "Amazon"
+        },
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 1102.66,
+          "price_egp": 54030.34,
+          "product": "MacBook Air M4 \u2014 Walmart Listing",
+          "rating": 4.1,
+          "reviews": 4617,
+          "site": "Walmart"
+        },
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 71044.59,
+          "price_egp": 71044.59,
+          "product": "MacBook Air M4 \u2014 Noon Listing",
+          "rating": 4,
+          "reviews": 10941,
+          "site": "Noon"
+        },
+        {
+          "color": "#FF6600",
+          "currency": "USD",
+          "price": 1496.38,
+          "price_egp": 73322.62,
+          "product": "MacBook Air M4 \u2014 Newegg Listing",
+          "rating": 4.7,
+          "reviews": 1830,
+          "site": "Newegg"
+        },
+        {
+          "color": "#0046BE",
+          "currency": "USD",
+          "price": 1582.2,
+          "price_egp": 77527.8,
+          "product": "MacBook Air M4 \u2014 BestBuy Listing",
+          "rating": 4.4,
+          "reviews": 641,
+          "site": "BestBuy"
+        },
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 1586.88,
+          "price_egp": 77757.12,
+          "product": "MacBook Air M4 \u2014 eBay Listing",
+          "rating": 3.6,
+          "reviews": 7696,
+          "site": "eBay"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 60641.29,
+        "best_price": 34038.25,
+        "best_site": "Jumia",
+        "total_sites": 7,
+        "worst_price": 77757.12,
+        "worst_site": "eBay"
+      }
+    },
+    {
+      "id": "dc193b7f-33ef-492b-92a7-70a82f21232b",
+      "query": "iPhone 17 Pro Max",
+      "timestamp": "2026-05-08T16:08:03.681358",
+      "results": [
+        {
+          "color": "#FF9900",
+          "currency": "EGP",
+          "price": 19409.16,
+          "price_egp": 19409.16,
+          "product": "iPhone 17 Pro Max \u2014 Amazon Listing",
+          "rating": 4.6,
+          "reviews": 9344,
+          "site": "Amazon"
+        },
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 466.68,
+          "price_egp": 22867.32,
+          "product": "iPhone 17 Pro Max \u2014 eBay Listing",
+          "rating": 3.2,
+          "reviews": 719,
+          "site": "eBay"
+        },
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 880.37,
+          "price_egp": 43138.13,
+          "product": "iPhone 17 Pro Max \u2014 Walmart Listing",
+          "rating": 4.1,
+          "reviews": 4094,
+          "site": "Walmart"
+        },
+        {
+          "color": "#0046BE",
+          "currency": "USD",
+          "price": 1076.92,
+          "price_egp": 52769.08,
+          "product": "iPhone 17 Pro Max \u2014 BestBuy Listing",
+          "rating": 3.4,
+          "reviews": 5983,
+          "site": "BestBuy"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 63419.24,
+          "price_egp": 63419.24,
+          "product": "iPhone 17 Pro Max \u2014 Jumia Listing",
+          "rating": 4.8,
+          "reviews": 1670,
+          "site": "Jumia"
+        },
+        {
+          "color": "#FF6600",
+          "currency": "USD",
+          "price": 1605.09,
+          "price_egp": 78649.41,
+          "product": "iPhone 17 Pro Max \u2014 Newegg Listing",
+          "rating": 4.1,
+          "reviews": 4359,
+          "site": "Newegg"
+        },
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 84062.41,
+          "price_egp": 84062.41,
+          "product": "iPhone 17 Pro Max \u2014 Noon Listing",
+          "rating": 4.6,
+          "reviews": 11227,
+          "site": "Noon"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 52044.96,
+        "best_price": 19409.16,
+        "best_site": "Amazon",
+        "total_sites": 7,
+        "worst_price": 84062.41,
+        "worst_site": "Noon"
+      }
+    },
+    {
+      "id": "58cffd29-5e0b-43e1-8a96-49c5eeef49f2",
+      "query": "iPhone 17 Pro Max",
+      "timestamp": "2026-05-06T14:14:16.901541",
+      "results": [
+        {
+          "color": "#FF6600",
+          "currency": "USD",
+          "price": 237.69,
+          "price_egp": 11646.81,
+          "product": "iPhone 17 Pro Max \u2014 Newegg Listing",
+          "rating": 3.5,
+          "reviews": 11803,
+          "site": "Newegg"
+        },
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 481.25,
+          "price_egp": 23581.25,
+          "product": "iPhone 17 Pro Max \u2014 eBay Listing",
+          "rating": 4.9,
+          "reviews": 3384,
+          "site": "eBay"
+        },
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 508.53,
+          "price_egp": 24917.97,
+          "product": "iPhone 17 Pro Max \u2014 Walmart Listing",
+          "rating": 3.3,
+          "reviews": 7442,
+          "site": "Walmart"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 54172.3,
+          "price_egp": 54172.3,
+          "product": "iPhone 17 Pro Max \u2014 Jumia Listing",
+          "rating": 4.5,
+          "reviews": 7570,
+          "site": "Jumia"
+        },
+        {
+          "color": "#0046BE",
+          "currency": "USD",
+          "price": 1453.08,
+          "price_egp": 71200.92,
+          "product": "iPhone 17 Pro Max \u2014 BestBuy Listing",
+          "rating": 4.4,
+          "reviews": 11999,
+          "site": "BestBuy"
+        },
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 77957.15,
+          "price_egp": 77957.15,
+          "product": "iPhone 17 Pro Max \u2014 Noon Listing",
+          "rating": 3.7,
+          "reviews": 10239,
+          "site": "Noon"
+        },
+        {
+          "color": "#FF9900",
+          "currency": "EGP",
+          "price": 83525.66,
+          "price_egp": 83525.66,
+          "product": "iPhone 17 Pro Max \u2014 Amazon Listing",
+          "rating": 3.2,
+          "reviews": 996,
+          "site": "Amazon"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 49571.72,
+        "best_price": 11646.81,
+        "best_site": "Newegg",
+        "total_sites": 7,
+        "worst_price": 83525.66,
+        "worst_site": "Amazon"
+      }
+    },
+    {
+      "id": "d234bd74-64a3-46ac-b9bc-960189c9dab1",
+      "query": "iphone 15",
+      "timestamp": "2026-05-06T14:13:01.839274",
+      "results": [
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 14434.3,
+          "price_egp": 14434.3,
+          "product": "iphone 15 \u2014 Noon Listing",
+          "rating": 3.7,
+          "reviews": 2006,
+          "site": "Noon"
+        },
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 416.61,
+          "price_egp": 20413.89,
+          "product": "iphone 15 \u2014 Walmart Listing",
+          "rating": 3.2,
+          "reviews": 2226,
+          "site": "Walmart"
+        },
+        {
+          "color": "#FF6600",
+          "currency": "USD",
+          "price": 492.52,
+          "price_egp": 24133.48,
+          "product": "iphone 15 \u2014 Newegg Listing",
+          "rating": 4.3,
+          "reviews": 6864,
+          "site": "Newegg"
+        },
+        {
+          "color": "#0046BE",
+          "currency": "USD",
+          "price": 633.97,
+          "price_egp": 31064.53,
+          "product": "iphone 15 \u2014 BestBuy Listing",
+          "rating": 3.2,
+          "reviews": 8266,
+          "site": "BestBuy"
+        },
+        {
+          "color": "#FF9900",
+          "currency": "EGP",
+          "price": 34374.26,
+          "price_egp": 34374.26,
+          "product": "iphone 15 \u2014 Amazon Listing",
+          "rating": 3.8,
+          "reviews": 5038,
+          "site": "Amazon"
+        },
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 813.03,
+          "price_egp": 39838.47,
+          "product": "iphone 15 \u2014 eBay Listing",
+          "rating": 4.8,
+          "reviews": 9224,
+          "site": "eBay"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 72871.84,
+          "price_egp": 72871.84,
+          "product": "iphone 15 \u2014 Jumia Listing",
+          "rating": 4,
+          "reviews": 10629,
+          "site": "Jumia"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 33875.82,
+        "best_price": 14434.3,
+        "best_site": "Noon",
+        "total_sites": 7,
+        "worst_price": 72871.84,
+        "worst_site": "Jumia"
+      }
+    },
+    {
+      "id": "0ab48177-edb1-415a-8072-3aea778f4481",
+      "query": "samsung s24 ultra",
+      "timestamp": "2026-05-05T16:31:48.987771",
+      "results": [
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 20759.1,
+          "price_egp": 20759.1,
+          "product": "samsung s24 ultra \u2014 Noon Listing",
+          "rating": 3.6,
+          "reviews": 2628,
+          "site": "Noon"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 44585.75,
+          "price_egp": 44585.75,
+          "product": "samsung s24 ultra \u2014 Jumia Listing",
+          "rating": 4.3,
+          "reviews": 6765,
+          "site": "Jumia"
+        },
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 1335.84,
+          "price_egp": 65456.16,
+          "product": "samsung s24 ultra \u2014 Walmart Listing",
+          "rating": 4.7,
+          "reviews": 5392,
+          "site": "Walmart"
+        },
+        {
+          "color": "#FF6600",
+          "currency": "USD",
+          "price": 1372.13,
+          "price_egp": 67234.37,
+          "product": "samsung s24 ultra \u2014 Newegg Listing",
+          "rating": 3.9,
+          "reviews": 1399,
+          "site": "Newegg"
+        },
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 1624.99,
+          "price_egp": 79624.51,
+          "product": "samsung s24 ultra \u2014 eBay Listing",
+          "rating": 3.2,
+          "reviews": 10484,
+          "site": "eBay"
+        },
+        {
+          "color": "#FF9900",
+          "currency": "EGP",
+          "price": 83337.54,
+          "price_egp": 83337.54,
+          "product": "samsung s24 ultra \u2014 Amazon Listing",
+          "rating": 4.5,
+          "reviews": 10094,
+          "site": "Amazon"
+        },
+        {
+          "color": "#0046BE",
+          "currency": "USD",
+          "price": 1772.29,
+          "price_egp": 86842.21,
+          "product": "samsung s24 ultra \u2014 BestBuy Listing",
+          "rating": 3.4,
+          "reviews": 6151,
+          "site": "BestBuy"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 63977.09,
+        "best_price": 20759.1,
+        "best_site": "Noon",
+        "total_sites": 7,
+        "worst_price": 86842.21,
+        "worst_site": "BestBuy"
+      }
+    },
+    {
+      "id": "f822d7bf-0f79-4ad5-bb05-aebe68ef8c49",
+      "query": "RTX 5090",
+      "timestamp": "2026-05-05T16:24:26.183883",
+      "results": [
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 30688.13,
+          "price_egp": 30688.13,
+          "product": "RTX 5090 \u2014 Jumia Listing",
+          "rating": 4.1,
+          "reviews": 10506,
+          "site": "Jumia"
+        },
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 650.92,
+          "price_egp": 31895.08,
+          "product": "RTX 5090 \u2014 eBay Listing",
+          "rating": 3.4,
+          "reviews": 122,
+          "site": "eBay"
+        },
+        {
+          "color": "#0046BE",
+          "currency": "USD",
+          "price": 843.26,
+          "price_egp": 41319.74,
+          "product": "RTX 5090 \u2014 BestBuy Listing",
+          "rating": 3.7,
+          "reviews": 5375,
+          "site": "BestBuy"
+        },
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 43465.44,
+          "price_egp": 43465.44,
+          "product": "RTX 5090 \u2014 Noon Listing",
+          "rating": 3.3,
+          "reviews": 3961,
+          "site": "Noon"
+        },
+        {
+          "color": "#FF9900",
+          "currency": "EGP",
+          "price": 60254.2,
+          "price_egp": 60254.2,
+          "product": "RTX 5090 \u2014 Amazon Listing",
+          "rating": 3.5,
+          "reviews": 2351,
+          "site": "Amazon"
+        },
+        {
+          "color": "#FF6600",
+          "currency": "USD",
+          "price": 1417.69,
+          "price_egp": 69466.81,
+          "product": "RTX 5090 \u2014 Newegg Listing",
+          "rating": 4.2,
+          "reviews": 10079,
+          "site": "Newegg"
+        },
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 1451.95,
+          "price_egp": 71145.55,
+          "product": "RTX 5090 \u2014 Walmart Listing",
+          "rating": 4.8,
+          "reviews": 2436,
+          "site": "Walmart"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 49747.85,
+        "best_price": 30688.13,
+        "best_site": "Jumia",
+        "total_sites": 7,
+        "worst_price": 71145.55,
+        "worst_site": "Walmart"
+      }
+    },
+    {
+      "id": "7dfd0872-f82f-405f-9d49-149e49a31e30",
+      "query": "playstation 4",
+      "timestamp": "2026-05-04T02:24:00.516327",
+      "results": [
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 564.38,
+          "price_egp": 27654.62,
+          "product": "playstation 4 \u2014 eBay Listing",
+          "rating": 3.4,
+          "reviews": 6569,
+          "site": "eBay"
+        },
+        {
+          "color": "#0046BE",
+          "currency": "USD",
+          "price": 871.42,
+          "price_egp": 42699.58,
+          "product": "playstation 4 \u2014 BestBuy Listing",
+          "rating": 3.5,
+          "reviews": 3306,
+          "site": "BestBuy"
+        },
+        {
+          "color": "#FF6600",
+          "currency": "USD",
+          "price": 973.26,
+          "price_egp": 47689.74,
+          "product": "playstation 4 \u2014 Newegg Listing",
+          "rating": 3.3,
+          "reviews": 4765,
+          "site": "Newegg"
+        },
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 76803.88,
+          "price_egp": 76803.88,
+          "product": "playstation 4 \u2014 Noon Listing",
+          "rating": 4.7,
+          "reviews": 5636,
+          "site": "Noon"
+        },
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 1636.33,
+          "price_egp": 80180.17,
+          "product": "playstation 4 \u2014 Walmart Listing",
+          "rating": 4.2,
+          "reviews": 3604,
+          "site": "Walmart"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 81874.67,
+          "price_egp": 81874.67,
+          "product": "playstation 4 \u2014 Jumia Listing",
+          "rating": 4,
+          "reviews": 377,
+          "site": "Jumia"
+        },
+        {
+          "color": "#FF9900",
+          "currency": "EGP",
+          "price": 84509.38,
+          "price_egp": 84509.38,
+          "product": "playstation 4 \u2014 Amazon Listing",
+          "rating": 4.8,
+          "reviews": 2071,
+          "site": "Amazon"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 63058.86,
+        "best_price": 27654.62,
+        "best_site": "eBay",
+        "total_sites": 7,
+        "worst_price": 84509.38,
+        "worst_site": "Amazon"
+      }
+    },
+    {
+      "id": "fbb10354-b28c-455f-9e08-a30e816dca4f",
+      "query": "samsung s25 ultra",
+      "timestamp": "2026-05-04T02:23:44.766125",
+      "results": [
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 454.06,
+          "price_egp": 22248.94,
+          "product": "samsung s25 ultra \u2014 eBay Listing",
+          "rating": 3.6,
+          "reviews": 7533,
+          "site": "eBay"
+        },
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 663.95,
+          "price_egp": 32533.55,
+          "product": "samsung s25 ultra \u2014 Walmart Listing",
+          "rating": 3.5,
+          "reviews": 2687,
+          "site": "Walmart"
+        },
+        {
+          "color": "#0046BE",
+          "currency": "USD",
+          "price": 676.71,
+          "price_egp": 33158.79,
+          "product": "samsung s25 ultra \u2014 BestBuy Listing",
+          "rating": 3.2,
+          "reviews": 6091,
+          "site": "BestBuy"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 70073.22,
+          "price_egp": 70073.22,
+          "product": "samsung s25 ultra \u2014 Jumia Listing",
+          "rating": 4.4,
+          "reviews": 9793,
+          "site": "Jumia"
+        },
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 84815.24,
+          "price_egp": 84815.24,
+          "product": "samsung s25 ultra \u2014 Noon Listing",
+          "rating": 4.7,
+          "reviews": 8266,
+          "site": "Noon"
+        },
+        {
+          "color": "#FF9900",
+          "currency": "EGP",
+          "price": 87719.31,
+          "price_egp": 87719.31,
+          "product": "samsung s25 ultra \u2014 Amazon Listing",
+          "rating": 5,
+          "reviews": 1593,
+          "site": "Amazon"
+        },
+        {
+          "color": "#FF6600",
+          "currency": "USD",
+          "price": 1882.9,
+          "price_egp": 92262.1,
+          "product": "samsung s25 ultra \u2014 Newegg Listing",
+          "rating": 4.6,
+          "reviews": 7297,
+          "site": "Newegg"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 60401.59,
+        "best_price": 22248.94,
+        "best_site": "eBay",
+        "total_sites": 7,
+        "worst_price": 92262.1,
+        "worst_site": "Newegg"
+      }
+    },
+    {
+      "id": "66f64f20-bc0a-43e4-b5e3-38ba48e9b167",
+      "query": "iphone 13",
+      "timestamp": "2026-05-04T02:23:19.098883",
+      "results": [
+        {
+          "color": "#FF9900",
+          "currency": "EGP",
+          "price": 14560.51,
+          "price_egp": 14560.51,
+          "product": "iphone 13 \u2014 Amazon Listing",
+          "rating": 3.8,
+          "reviews": 4245,
+          "site": "Amazon"
+        },
+        {
+          "color": "#0046BE",
+          "currency": "USD",
+          "price": 375.5,
+          "price_egp": 18399.5,
+          "product": "iphone 13 \u2014 BestBuy Listing",
+          "rating": 4.1,
+          "reviews": 5919,
+          "site": "BestBuy"
+        },
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 29429.17,
+          "price_egp": 29429.17,
+          "product": "iphone 13 \u2014 Noon Listing",
+          "rating": 4.3,
+          "reviews": 8907,
+          "site": "Noon"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 31499.64,
+          "price_egp": 31499.64,
+          "product": "iphone 13 \u2014 Jumia Listing",
+          "rating": 4.5,
+          "reviews": 2641,
+          "site": "Jumia"
+        },
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 865.35,
+          "price_egp": 42402.15,
+          "product": "iphone 13 \u2014 eBay Listing",
+          "rating": 4.4,
+          "reviews": 4473,
+          "site": "eBay"
+        },
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 1429.86,
+          "price_egp": 70063.14,
+          "product": "iphone 13 \u2014 Walmart Listing",
+          "rating": 4.1,
+          "reviews": 2355,
+          "site": "Walmart"
+        },
+        {
+          "color": "#FF6600",
+          "currency": "USD",
+          "price": 1473.24,
+          "price_egp": 72188.76,
+          "product": "iphone 13 \u2014 Newegg Listing",
+          "rating": 3.8,
+          "reviews": 8080,
+          "site": "Newegg"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 39791.84,
+        "best_price": 14560.51,
+        "best_site": "Amazon",
+        "total_sites": 7,
+        "worst_price": 72188.76,
+        "worst_site": "Newegg"
+      }
+    },
+    {
+      "id": "7cd7a2a4-636c-495d-9f74-e4b36ac46999",
+      "query": "iphone 15",
+      "timestamp": "2026-05-04T02:23:07.328948",
+      "results": [
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 414.45,
+          "price_egp": 20308.05,
+          "product": "iphone 15 \u2014 Walmart Listing",
+          "rating": 5,
+          "reviews": 11210,
+          "site": "Walmart"
+        },
+        {
+          "color": "#FF6600",
+          "currency": "USD",
+          "price": 483.65,
+          "price_egp": 23698.85,
+          "product": "iphone 15 \u2014 Newegg Listing",
+          "rating": 4.1,
+          "reviews": 8895,
+          "site": "Newegg"
+        },
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 51821.95,
+          "price_egp": 51821.95,
+          "product": "iphone 15 \u2014 Noon Listing",
+          "rating": 4.6,
+          "reviews": 10335,
+          "site": "Noon"
+        },
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 1264.34,
+          "price_egp": 61952.66,
+          "product": "iphone 15 \u2014 eBay Listing",
+          "rating": 3.6,
+          "reviews": 5651,
+          "site": "eBay"
+        },
+        {
+          "color": "#0046BE",
+          "currency": "USD",
+          "price": 1406.91,
+          "price_egp": 68938.59,
+          "product": "iphone 15 \u2014 BestBuy Listing",
+          "rating": 4.5,
+          "reviews": 10659,
+          "site": "BestBuy"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 79978.38,
+          "price_egp": 79978.38,
+          "product": "iphone 15 \u2014 Jumia Listing",
+          "rating": 3.8,
+          "reviews": 3613,
+          "site": "Jumia"
+        },
+        {
+          "color": "#FF9900",
+          "currency": "EGP",
+          "price": 80620.35,
+          "price_egp": 80620.35,
+          "product": "iphone 15 \u2014 Amazon Listing",
+          "rating": 3.3,
+          "reviews": 1295,
+          "site": "Amazon"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 55331.26,
+        "best_price": 20308.05,
+        "best_site": "Walmart",
+        "total_sites": 7,
+        "worst_price": 80620.35,
+        "worst_site": "Amazon"
+      }
+    },
+    {
+      "id": "81a6320e-9959-4a4e-9687-1f02d1963093",
+      "query": "iPhone 17 Pro Max",
+      "timestamp": "2026-05-04T02:21:47.506950",
+      "results": [
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 8610.01,
+          "price_egp": 8610.01,
+          "product": "iPhone 17 Pro Max \u2014 Noon Listing",
+          "rating": 4.8,
+          "reviews": 618,
+          "site": "Noon"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 15272.71,
+          "price_egp": 15272.71,
+          "product": "iPhone 17 Pro Max \u2014 Jumia Listing",
+          "rating": 4.2,
+          "reviews": 7721,
+          "site": "Jumia"
+        },
+        {
+          "color": "#FF6600",
+          "currency": "USD",
+          "price": 324.31,
+          "price_egp": 15891.19,
+          "product": "iPhone 17 Pro Max \u2014 Newegg Listing",
+          "rating": 4.9,
+          "reviews": 1203,
+          "site": "Newegg"
+        },
+        {
+          "color": "#0046BE",
+          "currency": "USD",
+          "price": 637.58,
+          "price_egp": 31241.42,
+          "product": "iPhone 17 Pro Max \u2014 BestBuy Listing",
+          "rating": 4.8,
+          "reviews": 5564,
+          "site": "BestBuy"
+        },
+        {
+          "color": "#FF9900",
+          "currency": "EGP",
+          "price": 33677.17,
+          "price_egp": 33677.17,
+          "product": "iPhone 17 Pro Max \u2014 Amazon Listing",
+          "rating": 3.3,
+          "reviews": 7901,
+          "site": "Amazon"
+        },
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 1003.72,
+          "price_egp": 49182.28,
+          "product": "iPhone 17 Pro Max \u2014 Walmart Listing",
+          "rating": 4.6,
+          "reviews": 10176,
+          "site": "Walmart"
+        },
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 1124.9,
+          "price_egp": 55120.1,
+          "product": "iPhone 17 Pro Max \u2014 eBay Listing",
+          "rating": 4.6,
+          "reviews": 8762,
+          "site": "eBay"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 29856.41,
+        "best_price": 8610.01,
+        "best_site": "Noon",
+        "total_sites": 7,
+        "worst_price": 55120.1,
+        "worst_site": "eBay"
+      }
+    },
+    {
+      "id": "0dc9868a-ed98-4363-8871-93e302b43b85",
+      "query": "iPhone 17 Pro Max",
+      "timestamp": "2026-05-04T02:18:38.870633",
+      "results": [
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 256.18,
+          "price_egp": 12552.82,
+          "product": "iPhone 17 Pro Max \u2014 Walmart Listing",
+          "rating": 4.2,
+          "reviews": 10450,
+          "site": "Walmart"
+        },
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 445.21,
+          "price_egp": 21815.29,
+          "product": "iPhone 17 Pro Max \u2014 eBay Listing",
+          "rating": 4.4,
+          "reviews": 11878,
+          "site": "eBay"
+        },
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 37129.21,
+          "price_egp": 37129.21,
+          "product": "iPhone 17 Pro Max \u2014 Noon Listing",
+          "rating": 3.3,
+          "reviews": 8861,
+          "site": "Noon"
+        },
+        {
+          "color": "#FF6600",
+          "currency": "USD",
+          "price": 1006.59,
+          "price_egp": 49322.91,
+          "product": "iPhone 17 Pro Max \u2014 Newegg Listing",
+          "rating": 4.3,
+          "reviews": 7213,
+          "site": "Newegg"
+        },
+        {
+          "color": "#FF9900",
+          "currency": "EGP",
+          "price": 58423.68,
+          "price_egp": 58423.68,
+          "product": "iPhone 17 Pro Max \u2014 Amazon Listing",
+          "rating": 4.6,
+          "reviews": 6202,
+          "site": "Amazon"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 68307.9,
+          "price_egp": 68307.9,
+          "product": "iPhone 17 Pro Max \u2014 Jumia Listing",
+          "rating": 4.4,
+          "reviews": 5621,
+          "site": "Jumia"
+        },
+        {
+          "color": "#0046BE",
+          "currency": "USD",
+          "price": 1400.75,
+          "price_egp": 68636.75,
+          "product": "iPhone 17 Pro Max \u2014 BestBuy Listing",
+          "rating": 4.5,
+          "reviews": 5282,
+          "site": "BestBuy"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 45169.79,
+        "best_price": 12552.82,
+        "best_site": "Walmart",
+        "total_sites": 7,
+        "worst_price": 68636.75,
+        "worst_site": "BestBuy"
+      }
+    },
+    {
+      "id": "48b8bbac-5f12-4249-ba8e-fd0375e9d351",
+      "query": "iPhone 17 Pro Max",
+      "timestamp": "2026-05-04T01:58:58.330935",
+      "results": [
+        {
+          "color": "#FF9900",
+          "currency": "EGP",
+          "price": 18255.64,
+          "price_egp": 18255.64,
+          "product": "iPhone 17 Pro Max \u2014 Amazon Listing",
+          "rating": 3.9,
+          "reviews": 5635,
+          "site": "Amazon"
+        },
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 454.7,
+          "price_egp": 22280.3,
+          "product": "iPhone 17 Pro Max \u2014 Walmart Listing",
+          "rating": 4.8,
+          "reviews": 10792,
+          "site": "Walmart"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 48410.5,
+          "price_egp": 48410.5,
+          "product": "iPhone 17 Pro Max \u2014 Jumia Listing",
+          "rating": 3.2,
+          "reviews": 7338,
+          "site": "Jumia"
+        },
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 994.2,
+          "price_egp": 48715.8,
+          "product": "iPhone 17 Pro Max \u2014 eBay Listing",
+          "rating": 4.8,
+          "reviews": 9994,
+          "site": "eBay"
+        },
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 66070.18,
+          "price_egp": 66070.18,
+          "product": "iPhone 17 Pro Max \u2014 Noon Listing",
+          "rating": 4.1,
+          "reviews": 9394,
+          "site": "Noon"
+        },
+        {
+          "color": "#FF6600",
+          "currency": "USD",
+          "price": 1766.71,
+          "price_egp": 86568.79,
+          "product": "iPhone 17 Pro Max \u2014 Newegg Listing",
+          "rating": 3.7,
+          "reviews": 5673,
+          "site": "Newegg"
+        },
+        {
+          "color": "#0046BE",
+          "currency": "USD",
+          "price": 1880.96,
+          "price_egp": 92167.04,
+          "product": "iPhone 17 Pro Max \u2014 BestBuy Listing",
+          "rating": 4.5,
+          "reviews": 4958,
+          "site": "BestBuy"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 54638.32,
+        "best_price": 18255.64,
+        "best_site": "Amazon",
+        "total_sites": 7,
+        "worst_price": 92167.04,
+        "worst_site": "BestBuy"
+      }
+    },
+    {
+      "id": "f8fb704f-126d-456b-b0ec-7be617361d04",
+      "query": "iphone 13",
+      "timestamp": "2026-05-04T00:05:21.345263",
+      "results": [
+        {
+          "color": "#FF9900",
+          "currency": "EGP",
+          "price": 15963.01,
+          "price_egp": 15963.01,
+          "product": "iphone 13 \u2014 Amazon Listing",
+          "rating": 3.2,
+          "reviews": 5885,
+          "site": "Amazon"
+        },
+        {
+          "color": "#0046BE",
+          "currency": "USD",
+          "price": 451.96,
+          "price_egp": 22146.04,
+          "product": "iphone 13 \u2014 BestBuy Listing",
+          "rating": 5,
+          "reviews": 10683,
+          "site": "BestBuy"
+        },
+        {
+          "color": "#FF6600",
+          "currency": "USD",
+          "price": 752.36,
+          "price_egp": 36865.64,
+          "product": "iphone 13 \u2014 Newegg Listing",
+          "rating": 4.9,
+          "reviews": 3283,
+          "site": "Newegg"
+        },
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 52507.31,
+          "price_egp": 52507.31,
+          "product": "iphone 13 \u2014 Noon Listing",
+          "rating": 3.8,
+          "reviews": 2902,
+          "site": "Noon"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 74625.84,
+          "price_egp": 74625.84,
+          "product": "iphone 13 \u2014 Jumia Listing",
+          "rating": 3.6,
+          "reviews": 6795,
+          "site": "Jumia"
+        },
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 1666.13,
+          "price_egp": 81640.37,
+          "product": "iphone 13 \u2014 Walmart Listing",
+          "rating": 4.3,
+          "reviews": 4392,
+          "site": "Walmart"
+        },
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 1706.83,
+          "price_egp": 83634.67,
+          "product": "iphone 13 \u2014 eBay Listing",
+          "rating": 3.9,
+          "reviews": 672,
+          "site": "eBay"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 52483.27,
+        "best_price": 15963.01,
+        "best_site": "Amazon",
+        "total_sites": 7,
+        "worst_price": 83634.67,
+        "worst_site": "eBay"
+      }
+    }
+  ],
+  "Mario": [
+    {
+      "id": "68194375-bce8-4f91-8a75-9f3909afa3c0",
+      "query": "samsung s24 ultra",
+      "timestamp": "2026-05-05T16:14:43.550582",
+      "results": [
+        {
+          "color": "#FF9900",
+          "currency": "EGP",
+          "price": 39122.09,
+          "price_egp": 39122.09,
+          "product": "samsung s24 ultra \u2014 Amazon Listing",
+          "rating": 4.2,
+          "reviews": 1540,
+          "site": "Amazon"
+        },
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 886.73,
+          "price_egp": 43449.77,
+          "product": "samsung s24 ultra \u2014 Walmart Listing",
+          "rating": 4.5,
+          "reviews": 4583,
+          "site": "Walmart"
+        },
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 47605.47,
+          "price_egp": 47605.47,
+          "product": "samsung s24 ultra \u2014 Noon Listing",
+          "rating": 3.3,
+          "reviews": 6651,
+          "site": "Noon"
+        },
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 1080.58,
+          "price_egp": 52948.42,
+          "product": "samsung s24 ultra \u2014 eBay Listing",
+          "rating": 4.4,
+          "reviews": 2267,
+          "site": "eBay"
+        },
+        {
+          "color": "#0046BE",
+          "currency": "USD",
+          "price": 1339,
+          "price_egp": 65611,
+          "product": "samsung s24 ultra \u2014 BestBuy Listing",
+          "rating": 4.3,
+          "reviews": 5229,
+          "site": "BestBuy"
+        },
+        {
+          "color": "#FF6600",
+          "currency": "USD",
+          "price": 1544.55,
+          "price_egp": 75682.95,
+          "product": "samsung s24 ultra \u2014 Newegg Listing",
+          "rating": 3.5,
+          "reviews": 4528,
+          "site": "Newegg"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 84647.1,
+          "price_egp": 84647.1,
+          "product": "samsung s24 ultra \u2014 Jumia Listing",
+          "rating": 4.7,
+          "reviews": 11273,
+          "site": "Jumia"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 58438.11,
+        "best_price": 39122.09,
+        "best_site": "Amazon",
+        "total_sites": 7,
+        "worst_price": 84647.1,
+        "worst_site": "Jumia"
+      }
+    }
+  ],
+  "micheal": [
+    {
+      "id": "76ee7b7e-b17a-4bc7-a180-75cf79866ebd",
+      "query": "iPhone 17 Pro Max",
+      "timestamp": "2026-05-05T17:19:49.352572",
+      "results": [
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 157.79,
+          "price_egp": 7731.71,
+          "product": "iPhone 17 Pro Max \u2014 Walmart Listing",
+          "rating": 3.5,
+          "reviews": 8377,
+          "site": "Walmart"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 18238.23,
+          "price_egp": 18238.23,
+          "product": "iPhone 17 Pro Max \u2014 Jumia Listing",
+          "rating": 3.3,
+          "reviews": 2641,
+          "site": "Jumia"
+        },
+        {
+          "color": "#0046BE",
+          "currency": "USD",
+          "price": 451.73,
+          "price_egp": 22134.77,
+          "product": "iPhone 17 Pro Max \u2014 BestBuy Listing",
+          "rating": 4.1,
+          "reviews": 6240,
+          "site": "BestBuy"
+        },
+        {
+          "color": "#FF9900",
+          "currency": "EGP",
+          "price": 42558.01,
+          "price_egp": 42558.01,
+          "product": "iPhone 17 Pro Max \u2014 Amazon Listing",
+          "rating": 4.1,
+          "reviews": 11464,
+          "site": "Amazon"
+        },
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 71953.48,
+          "price_egp": 71953.48,
+          "product": "iPhone 17 Pro Max \u2014 Noon Listing",
+          "rating": 4.3,
+          "reviews": 2490,
+          "site": "Noon"
+        },
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 1574.12,
+          "price_egp": 77131.88,
+          "product": "iPhone 17 Pro Max \u2014 eBay Listing",
+          "rating": 3.9,
+          "reviews": 6593,
+          "site": "eBay"
+        },
+        {
+          "color": "#FF6600",
+          "currency": "USD",
+          "price": 1824.67,
+          "price_egp": 89408.83,
+          "product": "iPhone 17 Pro Max \u2014 Newegg Listing",
+          "rating": 4.8,
+          "reviews": 7926,
+          "site": "Newegg"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 47022.42,
+        "best_price": 7731.71,
+        "best_site": "Walmart",
+        "total_sites": 7,
+        "worst_price": 89408.83,
+        "worst_site": "Newegg"
+      }
+    },
+    {
+      "id": "cb9b8dcb-7ee4-4ef2-a1ba-cbca28b50a0e",
+      "query": "vacuum cleaner",
+      "timestamp": "2026-05-05T17:16:06.360798",
+      "results": [
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 375.01,
+          "price_egp": 18375.49,
+          "product": "vacuum cleaner \u2014 Walmart Listing",
+          "rating": 4.7,
+          "reviews": 4728,
+          "site": "Walmart"
+        },
+        {
+          "color": "#FF9900",
+          "currency": "EGP",
+          "price": 37539.38,
+          "price_egp": 37539.38,
+          "product": "vacuum cleaner \u2014 Amazon Listing",
+          "rating": 4.5,
+          "reviews": 2921,
+          "site": "Amazon"
+        },
+        {
+          "color": "#0046BE",
+          "currency": "USD",
+          "price": 1106.19,
+          "price_egp": 54203.31,
+          "product": "vacuum cleaner \u2014 BestBuy Listing",
+          "rating": 3.7,
+          "reviews": 3232,
+          "site": "BestBuy"
+        },
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 64795.02,
+          "price_egp": 64795.02,
+          "product": "vacuum cleaner \u2014 Noon Listing",
+          "rating": 4.8,
+          "reviews": 8569,
+          "site": "Noon"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 77011.41,
+          "price_egp": 77011.41,
+          "product": "vacuum cleaner \u2014 Jumia Listing",
+          "rating": 4.9,
+          "reviews": 519,
+          "site": "Jumia"
+        },
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 1747.47,
+          "price_egp": 85626.03,
+          "product": "vacuum cleaner \u2014 eBay Listing",
+          "rating": 4.3,
+          "reviews": 8773,
+          "site": "eBay"
+        },
+        {
+          "color": "#FF6600",
+          "currency": "USD",
+          "price": 1828.47,
+          "price_egp": 89595.03,
+          "product": "vacuum cleaner \u2014 Newegg Listing",
+          "rating": 5,
+          "reviews": 10995,
+          "site": "Newegg"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 61020.81,
+        "best_price": 18375.49,
+        "best_site": "Walmart",
+        "total_sites": 7,
+        "worst_price": 89595.03,
+        "worst_site": "Newegg"
+      }
+    },
+    {
+      "id": "d28d1525-1ea0-4e58-bc3f-df8ab99e5ad4",
+      "query": "Samsung Galaxy S25",
+      "timestamp": "2026-05-05T17:11:26.140029",
+      "results": [
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 36021.65,
+          "price_egp": 36021.65,
+          "product": "Samsung Galaxy S25 \u2014 Noon Listing",
+          "rating": 4.6,
+          "reviews": 9481,
+          "site": "Noon"
+        },
+        {
+          "color": "#FF9900",
+          "currency": "EGP",
+          "price": 37518.18,
+          "price_egp": 37518.18,
+          "product": "Samsung Galaxy S25 \u2014 Amazon Listing",
+          "rating": 4.4,
+          "reviews": 3434,
+          "site": "Amazon"
+        },
+        {
+          "color": "#0046BE",
+          "currency": "USD",
+          "price": 811.64,
+          "price_egp": 39770.36,
+          "product": "Samsung Galaxy S25 \u2014 BestBuy Listing",
+          "rating": 3.6,
+          "reviews": 6868,
+          "site": "BestBuy"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 45656.05,
+          "price_egp": 45656.05,
+          "product": "Samsung Galaxy S25 \u2014 Jumia Listing",
+          "rating": 3.8,
+          "reviews": 6718,
+          "site": "Jumia"
+        },
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 1145.29,
+          "price_egp": 56119.21,
+          "product": "Samsung Galaxy S25 \u2014 eBay Listing",
+          "rating": 4.9,
+          "reviews": 8887,
+          "site": "eBay"
+        },
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 1484.38,
+          "price_egp": 72734.62,
+          "product": "Samsung Galaxy S25 \u2014 Walmart Listing",
+          "rating": 4.8,
+          "reviews": 11064,
+          "site": "Walmart"
+        },
+        {
+          "color": "#FF6600",
+          "currency": "USD",
+          "price": 1631.88,
+          "price_egp": 79962.12,
+          "product": "Samsung Galaxy S25 \u2014 Newegg Listing",
+          "rating": 3.6,
+          "reviews": 8742,
+          "site": "Newegg"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 52540.31,
+        "best_price": 36021.65,
+        "best_site": "Noon",
+        "total_sites": 7,
+        "worst_price": 79962.12,
+        "worst_site": "Newegg"
+      }
+    }
+  ],
+  "tg_1403994281": [
+    {
+      "id": "ebbcd872-32e0-4d3a-9db5-1a5eb487df81",
+      "query": "iPhone 15",
+      "timestamp": "2026-05-08T16:27:34.262101",
+      "results": [
+        {
+          "color": "#0046BE",
+          "currency": "USD",
+          "price": 709.45,
+          "price_egp": 34763.05,
+          "product": "iPhone 15 \u2014 BestBuy Listing",
+          "rating": 3.6,
+          "reviews": 4225,
+          "site": "BestBuy"
+        },
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 743.41,
+          "price_egp": 36427.09,
+          "product": "iPhone 15 \u2014 eBay Listing",
+          "rating": 3.2,
+          "reviews": 4570,
+          "site": "eBay"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 39946.14,
+          "price_egp": 39946.14,
+          "product": "iPhone 15 \u2014 Jumia Listing",
+          "rating": 3.5,
+          "reviews": 6824,
+          "site": "Jumia"
+        },
+        {
+          "color": "#FF9900",
+          "currency": "EGP",
+          "price": 40680.26,
+          "price_egp": 40680.26,
+          "product": "iPhone 15 \u2014 Amazon Listing",
+          "rating": 3.6,
+          "reviews": 1069,
+          "site": "Amazon"
+        },
+        {
+          "color": "#FF6600",
+          "currency": "USD",
+          "price": 1027.97,
+          "price_egp": 50370.53,
+          "product": "iPhone 15 \u2014 Newegg Listing",
+          "rating": 4.7,
+          "reviews": 10609,
+          "site": "Newegg"
+        },
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 1433.18,
+          "price_egp": 70225.82,
+          "product": "iPhone 15 \u2014 Walmart Listing",
+          "rating": 4.8,
+          "reviews": 3468,
+          "site": "Walmart"
+        },
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 84856.41,
+          "price_egp": 84856.41,
+          "product": "iPhone 15 \u2014 Noon Listing",
+          "rating": 4.1,
+          "reviews": 2201,
+          "site": "Noon"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 51038.47,
+        "best_price": 34763.05,
+        "best_site": "BestBuy",
+        "total_sites": 7,
+        "worst_price": 84856.41,
+        "worst_site": "Noon"
+      }
+    },
+    {
+      "id": "9119608a-162c-4690-b2ea-cc939ef6ed11",
+      "query": "\u0627\u062d\u0627",
+      "timestamp": "2026-05-08T16:27:12.423297",
+      "results": [
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 21282.9,
+          "price_egp": 21282.9,
+          "product": "\u0627\u062d\u0627 \u2014 Jumia Listing",
+          "rating": 4.9,
+          "reviews": 7500,
+          "site": "Jumia"
+        },
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 23464.72,
+          "price_egp": 23464.72,
+          "product": "\u0627\u062d\u0627 \u2014 Noon Listing",
+          "rating": 4.0,
+          "reviews": 7025,
+          "site": "Noon"
+        },
+        {
+          "color": "#0046BE",
+          "currency": "USD",
+          "price": 680.39,
+          "price_egp": 33339.11,
+          "product": "\u0627\u062d\u0627 \u2014 BestBuy Listing",
+          "rating": 4.9,
+          "reviews": 11584,
+          "site": "BestBuy"
+        },
+        {
+          "color": "#FF6600",
+          "currency": "USD",
+          "price": 864.97,
+          "price_egp": 42383.53,
+          "product": "\u0627\u062d\u0627 \u2014 Newegg Listing",
+          "rating": 3.6,
+          "reviews": 5761,
+          "site": "Newegg"
+        },
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 955.45,
+          "price_egp": 46817.05,
+          "product": "\u0627\u062d\u0627 \u2014 Walmart Listing",
+          "rating": 4.3,
+          "reviews": 10178,
+          "site": "Walmart"
+        },
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 1382.22,
+          "price_egp": 67728.78,
+          "product": "\u0627\u062d\u0627 \u2014 eBay Listing",
+          "rating": 3.4,
+          "reviews": 5402,
+          "site": "eBay"
+        },
+        {
+          "color": "#FF9900",
+          "currency": "EGP",
+          "price": 84478.34,
+          "price_egp": 84478.34,
+          "product": "\u0627\u062d\u0627 \u2014 Amazon Listing",
+          "rating": 4.7,
+          "reviews": 6285,
+          "site": "Amazon"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 45642.06,
+        "best_price": 21282.9,
+        "best_site": "Jumia",
+        "total_sites": 7,
+        "worst_price": 84478.34,
+        "worst_site": "Amazon"
+      }
+    },
+    {
+      "id": "74553e2e-03b1-4411-a2a1-68aa4baf9c11",
+      "query": "\u0627\u062d\u0627",
+      "timestamp": "2026-05-08T16:09:04.241061",
+      "results": [
+        {
+          "color": "#FF9900",
+          "currency": "EGP",
+          "price": 15806.63,
+          "price_egp": 15806.63,
+          "product": "\u0627\u062d\u0627 \u2014 Amazon Listing",
+          "rating": 3.8,
+          "reviews": 372,
+          "site": "Amazon"
+        },
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 19799.21,
+          "price_egp": 19799.21,
+          "product": "\u0627\u062d\u0627 \u2014 Noon Listing",
+          "rating": 3.7,
+          "reviews": 9276,
+          "site": "Noon"
+        },
+        {
+          "color": "#FF6600",
+          "currency": "USD",
+          "price": 971.38,
+          "price_egp": 47597.62,
+          "product": "\u0627\u062d\u0627 \u2014 Newegg Listing",
+          "rating": 4.4,
+          "reviews": 4787,
+          "site": "Newegg"
+        },
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 1093.58,
+          "price_egp": 53585.42,
+          "product": "\u0627\u062d\u0627 \u2014 eBay Listing",
+          "rating": 3.9,
+          "reviews": 4016,
+          "site": "eBay"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 77022.02,
+          "price_egp": 77022.02,
+          "product": "\u0627\u062d\u0627 \u2014 Jumia Listing",
+          "rating": 4.0,
+          "reviews": 7153,
+          "site": "Jumia"
+        },
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 1622.96,
+          "price_egp": 79525.04,
+          "product": "\u0627\u062d\u0627 \u2014 Walmart Listing",
+          "rating": 3.2,
+          "reviews": 10023,
+          "site": "Walmart"
+        },
+        {
+          "color": "#0046BE",
+          "currency": "USD",
+          "price": 1670.04,
+          "price_egp": 81831.96,
+          "product": "\u0627\u062d\u0627 \u2014 BestBuy Listing",
+          "rating": 4.0,
+          "reviews": 3292,
+          "site": "BestBuy"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 53595.41,
+        "best_price": 15806.63,
+        "best_site": "Amazon",
+        "total_sites": 7,
+        "worst_price": 81831.96,
+        "worst_site": "BestBuy"
+      }
+    },
+    {
+      "id": "28165b47-ccea-4038-88ae-36c951d448e9",
+      "query": "iPhone 15",
+      "timestamp": "2026-05-08T15:52:36.168606",
+      "results": [
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 155.12,
+          "price_egp": 7600.88,
+          "product": "iPhone 15 \u2014 Walmart Listing",
+          "rating": 3.7,
+          "reviews": 10820,
+          "site": "Walmart"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 11196.64,
+          "price_egp": 11196.64,
+          "product": "iPhone 15 \u2014 Jumia Listing",
+          "rating": 3.6,
+          "reviews": 11510,
+          "site": "Jumia"
+        },
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 18455.95,
+          "price_egp": 18455.95,
+          "product": "iPhone 15 \u2014 Noon Listing",
+          "rating": 3.4,
+          "reviews": 7098,
+          "site": "Noon"
+        },
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 867.37,
+          "price_egp": 42501.13,
+          "product": "iPhone 15 \u2014 eBay Listing",
+          "rating": 4.6,
+          "reviews": 7230,
+          "site": "eBay"
+        },
+        {
+          "color": "#FF9900",
+          "currency": "EGP",
+          "price": 55493.6,
+          "price_egp": 55493.6,
+          "product": "iPhone 15 \u2014 Amazon Listing",
+          "rating": 3.6,
+          "reviews": 11336,
+          "site": "Amazon"
+        },
+        {
+          "color": "#0046BE",
+          "currency": "USD",
+          "price": 1404.45,
+          "price_egp": 68818.05,
+          "product": "iPhone 15 \u2014 BestBuy Listing",
+          "rating": 4.3,
+          "reviews": 5656,
+          "site": "BestBuy"
+        },
+        {
+          "color": "#FF6600",
+          "currency": "USD",
+          "price": 1583.38,
+          "price_egp": 77585.62,
+          "product": "iPhone 15 \u2014 Newegg Listing",
+          "rating": 3.3,
+          "reviews": 1481,
+          "site": "Newegg"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 40235.98,
+        "best_price": 7600.88,
+        "best_site": "Walmart",
+        "total_sites": 7,
+        "worst_price": 77585.62,
+        "worst_site": "Newegg"
+      }
+    },
+    {
+      "id": "a600afdc-a7b8-49c8-8101-51d39a491211",
+      "query": "iPhone 17",
+      "timestamp": "2026-05-08T15:48:05.803608",
+      "results": [
+        {
+          "color": "#0046BE",
+          "currency": "USD",
+          "price": 356.36,
+          "price_egp": 17461.64,
+          "product": "iPhone 17 \u2014 BestBuy Listing",
+          "rating": 3.5,
+          "reviews": 10152,
+          "site": "BestBuy"
+        },
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 658.02,
+          "price_egp": 32242.98,
+          "product": "iPhone 17 \u2014 eBay Listing",
+          "rating": 3.9,
+          "reviews": 3278,
+          "site": "eBay"
+        },
+        {
+          "color": "#FF9900",
+          "currency": "EGP",
+          "price": 33462.79,
+          "price_egp": 33462.79,
+          "product": "iPhone 17 \u2014 Amazon Listing",
+          "rating": 3.2,
+          "reviews": 10381,
+          "site": "Amazon"
+        },
+        {
+          "color": "#FF6600",
+          "currency": "USD",
+          "price": 1095.7,
+          "price_egp": 53689.3,
+          "product": "iPhone 17 \u2014 Newegg Listing",
+          "rating": 3.6,
+          "reviews": 11418,
+          "site": "Newegg"
+        },
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 56727.78,
+          "price_egp": 56727.78,
+          "product": "iPhone 17 \u2014 Noon Listing",
+          "rating": 3.6,
+          "reviews": 8502,
+          "site": "Noon"
+        },
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 1294.87,
+          "price_egp": 63448.63,
+          "product": "iPhone 17 \u2014 Walmart Listing",
+          "rating": 5.0,
+          "reviews": 10665,
+          "site": "Walmart"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 72743.29,
+          "price_egp": 72743.29,
+          "product": "iPhone 17 \u2014 Jumia Listing",
+          "rating": 4.6,
+          "reviews": 463,
+          "site": "Jumia"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 47110.92,
+        "best_price": 17461.64,
+        "best_site": "BestBuy",
+        "total_sites": 7,
+        "worst_price": 72743.29,
+        "worst_site": "Jumia"
+      }
+    },
+    {
+      "id": "01d33aec-24d1-481f-8c8c-e9579c7c700f",
+      "query": "iPhone 15",
+      "timestamp": "2026-05-08T15:44:22.887786",
+      "results": [
+        {
+          "color": "#FF9900",
+          "currency": "EGP",
+          "price": 29401.7,
+          "price_egp": 29401.7,
+          "product": "iPhone 15 \u2014 Amazon Listing",
+          "rating": 4.8,
+          "reviews": 9300,
+          "site": "Amazon"
+        },
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 29985.46,
+          "price_egp": 29985.46,
+          "product": "iPhone 15 \u2014 Noon Listing",
+          "rating": 3.5,
+          "reviews": 7115,
+          "site": "Noon"
+        },
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 675.91,
+          "price_egp": 33119.59,
+          "product": "iPhone 15 \u2014 eBay Listing",
+          "rating": 3.9,
+          "reviews": 10273,
+          "site": "eBay"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 59085.54,
+          "price_egp": 59085.54,
+          "product": "iPhone 15 \u2014 Jumia Listing",
+          "rating": 3.4,
+          "reviews": 2533,
+          "site": "Jumia"
+        },
+        {
+          "color": "#0046BE",
+          "currency": "USD",
+          "price": 1606.87,
+          "price_egp": 78736.63,
+          "product": "iPhone 15 \u2014 BestBuy Listing",
+          "rating": 3.2,
+          "reviews": 6228,
+          "site": "BestBuy"
+        },
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 1625.48,
+          "price_egp": 79648.52,
+          "product": "iPhone 15 \u2014 Walmart Listing",
+          "rating": 4.2,
+          "reviews": 1780,
+          "site": "Walmart"
+        },
+        {
+          "color": "#FF6600",
+          "currency": "USD",
+          "price": 1883.54,
+          "price_egp": 92293.46,
+          "product": "iPhone 15 \u2014 Newegg Listing",
+          "rating": 4.5,
+          "reviews": 1376,
+          "site": "Newegg"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 57467.27,
+        "best_price": 29401.7,
+        "best_site": "Amazon",
+        "total_sites": 7,
+        "worst_price": 92293.46,
+        "worst_site": "Newegg"
+      }
+    }
+  ],
+  "tg_1719667737": [
+    {
+      "id": "9bf67545-ded6-4512-88ef-90a688ecaf3d",
+      "query": "\u0627\u062d\u0627",
+      "timestamp": "2026-05-08T15:58:18.415216",
+      "results": [
+        {
+          "color": "#FF6600",
+          "currency": "USD",
+          "price": 336.81,
+          "price_egp": 16503.69,
+          "product": "\u0627\u062d\u0627 \u2014 Newegg Listing",
+          "rating": 4.8,
+          "reviews": 5872,
+          "site": "Newegg"
+        },
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 487.18,
+          "price_egp": 23871.82,
+          "product": "\u0627\u062d\u0627 \u2014 Walmart Listing",
+          "rating": 4.0,
+          "reviews": 11084,
+          "site": "Walmart"
+        },
+        {
+          "color": "#FF9900",
+          "currency": "EGP",
+          "price": 31702.56,
+          "price_egp": 31702.56,
+          "product": "\u0627\u062d\u0627 \u2014 Amazon Listing",
+          "rating": 3.7,
+          "reviews": 10815,
+          "site": "Amazon"
+        },
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 1414.16,
+          "price_egp": 69293.84,
+          "product": "\u0627\u062d\u0627 \u2014 eBay Listing",
+          "rating": 3.9,
+          "reviews": 7402,
+          "site": "eBay"
+        },
+        {
+          "color": "#0046BE",
+          "currency": "USD",
+          "price": 1508.11,
+          "price_egp": 73897.39,
+          "product": "\u0627\u062d\u0627 \u2014 BestBuy Listing",
+          "rating": 4.9,
+          "reviews": 8763,
+          "site": "BestBuy"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 83110.55,
+          "price_egp": 83110.55,
+          "product": "\u0627\u062d\u0627 \u2014 Jumia Listing",
+          "rating": 4.8,
+          "reviews": 10537,
+          "site": "Jumia"
+        },
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 86929.71,
+          "price_egp": 86929.71,
+          "product": "\u0627\u062d\u0627 \u2014 Noon Listing",
+          "rating": 4.3,
+          "reviews": 8098,
+          "site": "Noon"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 55044.22,
+        "best_price": 16503.69,
+        "best_site": "Newegg",
+        "total_sites": 7,
+        "worst_price": 86929.71,
+        "worst_site": "Noon"
+      }
+    },
+    {
+      "id": "72962923-8f36-45dc-93e3-c5f6d4e6bcbd",
+      "query": "iphone",
+      "timestamp": "2026-05-08T15:56:42.880124",
+      "results": [
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 24748.93,
+          "price_egp": 24748.93,
+          "product": "iphone \u2014 Jumia Listing",
+          "rating": 3.2,
+          "reviews": 9805,
+          "site": "Jumia"
+        },
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 1173.8,
+          "price_egp": 57516.2,
+          "product": "iphone \u2014 eBay Listing",
+          "rating": 3.8,
+          "reviews": 4551,
+          "site": "eBay"
+        },
+        {
+          "color": "#FF6600",
+          "currency": "USD",
+          "price": 1520.85,
+          "price_egp": 74521.65,
+          "product": "iphone \u2014 Newegg Listing",
+          "rating": 3.8,
+          "reviews": 3761,
+          "site": "Newegg"
+        },
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 80442.65,
+          "price_egp": 80442.65,
+          "product": "iphone \u2014 Noon Listing",
+          "rating": 4.2,
+          "reviews": 9030,
+          "site": "Noon"
+        },
+        {
+          "color": "#0046BE",
+          "currency": "USD",
+          "price": 1647.37,
+          "price_egp": 80721.13,
+          "product": "iphone \u2014 BestBuy Listing",
+          "rating": 4.9,
+          "reviews": 9502,
+          "site": "BestBuy"
+        },
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 1676.91,
+          "price_egp": 82168.59,
+          "product": "iphone \u2014 Walmart Listing",
+          "rating": 3.8,
+          "reviews": 7730,
+          "site": "Walmart"
+        },
+        {
+          "color": "#FF9900",
+          "currency": "EGP",
+          "price": 86523.81,
+          "price_egp": 86523.81,
+          "product": "iphone \u2014 Amazon Listing",
+          "rating": 3.3,
+          "reviews": 605,
+          "site": "Amazon"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 69520.42,
+        "best_price": 24748.93,
+        "best_site": "Jumia",
+        "total_sites": 7,
+        "worst_price": 86523.81,
+        "worst_site": "Amazon"
+      }
+    }
+  ],
+  "mm": [
+    {
+      "id": "b6cb817a-0794-4d1b-8afd-f8dac4c37bd1",
+      "query": "AirPods Pro 2",
+      "timestamp": "2026-05-08T23:55:14.907292",
+      "results": [
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 500,
+          "price_egp": 500,
+          "product": "generic AirPods Pro Gen 2 Bluetooth Earphones - Professional Design - Noise Isol",
+          "product_url": "https://www.noon.com/egypt-en/generic-airpods-pro-gen-2-bluetooth-earphones-professional-design-noise-isolation-high-quality-replica",
+          "rating": 0,
+          "reviews": 11,
+          "site": "Noon"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 800,
+          "price_egp": 800,
+          "product": "AirPods Pro 2 High Quality Bluetooth Earbuds \u2013 Noise Cancellation \u2013 Long Battery",
+          "product_url": "https://www.jumia.com.eg/generic-airpods-pro-2-high-quality-bluetooth-earbuds-noise-cancellation-long-battery-life-premium-sound-performance-133833321.html",
+          "rating": 1,
+          "reviews": 1,
+          "site": "Jumia"
+        },
+        {
+          "color": "#FF9900",
+          "currency": "EGP",
+          "price": 1239.99,
+          "price_egp": 1239.99,
+          "product": "\u0633\u0645\u0627\u0639\u0627\u062a \u0627\u0630\u0646 2F \u0628\u0631\u0648 \u0628\u0644\u0648\u062a\u0648\u062b \u0644\u0627\u0633\u0644\u0643\u064a\u0629 5.2 \u0641\u0648\u0644\u062a \u0645\u0639 \u0645\u064a\u0643\u0631\u0648\u0641\u0648\u0646 \u0645\u062f\u0645\u062c \u0639\u0644\u0628\u0629 \u0634\u062d\u0646 - \u0627\u0628\u064a\u0636 \u0645\u0646 \u0648\u064a",
+          "product_url": "https://www.amazon.eg/%D8%B3%D9%85%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB-%D9%84%D8%A7%D8%B3%D9%84%D9%83%D9%8A%D8%A9-%D9%81%D9%88%D9%84%D8%AA-%D9%85%D9%8A%D9%83%D8%B1%D9%88%D9%81%D9%88%D9%86/dp/B0BNNNDN7S/ref=sr_1_13?keywords=AirPods+Pro+2&qid=1778273682&sr=8-13",
+          "rating": 3.6,
+          "reviews": 4,
+          "site": "Amazon"
+        },
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 75,
+          "price_egp": 3954,
+          "product": "Apple AirPods Pro 2 Wireless Bluetooth Earbuds White Double Earbud (In Ear)",
+          "product_url": "https://www.ebay.com/itm/389976803069?_skw=AirPods+Pro+2&itmmeta=01KR4NYDRAV2MYNSCE6SRVP61P&hash=item5acc6dc6fd%3Ag%3AFlkAAeSwO6Vp-VcN&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBQ7GD0CPVoFYDzh33i6Az%2FwBUukwWhXBHcGB3s18RiqOhiyTBqipkij6hwe9s0Z0laNI9EU9p7WLgOnvDR80zA5dJr5wJUcv3B2r2nUpk%2BfRzYyyZ8oN6mN0hHVybxUYnjiNDgZM%2BauT5cNKcYsA7pFu%2FFuZIDiAMj2TO3I3OSE9YTTDDigINj0NuBo2HsiZZp%2F4G9f6tkx3mLAITxJwm2pHiUiSuqIjYyWYphbEgBpCcI%2BUXtvHqDU9Qo5D%2BKgoYq2l1wPyAt3sAy0ti4vYLCsqH6Fmn6Oto%2Fa1M8LWqOPA%3D%3D%7Ctkp%3ABk9SR7Tc-ZXBZw&LH_ItemCondition=1000",
+          "rating": 0,
+          "reviews": 0,
+          "site": "eBay"
+        },
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 199,
+          "price_egp": 10491.28,
+          "product": "Apple AirPods Pro 2, Wireless Earbuds, Active Noise Cancellation, Hearing Aid Fe",
+          "product_url": "https://www.walmart.com/ip/AirPods-Pro-2nd-generation-with-MagSafe-Case-USB-C/5689919121?classType=REGULAR&athbdg=L1200",
+          "rating": 4.4,
+          "reviews": 42035,
+          "site": "Walmart"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 3397.05,
+        "best_price": 500,
+        "best_site": "Noon",
+        "total_sites": 5,
+        "worst_price": 10491.28,
+        "worst_site": "Walmart"
+      }
+    },
+    {
+      "id": "1554baad-048d-4574-8b38-aac147744eba",
+      "query": "Samsung Galaxy S25",
+      "timestamp": "2026-05-08T23:50:57.475730",
+      "results": [
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 429.99,
+          "price_egp": 22669.07,
+          "product": "Samsung Galaxy S25 FE - 128 GB - Jetblack (Unlocked)",
+          "product_url": "https://www.ebay.com/itm/177810482865?_skw=Samsung+Galaxy+S25&epid=16085694578&itmmeta=01KR4KGM3ZTFVFVB210JQZAQ86&hash=item296654a6b1%3Ag%3AHD8AAeSweR9pd8NO&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xAjb7KSM8zUzDpZzBP3JAjz6qH%2Fd8t3ZRz73HWEE8ZhxcqQgi4zK74C2VP7nL5tQRgSegA6QFghIN6XNT7JXyygfphUpKzkno3t4%2FOwwBw3Xasu3vwSmndOxrSJTb4su7OftK2f6nmx9q81fdUlV%2Br2FGj%2FX%2FJtDWBfKVsBXn7C0x5pAAtvtGoSiDy5bjS6fnaVOnYiuY0PRDBzgp0h%2BeSQB%2FJyF1YFLMrMISd6fvwFL1PQhqSjc6ecsj17o%2FBtfLM%3D%7Ctkp%3ABk9SR5jCwpPBZw&LH_ItemCondition=1000",
+          "rating": 0,
+          "reviews": 0,
+          "site": "eBay"
+        },
+        {
+          "color": "#FF9900",
+          "currency": "EGP",
+          "price": 36590,
+          "price_egp": 36590,
+          "product": "\u0645\u0648\u0628\u0627\u064a\u0644 \u0633\u0627\u0645\u0633\u0648\u0646\u062c \u062c\u0627\u0644\u0627\u0643\u0633\u064a S25 FE \u0634\u0628\u0643\u0629 \u0627\u0644\u062c\u064a\u0644 \u0627\u0644\u062e\u0627\u0645\u0633 5G \u0628\u0646\u0638\u0627\u0645 \u062a\u0634\u063a\u064a\u0644 \u0623\u0646\u062f\u0631\u0648\u064a\u062f \u0648\u0630\u0627\u0643\u0631\u0629 \u062a\u062e",
+          "product_url": "https://www.amazon.eg/%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%D8%AC-%D8%AC%D8%A7%D9%84%D8%A7%D9%83%D8%B3%D9%8A-%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3-%D8%A3%D9%86%D8%AF%D8%B1%D9%88%D9%8A%D8%AF/dp/B0FPM1RTFS/ref=sr_1_1?keywords=Samsung+Galaxy+S25&qid=1778273125&sr=8-1",
+          "rating": 4.6,
+          "reviews": 229,
+          "site": "Amazon"
+        },
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 39183.25,
+          "price_egp": 39183.25,
+          "product": "Galaxy S25 FE AI Dual SIM 5G Jetblack 8GB RAM 256GB - Middle East Version",
+          "product_url": "https://www.noon.com/egypt-en/galaxy-s25-fe-ai-dual-sim-5g-jetblack-8gb-ram-256gb-middle-east-version",
+          "rating": 0,
+          "reviews": 723,
+          "site": "Noon"
+        },
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 989,
+          "price_egp": 52140.08,
+          "product": "Samsung Galaxy S25 Ultra 256GB Unlocked Android Cell Phone with 200MP Camera, Ti",
+          "product_url": "https://www.walmart.com/ip/PA3-256GB-Black/14916573729?classType=VARIANT&athbdg=L1600",
+          "rating": 4.8,
+          "reviews": 24261,
+          "site": "Walmart"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 66899,
+          "price_egp": 66899,
+          "product": "Samsung Galaxy S25 Ultra Dual SIM 5G - 256GB/12GB - 6.9 Inch Mobile Phone Titani",
+          "product_url": "https://www.jumia.com.eg/galaxy-s25-ultra-dual-sim-5g-256gb12gb-6.9-inch-mobile-phone-titanium-gray-samsung-mpg3849534.html",
+          "rating": 5,
+          "reviews": 2,
+          "site": "Jumia"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 43496.28,
+        "best_price": 22669.07,
+        "best_site": "eBay",
+        "total_sites": 5,
+        "worst_price": 66899,
+        "worst_site": "Jumia"
+      }
+    }
+  ],
+  "ENG Bassem": [
+    {
+      "id": "0d73bb61-9d6b-4fff-9767-f2bbf474431e",
+      "query": "PlayStation 5",
+      "timestamp": "2026-05-18T12:15:58.289621",
+      "results": [
+        {
+          "color": "#FF9900",
+          "currency": "EGP",
+          "price": 8799,
+          "price_egp": 8799,
+          "product": "\u0645\u062d\u0631\u0643 \u0623\u0642\u0631\u0627\u0635 \u0644\u062c\u0647\u0627\u0632 \u062a\u0634\u063a\u064a\u0644 \u0623\u0644\u0639\u0627\u0628 \u0627\u0644\u0641\u064a\u062f\u064a\u0648 \u0627\u0644\u0631\u0642\u0645\u064a\u0629 PS5 \u0627\u0644\u0625\u0635\u062f\u0627\u0631 \u0627\u0644\u0631\u0642\u0645\u064a (\u0633\u0644\u064a\u0645)",
+          "product_url": "https://www.amazon.eg/%D8%A3%D9%82%D8%B1%D8%A7%D8%B5-%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A/dp/B0CL5HJNLM/ref=sr_1_6?keywords=PlayStation+5&qid=1779095734&sr=8-6",
+          "rating": 4.8,
+          "reviews": 3500,
+          "site": "Amazon"
+        },
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 539.99,
+          "price_egp": 28695.07,
+          "product": "PlayStation 5 Call Of Duty Modern Warfare System",
+          "product_url": "https://www.ebay.com/itm/178137107757?_skw=PlayStation+5&epid=15056666072&itmmeta=01KRX5X99FW6WAC5690DZP82GH&hash=item2979cc8d2d%3Ag%3ADiAAAeSwJzdqB1rN&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xByr8d%2FruAbOaHSnrDX1XMgciYezxkg4%2FnUkXL02PLmPd2gyW8K5n2UvxPNZbt%2FweB4hGGS%2Bk6RYkyO%2Bq3f4GPWPykYsoiiQitfW99GPB0jXQvsUD%2FeR6onVAV6LkLKjNSsBCSLTPjvBBR2aVppZeRT1Z0l698oIncZp5Csi62PYIKhN7ZTA%2BTjaYzU9yKquIUz3Q%2Fd3DrP64RxtNH0%2FLrnN0Gw21mSjyHDJPlfzp%2Bk2b9Vrl1fDKysc%2Fg6DeGbTVQ%3D%7Ctkp%3ABk9SR5aV9aXHZw&LH_ItemCondition=1000",
+          "rating": 5,
+          "reviews": 3,
+          "site": "eBay"
+        },
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 569.99,
+          "price_egp": 30289.27,
+          "product": "PlayStation 5 Digital Console Slim - 825GB",
+          "product_url": "https://www.walmart.com/ip/PlayStation-5-Digital-Console-Slim/17852302051?classType=REGULAR&athbdg=L1103",
+          "rating": 4.6,
+          "reviews": 13220,
+          "site": "Walmart"
+        },
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 34000,
+          "price_egp": 34000,
+          "product": "PlayStation 5 Slim Console (International Version) Digital Edition With Controll",
+          "product_url": "https://www.noon.com/egypt-en/playstation-5-slim-console-international-version-digital-edition-with-controller",
+          "rating": 0,
+          "reviews": 2893,
+          "site": "Noon"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 61999,
+          "price_egp": 61999,
+          "product": "Sony Sony PlayStation 5 Pro, 2TB SSD with Wireless Controller - White",
+          "product_url": "https://www.jumia.com.eg/sony-sony-playstation-5-pro-2tb-ssd-with-wireless-controller-white-131954893.html",
+          "rating": 5,
+          "reviews": 2,
+          "site": "Jumia"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 32756.47,
+        "best_price": 8799,
+        "best_site": "Amazon",
+        "total_sites": 5,
+        "worst_price": 61999,
+        "worst_site": "Jumia"
+      }
+    }
+  ]
+}
