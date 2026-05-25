@@ -1,6 +1,267 @@
 {
   "matthew": [
     {
+      "id": "67e6755b-85fc-48fd-8281-eb08bb89cad2",
+      "query": "iPhone 17 Pro Max",
+      "timestamp": "2026-05-25T13:40:47.686018",
+      "results": [
+        {
+          "color": "#86B817",
+          "currency": "USD",
+          "price": 750,
+          "price_egp": 39712.5,
+          "product": "Apple iPhone 17 Pro Max 512GB Orange Smartphone USB-C",
+          "product_url": "https://www.ebay.com/itm/366429609372?_skw=iPhone+17+Pro+Max&epid=4085693753&itmmeta=01KSFBHMP8GA7YT7B6PPSBPF3K&hash=item5550e81d9c%3Ag%3AlGkAAeSwNBlqD4z3&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBr1Lrphzl8iP3UUYhFdRcy4HknZgnwChx9NMh8QYT6rIgL%2FrD03YW2%2BSfZzPxL6ua8e9yBqzfHLOo8ut0%2FhLJbKCNY3FWzEBHjstmmyFZ%2F2Og1WlcAXTCxN8zB3O8YAmWKNwAVDH2IM9cPuoK%2FzXkjqNZG4lvP%2BDmvYWJ3tBfofTBL2ODK%2FlAxSTdQhpm7KMM%2FBCWgfe32SO9mtKIxDWKmYXCdmooIkDx%2BqRaTsmZQP7M5quZ6D2a1mJjAbvb%2B0FpLoC9%2B6elDDdFfG%2BpNjh43BP6%2Fp4xiZn8m%2FvWjhKakQQ%3D%3D%7Ctkp%3ABFBMqMvG68tn&LH_ItemCondition=1000",
+          "rating": 5,
+          "reviews": 1,
+          "site": "eBay"
+        },
+        {
+          "color": "#0071CE",
+          "currency": "USD",
+          "price": 1399,
+          "price_egp": 74077.05,
+          "product": "Straight Talk Apple iPhone 17 Pro Max, 5G, 512GB, Silver - Prepaid Smartphone [L",
+          "product_url": "https://www.walmart.com/ip/Straight-Talk-iPhone-17-Pro-Max-512GB-Prepaid-Smartphone-Silver/17806501133?classType=VARIANT&athbdg=L1103",
+          "rating": 4.4,
+          "reviews": 159,
+          "site": "Walmart"
+        },
+        {
+          "color": "#FF9900",
+          "currency": "EGP",
+          "price": 79000,
+          "price_egp": 79000,
+          "product": "\u0627\u0628\u0644 \u0622\u064a\u0641\u0648\u0646 Air (256 \u062c\u064a\u062c\u0627\u0628\u0627\u064a\u062a) - \u0623\u0633\u0648\u062f \u0641\u0636\u0627\u0626\u064a \u0645\u0639 \u062e\u0627\u0635\u064a\u0629 Face ID | \u0645\u062f\u0641\u0648\u0639 \u0627\u0644\u0636\u0631\u064a\u0628\u0629 | \u0636\u0645\u0627",
+          "product_url": "https://www.amazon.eg/%D8%A7%D8%A8%D9%84-%D8%A2%D9%8A%D9%81%D9%88%D9%86-Air-256-%D8%AC%D9%8A%D8%AC%D8%A7%D8%A8%D8%A7%D9%8A%D8%AA/dp/B0FQFL5H5B/ref=sr_1_8?dib=eyJ2IjoiMSJ9.gtgflsyrn_AK2FRrtv7wJPcqUpUtFNBYH2-KT5CvuduHg59KBDwXJevVeqrizCCuZJdF0smgaqG6o8fcFNhTG28sZ9HnyWT3IRNEOQZkG8QdzuUSTneze-gKFeemOTDAReDpXdF-uhk9MmrWNLe-Ynisq-pDLVAW21epoczNw54n0nKIbN7XkRlBkXU0d3IO1EnR1CCKIu_JcTLow_k9W0OOXHCg08DRx_1hSVLs9wHNEJz-_B3PE1ANCp-42EjJjvUBUtaurR6442nLhWbksQoiNt27agvggGagC9ZnLls.5ABY-TnGXmb51GbF8Twi6Ubd6XxknJvT7HRip2CojVo&dib_tag=se&keywords=iPhone+17+Pro+Max&qid=1779705624&sr=8-8",
+          "rating": 3.7,
+          "reviews": 11,
+          "site": "Amazon"
+        },
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 99610.6,
+          "price_egp": 99610.6,
+          "product": "iPhone 17 Pro 256 GB Silver 5G (eSim only) With FaceTime - International Version",
+          "product_url": "https://www.noon.com/egypt-en/iphone-17-pro-256-gb-silver-5g-esim-only-with-facetime-international-version",
+          "rating": 0,
+          "reviews": 23803,
+          "site": "Noon"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 100950,
+          "price_egp": 100950,
+          "product": "Apple iPhone 17 Pro Max 6.9\" 256GB ROM iOS 26 5G - Cosmic Orange",
+          "product_url": "https://www.jumia.com.eg/apple-iphone-17-pro-max-6.9-256gb-rom-ios-26-5g-cosmic-orange-134276913.html",
+          "rating": 0,
+          "reviews": 0,
+          "site": "Jumia"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 78670.03,
+        "best_price": 39712.5,
+        "best_site": "eBay",
+        "total_sites": 5,
+        "worst_price": 100950,
+        "worst_site": "Jumia"
+      }
+    },
+    {
+      "id": "9a6b112d-7ba4-43a6-850e-bd95ec591d1b",
+      "query": "iPhone 17 Pro Max",
+      "timestamp": "2026-05-25T13:32:37.392724",
+      "results": [
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 99610.6,
+          "price_egp": 99610.6,
+          "product": "iPhone 17 Pro 256 GB Silver 5G (eSim only) With FaceTime - International Version",
+          "product_url": "https://www.noon.com/egypt-en/iphone-17-pro-256-gb-silver-5g-esim-only-with-facetime-international-version",
+          "rating": 0,
+          "reviews": 23803,
+          "site": "Noon"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 100950,
+          "price_egp": 100950,
+          "product": "Apple iPhone 17 Pro Max 6.9\" 256GB ROM iOS 26 5G - Cosmic Orange",
+          "product_url": "https://www.jumia.com.eg/apple-iphone-17-pro-max-6.9-256gb-rom-ios-26-5g-cosmic-orange-134276913.html",
+          "rating": 0,
+          "reviews": 0,
+          "site": "Jumia"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 100280.3,
+        "best_price": 99610.6,
+        "best_site": "Noon",
+        "total_sites": 2,
+        "worst_price": 100950,
+        "worst_site": "Jumia"
+      }
+    },
+    {
+      "id": "acc5554b-1624-4a29-9d0b-6b45b7cde858",
+      "query": "iPhone 17 Pro Max",
+      "timestamp": "2026-05-25T13:17:06.068342",
+      "results": [
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 99610.6,
+          "price_egp": 99610.6,
+          "product": "iPhone 17 Pro 256 GB Silver 5G (eSim only) With FaceTime - International Version",
+          "product_url": "https://www.noon.com/egypt-en/iphone-17-pro-256-gb-silver-5g-esim-only-with-facetime-international-version",
+          "rating": 0,
+          "reviews": 23803,
+          "site": "Noon"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 100950,
+          "price_egp": 100950,
+          "product": "Apple iPhone 17 Pro Max 6.9\" 256GB ROM iOS 26 5G - Cosmic Orange",
+          "product_url": "https://www.jumia.com.eg/apple-iphone-17-pro-max-6.9-256gb-rom-ios-26-5g-cosmic-orange-134276913.html",
+          "rating": 0,
+          "reviews": 0,
+          "site": "Jumia"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 100280.3,
+        "best_price": 99610.6,
+        "best_site": "Noon",
+        "total_sites": 2,
+        "worst_price": 100950,
+        "worst_site": "Jumia"
+      }
+    },
+    {
+      "id": "6eaa45b1-9e27-4c4a-a0ba-10d9c31ff3cd",
+      "query": "Samsung Galaxy S25",
+      "timestamp": "2026-05-24T15:48:16.554102",
+      "results": [
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 36590,
+          "price_egp": 36590,
+          "product": "Galaxy S25 FE AI Dual SIM 5G Icyblue 8GB RAM 256GB - Middle East Version",
+          "product_url": "https://www.noon.com/egypt-en/galaxy-s25-fe-ai-dual-sim-5g-icyblue-8gb-ram-256gb-middle-east-version",
+          "rating": 0,
+          "reviews": 821,
+          "site": "Noon"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 69444,
+          "price_egp": 69444,
+          "product": "Samsung Galaxy S25 Ultra Dual SIM 5G - 256GB/12GB - 6.9 Inch Mobile Phone Titani",
+          "product_url": "https://www.jumia.com.eg/samsung-galaxy-s25-ultra-dual-sim-5g-256gb12gb-6.9-inch-mobile-phone-titanium-black-130163157.html",
+          "rating": 0,
+          "reviews": 0,
+          "site": "Jumia"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 53017,
+        "best_price": 36590,
+        "best_site": "Noon",
+        "total_sites": 2,
+        "worst_price": 69444,
+        "worst_site": "Jumia"
+      }
+    },
+    {
+      "id": "11667f40-ab8e-41d4-b54e-b4d52ecffb20",
+      "query": "playstation 5",
+      "timestamp": "2026-05-24T15:45:45.177247",
+      "results": [
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 34720,
+          "price_egp": 34720,
+          "product": "PlayStation 5 Slim Console (International Version) Digital Edition With Controll",
+          "product_url": "https://www.noon.com/egypt-en/playstation-5-slim-console-international-version-digital-edition-with-controller",
+          "rating": 0,
+          "reviews": 2901,
+          "site": "Noon"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 61999,
+          "price_egp": 61999,
+          "product": "Sony Sony PlayStation 5 Pro, 2TB SSD with Wireless Controller - White",
+          "product_url": "https://www.jumia.com.eg/sony-sony-playstation-5-pro-2tb-ssd-with-wireless-controller-white-131954893.html",
+          "rating": 5,
+          "reviews": 2,
+          "site": "Jumia"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 48359.5,
+        "best_price": 34720,
+        "best_site": "Noon",
+        "total_sites": 2,
+        "worst_price": 61999,
+        "worst_site": "Jumia"
+      }
+    },
+    {
+      "id": "12a5c39c-97a4-45cf-84a2-652ec04f329b",
+      "query": "iPhone 17 Pro Max",
+      "timestamp": "2026-05-24T15:44:14.208452",
+      "results": [
+        {
+          "color": "#FECC00",
+          "currency": "EGP",
+          "price": 100888,
+          "price_egp": 100888,
+          "product": "iPhone 17 Pro Max 256GB Cosmic Orange 5G (Nano SIM + eSIM) With FaceTime - Inter",
+          "product_url": "https://www.noon.com/egypt-en/iphone-17-pro-max-256gb-cosmic-orange-5g-nano-sim-esim-with-facetime-international-version",
+          "rating": 0,
+          "reviews": 23726,
+          "site": "Noon"
+        },
+        {
+          "color": "#E83030",
+          "currency": "EGP",
+          "price": 104469,
+          "price_egp": 104469,
+          "product": "Apple iPhone 17 Pro Max 256GB Cosmic Orange",
+          "product_url": "https://www.jumia.com.eg/apple-iphone-17-pro-max-256gb-cosmic-orange-134004666.html",
+          "rating": 0,
+          "reviews": 0,
+          "site": "Jumia"
+        }
+      ],
+      "chart_data": {},
+      "summary": {
+        "avg_price": 102678.5,
+        "best_price": 100888,
+        "best_site": "Noon",
+        "total_sites": 2,
+        "worst_price": 104469,
+        "worst_site": "Jumia"
+      }
+    },
+    {
       "id": "6fe38b3e-dbe4-406b-a9e6-16c991566bbb",
       "query": "RTX 5090",
       "timestamp": "2026-05-18T12:13:21.978388",
@@ -2858,522 +3119,6 @@
         "total_sites": 7,
         "worst_price": 92262.1,
         "worst_site": "Newegg"
-      }
-    },
-    {
-      "id": "66f64f20-bc0a-43e4-b5e3-38ba48e9b167",
-      "query": "iphone 13",
-      "timestamp": "2026-05-04T02:23:19.098883",
-      "results": [
-        {
-          "color": "#FF9900",
-          "currency": "EGP",
-          "price": 14560.51,
-          "price_egp": 14560.51,
-          "product": "iphone 13 \u2014 Amazon Listing",
-          "rating": 3.8,
-          "reviews": 4245,
-          "site": "Amazon"
-        },
-        {
-          "color": "#0046BE",
-          "currency": "USD",
-          "price": 375.5,
-          "price_egp": 18399.5,
-          "product": "iphone 13 \u2014 BestBuy Listing",
-          "rating": 4.1,
-          "reviews": 5919,
-          "site": "BestBuy"
-        },
-        {
-          "color": "#FECC00",
-          "currency": "EGP",
-          "price": 29429.17,
-          "price_egp": 29429.17,
-          "product": "iphone 13 \u2014 Noon Listing",
-          "rating": 4.3,
-          "reviews": 8907,
-          "site": "Noon"
-        },
-        {
-          "color": "#E83030",
-          "currency": "EGP",
-          "price": 31499.64,
-          "price_egp": 31499.64,
-          "product": "iphone 13 \u2014 Jumia Listing",
-          "rating": 4.5,
-          "reviews": 2641,
-          "site": "Jumia"
-        },
-        {
-          "color": "#86B817",
-          "currency": "USD",
-          "price": 865.35,
-          "price_egp": 42402.15,
-          "product": "iphone 13 \u2014 eBay Listing",
-          "rating": 4.4,
-          "reviews": 4473,
-          "site": "eBay"
-        },
-        {
-          "color": "#0071CE",
-          "currency": "USD",
-          "price": 1429.86,
-          "price_egp": 70063.14,
-          "product": "iphone 13 \u2014 Walmart Listing",
-          "rating": 4.1,
-          "reviews": 2355,
-          "site": "Walmart"
-        },
-        {
-          "color": "#FF6600",
-          "currency": "USD",
-          "price": 1473.24,
-          "price_egp": 72188.76,
-          "product": "iphone 13 \u2014 Newegg Listing",
-          "rating": 3.8,
-          "reviews": 8080,
-          "site": "Newegg"
-        }
-      ],
-      "chart_data": {},
-      "summary": {
-        "avg_price": 39791.84,
-        "best_price": 14560.51,
-        "best_site": "Amazon",
-        "total_sites": 7,
-        "worst_price": 72188.76,
-        "worst_site": "Newegg"
-      }
-    },
-    {
-      "id": "7cd7a2a4-636c-495d-9f74-e4b36ac46999",
-      "query": "iphone 15",
-      "timestamp": "2026-05-04T02:23:07.328948",
-      "results": [
-        {
-          "color": "#0071CE",
-          "currency": "USD",
-          "price": 414.45,
-          "price_egp": 20308.05,
-          "product": "iphone 15 \u2014 Walmart Listing",
-          "rating": 5,
-          "reviews": 11210,
-          "site": "Walmart"
-        },
-        {
-          "color": "#FF6600",
-          "currency": "USD",
-          "price": 483.65,
-          "price_egp": 23698.85,
-          "product": "iphone 15 \u2014 Newegg Listing",
-          "rating": 4.1,
-          "reviews": 8895,
-          "site": "Newegg"
-        },
-        {
-          "color": "#FECC00",
-          "currency": "EGP",
-          "price": 51821.95,
-          "price_egp": 51821.95,
-          "product": "iphone 15 \u2014 Noon Listing",
-          "rating": 4.6,
-          "reviews": 10335,
-          "site": "Noon"
-        },
-        {
-          "color": "#86B817",
-          "currency": "USD",
-          "price": 1264.34,
-          "price_egp": 61952.66,
-          "product": "iphone 15 \u2014 eBay Listing",
-          "rating": 3.6,
-          "reviews": 5651,
-          "site": "eBay"
-        },
-        {
-          "color": "#0046BE",
-          "currency": "USD",
-          "price": 1406.91,
-          "price_egp": 68938.59,
-          "product": "iphone 15 \u2014 BestBuy Listing",
-          "rating": 4.5,
-          "reviews": 10659,
-          "site": "BestBuy"
-        },
-        {
-          "color": "#E83030",
-          "currency": "EGP",
-          "price": 79978.38,
-          "price_egp": 79978.38,
-          "product": "iphone 15 \u2014 Jumia Listing",
-          "rating": 3.8,
-          "reviews": 3613,
-          "site": "Jumia"
-        },
-        {
-          "color": "#FF9900",
-          "currency": "EGP",
-          "price": 80620.35,
-          "price_egp": 80620.35,
-          "product": "iphone 15 \u2014 Amazon Listing",
-          "rating": 3.3,
-          "reviews": 1295,
-          "site": "Amazon"
-        }
-      ],
-      "chart_data": {},
-      "summary": {
-        "avg_price": 55331.26,
-        "best_price": 20308.05,
-        "best_site": "Walmart",
-        "total_sites": 7,
-        "worst_price": 80620.35,
-        "worst_site": "Amazon"
-      }
-    },
-    {
-      "id": "81a6320e-9959-4a4e-9687-1f02d1963093",
-      "query": "iPhone 17 Pro Max",
-      "timestamp": "2026-05-04T02:21:47.506950",
-      "results": [
-        {
-          "color": "#FECC00",
-          "currency": "EGP",
-          "price": 8610.01,
-          "price_egp": 8610.01,
-          "product": "iPhone 17 Pro Max \u2014 Noon Listing",
-          "rating": 4.8,
-          "reviews": 618,
-          "site": "Noon"
-        },
-        {
-          "color": "#E83030",
-          "currency": "EGP",
-          "price": 15272.71,
-          "price_egp": 15272.71,
-          "product": "iPhone 17 Pro Max \u2014 Jumia Listing",
-          "rating": 4.2,
-          "reviews": 7721,
-          "site": "Jumia"
-        },
-        {
-          "color": "#FF6600",
-          "currency": "USD",
-          "price": 324.31,
-          "price_egp": 15891.19,
-          "product": "iPhone 17 Pro Max \u2014 Newegg Listing",
-          "rating": 4.9,
-          "reviews": 1203,
-          "site": "Newegg"
-        },
-        {
-          "color": "#0046BE",
-          "currency": "USD",
-          "price": 637.58,
-          "price_egp": 31241.42,
-          "product": "iPhone 17 Pro Max \u2014 BestBuy Listing",
-          "rating": 4.8,
-          "reviews": 5564,
-          "site": "BestBuy"
-        },
-        {
-          "color": "#FF9900",
-          "currency": "EGP",
-          "price": 33677.17,
-          "price_egp": 33677.17,
-          "product": "iPhone 17 Pro Max \u2014 Amazon Listing",
-          "rating": 3.3,
-          "reviews": 7901,
-          "site": "Amazon"
-        },
-        {
-          "color": "#0071CE",
-          "currency": "USD",
-          "price": 1003.72,
-          "price_egp": 49182.28,
-          "product": "iPhone 17 Pro Max \u2014 Walmart Listing",
-          "rating": 4.6,
-          "reviews": 10176,
-          "site": "Walmart"
-        },
-        {
-          "color": "#86B817",
-          "currency": "USD",
-          "price": 1124.9,
-          "price_egp": 55120.1,
-          "product": "iPhone 17 Pro Max \u2014 eBay Listing",
-          "rating": 4.6,
-          "reviews": 8762,
-          "site": "eBay"
-        }
-      ],
-      "chart_data": {},
-      "summary": {
-        "avg_price": 29856.41,
-        "best_price": 8610.01,
-        "best_site": "Noon",
-        "total_sites": 7,
-        "worst_price": 55120.1,
-        "worst_site": "eBay"
-      }
-    },
-    {
-      "id": "0dc9868a-ed98-4363-8871-93e302b43b85",
-      "query": "iPhone 17 Pro Max",
-      "timestamp": "2026-05-04T02:18:38.870633",
-      "results": [
-        {
-          "color": "#0071CE",
-          "currency": "USD",
-          "price": 256.18,
-          "price_egp": 12552.82,
-          "product": "iPhone 17 Pro Max \u2014 Walmart Listing",
-          "rating": 4.2,
-          "reviews": 10450,
-          "site": "Walmart"
-        },
-        {
-          "color": "#86B817",
-          "currency": "USD",
-          "price": 445.21,
-          "price_egp": 21815.29,
-          "product": "iPhone 17 Pro Max \u2014 eBay Listing",
-          "rating": 4.4,
-          "reviews": 11878,
-          "site": "eBay"
-        },
-        {
-          "color": "#FECC00",
-          "currency": "EGP",
-          "price": 37129.21,
-          "price_egp": 37129.21,
-          "product": "iPhone 17 Pro Max \u2014 Noon Listing",
-          "rating": 3.3,
-          "reviews": 8861,
-          "site": "Noon"
-        },
-        {
-          "color": "#FF6600",
-          "currency": "USD",
-          "price": 1006.59,
-          "price_egp": 49322.91,
-          "product": "iPhone 17 Pro Max \u2014 Newegg Listing",
-          "rating": 4.3,
-          "reviews": 7213,
-          "site": "Newegg"
-        },
-        {
-          "color": "#FF9900",
-          "currency": "EGP",
-          "price": 58423.68,
-          "price_egp": 58423.68,
-          "product": "iPhone 17 Pro Max \u2014 Amazon Listing",
-          "rating": 4.6,
-          "reviews": 6202,
-          "site": "Amazon"
-        },
-        {
-          "color": "#E83030",
-          "currency": "EGP",
-          "price": 68307.9,
-          "price_egp": 68307.9,
-          "product": "iPhone 17 Pro Max \u2014 Jumia Listing",
-          "rating": 4.4,
-          "reviews": 5621,
-          "site": "Jumia"
-        },
-        {
-          "color": "#0046BE",
-          "currency": "USD",
-          "price": 1400.75,
-          "price_egp": 68636.75,
-          "product": "iPhone 17 Pro Max \u2014 BestBuy Listing",
-          "rating": 4.5,
-          "reviews": 5282,
-          "site": "BestBuy"
-        }
-      ],
-      "chart_data": {},
-      "summary": {
-        "avg_price": 45169.79,
-        "best_price": 12552.82,
-        "best_site": "Walmart",
-        "total_sites": 7,
-        "worst_price": 68636.75,
-        "worst_site": "BestBuy"
-      }
-    },
-    {
-      "id": "48b8bbac-5f12-4249-ba8e-fd0375e9d351",
-      "query": "iPhone 17 Pro Max",
-      "timestamp": "2026-05-04T01:58:58.330935",
-      "results": [
-        {
-          "color": "#FF9900",
-          "currency": "EGP",
-          "price": 18255.64,
-          "price_egp": 18255.64,
-          "product": "iPhone 17 Pro Max \u2014 Amazon Listing",
-          "rating": 3.9,
-          "reviews": 5635,
-          "site": "Amazon"
-        },
-        {
-          "color": "#0071CE",
-          "currency": "USD",
-          "price": 454.7,
-          "price_egp": 22280.3,
-          "product": "iPhone 17 Pro Max \u2014 Walmart Listing",
-          "rating": 4.8,
-          "reviews": 10792,
-          "site": "Walmart"
-        },
-        {
-          "color": "#E83030",
-          "currency": "EGP",
-          "price": 48410.5,
-          "price_egp": 48410.5,
-          "product": "iPhone 17 Pro Max \u2014 Jumia Listing",
-          "rating": 3.2,
-          "reviews": 7338,
-          "site": "Jumia"
-        },
-        {
-          "color": "#86B817",
-          "currency": "USD",
-          "price": 994.2,
-          "price_egp": 48715.8,
-          "product": "iPhone 17 Pro Max \u2014 eBay Listing",
-          "rating": 4.8,
-          "reviews": 9994,
-          "site": "eBay"
-        },
-        {
-          "color": "#FECC00",
-          "currency": "EGP",
-          "price": 66070.18,
-          "price_egp": 66070.18,
-          "product": "iPhone 17 Pro Max \u2014 Noon Listing",
-          "rating": 4.1,
-          "reviews": 9394,
-          "site": "Noon"
-        },
-        {
-          "color": "#FF6600",
-          "currency": "USD",
-          "price": 1766.71,
-          "price_egp": 86568.79,
-          "product": "iPhone 17 Pro Max \u2014 Newegg Listing",
-          "rating": 3.7,
-          "reviews": 5673,
-          "site": "Newegg"
-        },
-        {
-          "color": "#0046BE",
-          "currency": "USD",
-          "price": 1880.96,
-          "price_egp": 92167.04,
-          "product": "iPhone 17 Pro Max \u2014 BestBuy Listing",
-          "rating": 4.5,
-          "reviews": 4958,
-          "site": "BestBuy"
-        }
-      ],
-      "chart_data": {},
-      "summary": {
-        "avg_price": 54638.32,
-        "best_price": 18255.64,
-        "best_site": "Amazon",
-        "total_sites": 7,
-        "worst_price": 92167.04,
-        "worst_site": "BestBuy"
-      }
-    },
-    {
-      "id": "f8fb704f-126d-456b-b0ec-7be617361d04",
-      "query": "iphone 13",
-      "timestamp": "2026-05-04T00:05:21.345263",
-      "results": [
-        {
-          "color": "#FF9900",
-          "currency": "EGP",
-          "price": 15963.01,
-          "price_egp": 15963.01,
-          "product": "iphone 13 \u2014 Amazon Listing",
-          "rating": 3.2,
-          "reviews": 5885,
-          "site": "Amazon"
-        },
-        {
-          "color": "#0046BE",
-          "currency": "USD",
-          "price": 451.96,
-          "price_egp": 22146.04,
-          "product": "iphone 13 \u2014 BestBuy Listing",
-          "rating": 5,
-          "reviews": 10683,
-          "site": "BestBuy"
-        },
-        {
-          "color": "#FF6600",
-          "currency": "USD",
-          "price": 752.36,
-          "price_egp": 36865.64,
-          "product": "iphone 13 \u2014 Newegg Listing",
-          "rating": 4.9,
-          "reviews": 3283,
-          "site": "Newegg"
-        },
-        {
-          "color": "#FECC00",
-          "currency": "EGP",
-          "price": 52507.31,
-          "price_egp": 52507.31,
-          "product": "iphone 13 \u2014 Noon Listing",
-          "rating": 3.8,
-          "reviews": 2902,
-          "site": "Noon"
-        },
-        {
-          "color": "#E83030",
-          "currency": "EGP",
-          "price": 74625.84,
-          "price_egp": 74625.84,
-          "product": "iphone 13 \u2014 Jumia Listing",
-          "rating": 3.6,
-          "reviews": 6795,
-          "site": "Jumia"
-        },
-        {
-          "color": "#0071CE",
-          "currency": "USD",
-          "price": 1666.13,
-          "price_egp": 81640.37,
-          "product": "iphone 13 \u2014 Walmart Listing",
-          "rating": 4.3,
-          "reviews": 4392,
-          "site": "Walmart"
-        },
-        {
-          "color": "#86B817",
-          "currency": "USD",
-          "price": 1706.83,
-          "price_egp": 83634.67,
-          "product": "iphone 13 \u2014 eBay Listing",
-          "rating": 3.9,
-          "reviews": 672,
-          "site": "eBay"
-        }
-      ],
-      "chart_data": {},
-      "summary": {
-        "avg_price": 52483.27,
-        "best_price": 15963.01,
-        "best_site": "Amazon",
-        "total_sites": 7,
-        "worst_price": 83634.67,
-        "worst_site": "eBay"
       }
     }
   ],

@@ -5,10 +5,7 @@ ebay_scraper.py — eBay via SerpAPI
 import os
 import re
 import requests
-from dotenv import load_dotenv
 from scrapers.scraper_utils import _is_relevant, is_price_sane, is_junk_listing
-
-load_dotenv()
 
 MAX_CANDIDATES = 5
 _SERPAPI_KEY = os.getenv("SERPAPI_KEY", "")

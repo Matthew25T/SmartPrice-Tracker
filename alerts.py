@@ -1,30 +1,30 @@
 """
 Alert system: Telegram and Email for lowest price / price drop.
-Added dynamic recipient for email.
 """
 import logging
+import os
 import smtplib
 import requests
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
+from dotenv import load_dotenv
+
+load_dotenv()
 
 logger = logging.getLogger(__name__)
 
-# ========== CONFIGURATION (edit these) ==========
-TELEGRAM_BOT_TOKEN = "8713540534:AAHpM_rQUgHDwx7iqI4kYoIy0y858YFHsiY"   # Get from @BotFather
-TELEGRAM_CHAT_ID = "1926979947"       # Your Telegram user/group ID
+TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "")
+TELEGRAM_CHAT_ID   = os.getenv("TELEGRAM_CHAT_ID", "")
+EMAIL_SENDER       = os.getenv("EMAIL_SENDER", "")
+EMAIL_PASSWORD     = os.getenv("EMAIL_PASSWORD", "")
+SMTP_SERVER        = "smtp.gmail.com"
+SMTP_PORT          = 587
 
-EMAIL_SENDER = "s-omar.hasan@zewailcity.edu.eg"
-EMAIL_PASSWORD = "zpaolawixdekyjah"    # Gmail app password
-# EMAIL_RECIPIENT is no longer used directly; we pass recipient dynamically
-SMTP_SERVER = "smtp.gmail.com"
-SMTP_PORT = 587
-# ================================================
 
 def send_telegram(message: str):
     """Send message via Telegram bot."""
-    if TELEGRAM_BOT_TOKEN == "YOUR_BOT_TOKEN":
-        logger.warning("Telegram not configured. Set TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID")
+    if not TELEGRAM_BOT_TOKEN:
+        logger.warning("Telegram not configured. Set TELEGRAM_BOT_TOKEN in .env")
         return
     url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
     payload = {"chat_id": TELEGRAM_CHAT_ID, "text": message, "parse_mode": "HTML"}
@@ -35,16 +35,14 @@ def send_telegram(message: str):
     except Exception as e:
         logger.error(f"Telegram send failed: {e}")
 
+
 def send_email(subject: str, body: str, recipient: str = None):
-    """
-    Send email via SMTP.
-    If recipient is None, a default warning is issued.
-    """
+    """Send email via SMTP. recipient must be provided."""
     if not recipient:
         logger.warning("No recipient provided. Email not sent.")
         return False
-    if EMAIL_SENDER == "your_email@gmail.com":
-        logger.warning("Email not configured. Set EMAIL_SENDER and EMAIL_PASSWORD.")
+    if not EMAIL_SENDER:
+        logger.warning("Email not configured. Set EMAIL_SENDER and EMAIL_PASSWORD in .env")
         return False
 
     msg = MIMEMultipart()
@@ -63,16 +61,20 @@ def send_email(subject: str, body: str, recipient: str = None):
         logger.error(f"Email send failed: {e}")
         return False
 
-def send_alert(product_name: str, site: str, price_egp: float, old_price_egp: float = None, is_new_lowest: bool = False):
+
+def send_alert(product_name: str, site: str, price_egp: float,
+               old_price_egp: float = None, is_new_lowest: bool = False):
     """Send alerts for best price or significant drop (>10%)."""
     subject = f"💰 Price Alert: {product_name}"
     if is_new_lowest:
-        body = f"🏆 NEW LOWEST PRICE!\nSite: {site}\nPrice: {price_egp:.2f} EGP\nProduct: {product_name}"
-    elif old_price_egp and old_price_egp * 0.9 > price_egp:  # drop >10%
+        body = (f"🏆 NEW LOWEST PRICE!\nSite: {site}\n"
+                f"Price: {price_egp:.2f} EGP\nProduct: {product_name}")
+    elif old_price_egp and old_price_egp * 0.9 > price_egp:
         drop_percent = (1 - price_egp / old_price_egp) * 100
-        body = f"📉 Price dropped {drop_percent:.1f}%!\nSite: {site}\nOld: {old_price_egp:.2f} EGP\nNew: {price_egp:.2f} EGP\nProduct: {product_name}"
+        body = (f"📉 Price dropped {drop_percent:.1f}%!\nSite: {site}\n"
+                f"Old: {old_price_egp:.2f} EGP\nNew: {price_egp:.2f} EGP\n"
+                f"Product: {product_name}")
     else:
         return  # no alert needed
 
     send_telegram(body)
-    # No default email recipient anymore – we send only when user requests.

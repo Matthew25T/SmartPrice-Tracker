@@ -5,10 +5,10 @@ amazon_scraper.py — Amazon via SerpAPI (no Selenium needed)
 import os
 import re
 import requests
-from dotenv import load_dotenv
+from dotenv import load_dotenv, find_dotenv
 from scrapers.scraper_utils import is_junk_listing
 
-load_dotenv()
+load_dotenv(find_dotenv())
 
 MAX_CANDIDATES = 5
 _SERPAPI_KEY = os.getenv("SERPAPI_KEY", "")

@@ -3,13 +3,15 @@ PriceScout Backend API — Flask
 Handles auth, search history, scraping, and email sending.
 Telegram bot auto-starts when this file is run.
 """
-import sys
 import os
+from dotenv import load_dotenv, find_dotenv
+
+load_dotenv(find_dotenv())
+import sys
 
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from setuptools._distutils.version import LooseVersion
 
-from dotenv import load_dotenv
-load_dotenv()
 
 import undetected_chromedriver as uc
 import time
