@@ -1,4 +1,4 @@
-🛒 SmartPrice-Tracker
+**🛒 SmartPrice-Tracker**
 https://img.shields.io/badge/Python-3.10%252B-3776AB?logo=python&logoColor=white
 https://img.shields.io/badge/React-18.2-61DAFB?logo=react&logoColor=white
 https://img.shields.io/badge/Flask-2.3-000000?logo=flask&logoColor=white
@@ -9,7 +9,7 @@ Real‑time price intelligence across 5 major e‑commerce platforms —
 An academic project by first‑year students at Zewail City of Science, Technology and Innovation
 (School of Computational Sciences and Artificial Intelligence | AI & Data Science)
 
-#📖 Overview
+**📖 Overview**
 SmartPrice-Tracker is a full‑stack price comparison and analytics dashboard. It scrapes live product data from Amazon, Jumia, Noon, eBay, and Walmart, normalizes prices (USD → EGP), and presents the results in a modern React dashboard.
 
 The system provides:
@@ -26,7 +26,7 @@ The system provides:
 
 Built as a first‑year group project, it demonstrates modular design, hybrid scraping strategies (Requests/BeautifulSoup + SerpAPI + headless browser fallbacks), and a clean separation between backend API and frontend SPA.
 
-##✨ Features
+**✨ Features**
 Feature	Description
 Multi‑site scraping	Amazon (SerpAPI), Jumia (Requests + Selenium fallback), Noon (API + Selenium), eBay (SerpAPI), Walmart (SerpAPI)
 Currency normalisation	Live USD → EGP exchange rate (with fallback)
@@ -37,39 +37,27 @@ Telegram bot	/search, /best, /history, /send_email, /login, /register
 Email reports	Send a formatted HTML table of results to any email address
 CLI dashboard	Quick terminal‑based summary (best/worst/average price)
 Modular scrapers	Each platform in its own file with shared validation logic
-🧱 Tech Stack
+
+**🧱 Tech Stack**
 Backend & Scraping
 Python 3.10+ – core logic
-
 Flask – REST API + JWT authentication
-
 Undetected ChromeDriver – headless browser for Jumia/Noon fallbacks
-
 Requests + BeautifulSoup – HTML parsing
-
 SerpAPI – reliable scraping for Amazon, eBay, Walmart
-
 Plotly, Matplotlib, NetworkX – visualisation generation
-
 python‑dotenv – environment configuration
-
 Frontend
 React 18 – component‑based UI
-
 Vite – fast builds & HMR
-
 React Router DOM – client‑side routing
-
 Framer Motion – smooth animations
-
 Recharts – responsive charts
-
 Lucide React – icon set
-
 Database (lightweight)
 JSON file storage – users.json, history.json, price_history.json
 
-###🚀 Installation & Setup
+**🚀 Installation & Setup**
 1. Clone the repository
 bash
 git clone https://github.com/yourusername/SmartPrice-Tracker.git
@@ -112,7 +100,7 @@ EMAIL_PASSWORD=your_app_password
 5. Directory structure (ensure these exist)
 The backend will automatically create data/ and data/charts/ folders.
 
-####🖥️ Usage
+**🖥️ Usage**
 Start the backend (Flask API)
 From the backend directory (where app.py is located):
 
@@ -154,7 +142,7 @@ bash
 python main.py
 This will ask for authentication, then a product name, and output a formatted table + save CSV + generate charts in the current folder.
 
-##### 📁 Project Structure (simplified)
+**📁 Project Structure (simplified)**
 
 ```text
 SmartPrice-Tracker/
@@ -190,24 +178,24 @@ SmartPrice-Tracker/
     └── package.json
 ```
 
-######👥 Contributors & Academic Credit
+**👥 Contributors & Academic Credit**
 This project was developed as a 1st‑year academic project at:
 
 Zewail City of Science, Technology and Innovation
 School of Computational Sciences and Artificial Intelligence
 Specialisation: Artificial Intelligence & Data Science
 
-###Author Roles
+*Author Roles*
 **Matthew Alber William Hakeem : Full stack developer & Co-Author**
 **Omar Mohmed Hassan : Full stack developer & Co-Author**
 **Supervised by the faculty of the AI & Data Science program.**
 
--📌 The project demonstrates proficiency in full‑stack development, web scraping, data normalisation, and interactive analytics – all within a collaborative academic environment.
+**-📌 The project demonstrates proficiency in full‑stack development, web scraping, data normalisation, and interactive analytics – all within a collaborative academic environment.**
 
--📜 License
+**-📜 License**
 This project is licensed under the MIT License – feel free to use, modify, and distribute with attribution.
 
--🙌 Acknowledgments
+**-🙌 Acknowledgments**
 SerpAPI for reliable search result APIs
 
 Undetected ChromeDriver for stealth browsing
